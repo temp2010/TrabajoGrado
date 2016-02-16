@@ -1,0 +1,245 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {spanish}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{I\hspace {1em}Contextualizaci\IeC {\'o}n}{1}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Descripci\IeC {\'o}n del proyecto}{3}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Definici\IeC {\'o}n del problema}{4}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Formulaci\IeC {\'o}n del problema}{4}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Objetivos}{4}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Objetivo General}{4}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Objetivos Espec\IeC {\'\i }ficos}{4}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Alcance}{4}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Presentaci\IeC {\'o}n de la organizaci\IeC {\'o}n}{5}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Filosof\IeC {\'\i }a Organizacional}{6}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Misi\IeC {\'o}n}{6}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Visi\IeC {\'o}n}{6}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Objetivos estrat\IeC {\'e}gicos}{6}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.4}Principios}{6}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.5}Valores}{7}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Estructura Organizacional}{7}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Mapa de Procesos}{7}{section*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Metodolog\IeC {\'\i }a y Cronograma de trabajo}{9}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Metodolog\IeC {\'\i }a SCRUM}{10}{section*.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Visi\IeC {\'o}n General}{10}{section*.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Teor\IeC {\'\i }a de Scrum}{11}{section*.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}Eventos de Scrum}{12}{section*.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{El Sprint}{12}{subsubsection*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Revisi\IeC {\'o}n de Sprint}{12}{subsubsection*.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Retrospectiva de Sprint}{13}{subsubsection*.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.4}El equipo Scrum}{13}{section*.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{El Due\IeC {\~n}o de Producto}{13}{subsubsection*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{El Equipo de Desarrollo}{13}{subsubsection*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{El Scrum Master}{14}{subsubsection*.34}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Cronograma}{14}{section*.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Arquitectura Empresarial}{15}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Arquitectura empresarial}{16}{section*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Componentes de una Arquitectura Empresarial}{17}{section*.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Arquitectura de negocio}{17}{section*.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Arquitectura de informaci\IeC {\'o}n}{17}{section*.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Arquitectura de sistemas de informaci\IeC {\'o}n o aplicaciones}{18}{section*.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4}Arquitectura tecnol\IeC {\'o}gica}{18}{section*.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Framework y Modelado}{19}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}The Open Group}{20}{section*.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}TOGAF}{20}{section*.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}\IeC {\textquestiondown }Qu\IeC {\'e} es Arquitectura para TOGAF?}{21}{section*.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Arquitectura soportada por TOGAF}{21}{section*.49}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}M\IeC {\'e}todo de desarrollo de la Arquitectura (ADM)}{21}{section*.51}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Fases del ADM}{22}{subsubsection*.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Archimate 2.1}{25}{section*.55}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Versiones}{25}{section*.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Conceptos centrales}{26}{section*.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.3}Colaboraci\IeC {\'o}n e interacci\IeC {\'o}n}{28}{section*.60}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.4}Relaciones}{29}{section*.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.5}Capas}{29}{section*.63}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.6}Marco de referencia}{29}{section*.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.7}Motivaci\IeC {\'o}n}{30}{section*.66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.8}Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n}{32}{section*.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.9}Archimate: Su relaci\IeC {\'o}n con TOGAF}{32}{section*.70}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Patrones}{35}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Programaci\IeC {\'o}n Orientada a objetos}{36}{section*.73}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Patrones de software}{36}{section*.74}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Definiciones}{37}{section*.75}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}Clases de patrones software}{37}{section*.76}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Patrones de Dise\IeC {\~n}o}{38}{section*.77}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.1}Clasificaci\IeC {\'o}n de los patrones de dise\IeC {\~n}o}{38}{section*.78}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Fundamentales}{38}{subsubsection*.79}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Creaci\IeC {\'o}n}{39}{subsubsection*.80}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Partici\IeC {\'o}n}{39}{subsubsection*.81}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Estructurales}{39}{subsubsection*.82}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Comportamiento}{39}{subsubsection*.83}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Concurrencia}{39}{subsubsection*.84}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Colosoft}{43}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Descripci\IeC {\'o}n}{44}{section*.88}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{II\hspace {1em}Arquitectura Empresarial}{45}{section*.90}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Modelo de Negocio}{47}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Punto de Vista de la Organizaci\IeC {\'o}n}{48}{section*.92}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1.1}Metamodelo}{48}{section*.95}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1.2}Modelo mInstituto}{49}{section*.97}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Punto de Vista Cooperaci\IeC {\'o}n de Actor}{49}{section*.99}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.1}Metamodelo}{49}{section*.102}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.2}Modelo mInstituto}{50}{section*.104}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.3}Punto de Vista Funci\IeC {\'o}n de Negocio}{50}{section*.106}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3.1}Metamodelo}{52}{section*.109}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3.2}Modelo mInstituto}{52}{section*.111}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.4}Punto de Vista Proceso de Negocio}{53}{section*.113}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4.1}Metamodelo}{53}{section*.116}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4.2}Modelo mInstituto}{54}{section*.118}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.5}Punto de Vista Cooperaci\IeC {\'o}n de Proceso de Negocio}{55}{section*.120}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5.1}Metamodelo}{55}{section*.123}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5.2}Modelo mInstituto}{55}{section*.125}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.6}Punto de Vista de Producto}{56}{section*.127}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.6.1}Metamodelo}{57}{section*.130}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.6.2}Modelo mInstituto}{58}{section*.132}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Capa de Aplicaci\IeC {\'o}n}{61}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}Punto de Vista Comportamiento de Aplicaci\IeC {\'o}n}{62}{section*.135}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.1}Metamodelo}{62}{section*.138}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.2}Modelo mInstituto}{62}{section*.140}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.2}Punto de Vista Cooperaci\IeC {\'o}n de Aplicaci\IeC {\'o}n}{63}{section*.142}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.1}Metamodelo}{63}{section*.145}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.2}Modelo mInstituto}{64}{section*.147}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.3}Punto de Vista Estructura de Aplicaci\IeC {\'o}n}{65}{section*.149}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.3.1}Metamodelo}{66}{section*.152}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.3.2}Modelo mInstituto}{66}{section*.154}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.4}Punto de Vista de Uso de Aplicaci\IeC {\'o}n}{67}{section*.156}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.4.1}Metamodelo}{68}{section*.159}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.4.2}Modelo mInstituto}{68}{section*.161}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Capa de Infraestructura}{71}{chapter.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.1}Punto de Vista de Infraestructura}{72}{section*.164}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1.1}Metamodelo}{72}{section*.167}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1.2}Modelo mInstituto}{72}{section*.169}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.2}Punto de Vista Uso de Infraestructura}{72}{section*.171}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.1}Metamodelo}{74}{section*.174}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.2}Modelo mInstituto}{74}{section*.176}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.3}Punto de Vista de Organizaci\IeC {\'o}n e implementaci\IeC {\'o}n}{75}{section*.178}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.3.1}Metamodelo}{76}{section*.181}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.3.2}Modelo}{76}{section*.183}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.4}Punto de Vista de Estructura de Informaci\IeC {\'o}n}{77}{section*.185}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.4.1}Metamodelo}{78}{section*.188}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.4.2}Modelo}{78}{section*.190}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.5}Punto de vista de realizaci\IeC {\'o}n del servicio}{78}{section*.192}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.5.1}Metamodelo}{79}{section*.195}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.5.2}Modelo}{79}{section*.197}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.6}Punto de Vista de Capas}{80}{section*.199}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.6.1}Metamodelo}{80}{section*.202}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.6.2}Modelo}{80}{section*.204}

@@ -1,0 +1,56 @@
+% **************************************************
+% Definicion del Documento
+% **************************************************
+\documentclass[paper=A4,twoside=true,openright,parskip=full,chapterprefix=true,11pt,headings=normal,bibliography=totoc,listof=totoc,titlepage=on,captions=tableabove,draft=false
+]{scrreprt}
+
+% **************************************************
+% Configuracion
+% **************************************************
+\input{configuracion}
+\input{comandos}
+
+% **************************************************
+% Documento
+% **************************************************
+\begin{document}
+	% --------------------------
+	% Preliminares
+	% --------------------------
+	\pagenumbering{roman}
+	\pagestyle{empty}
+	\input{contenido/titulos}
+
+	\cleardoublepage
+	\pagestyle{plain}
+	\input{contenido/resumen}
+
+	\cleardoublepage
+	\input{contenido/dedicatoria}
+	\cleardoublepage
+	\input{contenido/prefacio}
+
+	\cleardoublepage
+	\dominitoc
+	\setcounter{tocdepth}{2}
+	\tableofcontents
+	\cleardoublepage
+	\listoffigures
+	\cleardoublepage
+	\listoftables
+	\cleardoublepage
+	% --------------------------
+	% Cuerpo
+	% --------------------------
+	\pagenumbering{arabic}
+	\setcounter{page}{1}
+	\pagestyle{maincontentstyle}
+
+	\part{Contextualización}
+	\input{contenido/introduccion}
+	\input{contenido/teoria}
+	\part{Arquitectura Empresarial}
+	\input{contenido/negocio}
+	\input{contenido/aplicacion}
+	\input{contenido/infraestructura}
+\end{document}
