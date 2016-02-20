@@ -46,40 +46,98 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {table}{\numberline {8.1}{\ignorespaces Descripci\IeC {\'o}n Punto de Vista de la Organizaci\IeC {\'o}n\relax }}{48}{table.caption.93}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {8.2}{\ignorespaces Descripci\IeC {\'o}n Punto de Vista Cooperaci\IeC {\'o}n de Actor\relax }}{49}{table.caption.100}
+\contentsline {table}{\numberline {8.2}{\ignorespaces Descripci\IeC {\'o}n Punto de Vista Cooperaci\IeC {\'o}n de Actor\relax }}{50}{table.caption.100}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {8.3}{\ignorespaces Descripci\IeC {\'o}n Punto de Vista Funci\IeC {\'o}n de Negocio\relax }}{51}{table.caption.107}
+\contentsline {table}{\numberline {8.3}{\ignorespaces Descripci\IeC {\'o}n Punto de Vista Funci\IeC {\'o}n de Negocio\relax }}{52}{table.caption.107}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {8.4}{\ignorespaces Descripci\IeC {\'o}n punto de vista proceso de negocio\relax }}{53}{table.caption.114}
+\contentsline {table}{\numberline {8.4}{\ignorespaces Descripci\IeC {\'o}n punto de vista proceso de negocio\relax }}{54}{table.caption.114}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {8.5}{\ignorespaces Descripci\IeC {\'o}n punto de vista de cooperaci\IeC {\'o}n de proceso\relax }}{55}{table.caption.121}
+\contentsline {table}{\numberline {8.5}{\ignorespaces Descripci\IeC {\'o}n punto de vista de cooperaci\IeC {\'o}n de proceso\relax }}{57}{table.caption.121}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {8.6}{\ignorespaces Descripci\IeC {\'o}n Punto de Vista de Producto\relax }}{56}{table.caption.128}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Capa de Aplicaci\IeC {\'o}n}{61}{section*.134}
-\defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {9.1}{\ignorespaces Descripci\IeC {\'o}n punto de vista comportamiento de aplicaci\IeC {\'o}n\relax }}{62}{table.caption.136}
-\defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {9.2}{\ignorespaces Descripci\IeC {\'o}n punto de vista cooperaci\IeC {\'o}n de aplicaci\IeC {\'o}n\relax }}{63}{table.caption.143}
-\defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {9.3}{\ignorespaces Descripci\IeC {\'o}n punto de vista estructura de aplicaci\IeC {\'o}n\relax }}{66}{table.caption.150}
-\defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {9.4}{\ignorespaces Descripci\IeC {\'o}n punto de vista de Uso de Aplicaci\IeC {\'o}n\relax }}{67}{table.caption.157}
+\contentsline {table}{\numberline {8.6}{\ignorespaces Descripci\IeC {\'o}n Punto de Vista de Producto\relax }}{59}{table.caption.128}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Capa de Infraestructura}{71}{section*.163}
+\contentsline {xchapter}{Capa de Aplicaci\IeC {\'o}n}{63}{section*.134}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {10.1}{\ignorespaces Descripci\IeC {\'o}n punto de vista de Infraestructura\relax }}{72}{table.caption.165}
+\contentsline {table}{\numberline {9.1}{\ignorespaces Descripci\IeC {\'o}n punto de vista comportamiento de aplicaci\IeC {\'o}n\relax }}{64}{table.caption.136}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {10.2}{\ignorespaces Descripci\IeC {\'o}n punto de vista uso de infraestructura\relax }}{73}{table.caption.172}
+\contentsline {table}{\numberline {9.2}{\ignorespaces Descripci\IeC {\'o}n punto de vista cooperaci\IeC {\'o}n de aplicaci\IeC {\'o}n\relax }}{67}{table.caption.143}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {10.3}{\ignorespaces Descripci\IeC {\'o}n punto de vista de organizaci\IeC {\'o}n e implementaci\IeC {\'o}n\relax }}{76}{table.caption.179}
+\contentsline {table}{\numberline {9.3}{\ignorespaces Descripci\IeC {\'o}n punto de vista estructura de aplicaci\IeC {\'o}n\relax }}{69}{table.caption.150}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {10.4}{\ignorespaces Descripci\IeC {\'o}n punto de vista de estructura de informaci\IeC {\'o}n\relax }}{78}{table.caption.186}
+\contentsline {table}{\numberline {9.4}{\ignorespaces Descripci\IeC {\'o}n punto de vista de Uso de Aplicaci\IeC {\'o}n\relax }}{71}{table.caption.157}
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {10.5}{\ignorespaces Descripci\IeC {\'o}n punto de vista de realizaci\IeC {\'o}n del servicio\relax }}{79}{table.caption.193}
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {10.6}{\ignorespaces Descripci\IeC {\'o}n punto de vista de capas\relax }}{80}{table.caption.200}
+\contentsline {xchapter}{Capa de Infraestructura}{75}{section*.163}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {10.1}{\ignorespaces Descripci\IeC {\'o}n punto de vista de Infraestructura\relax }}{76}{table.caption.165}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {10.2}{\ignorespaces Descripci\IeC {\'o}n punto de vista uso de infraestructura\relax }}{78}{table.caption.172}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {10.3}{\ignorespaces Descripci\IeC {\'o}n punto de vista de organizaci\IeC {\'o}n e implementaci\IeC {\'o}n\relax }}{81}{table.caption.179}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {10.4}{\ignorespaces Descripci\IeC {\'o}n punto de vista de estructura de informaci\IeC {\'o}n\relax }}{83}{table.caption.186}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {10.5}{\ignorespaces Descripci\IeC {\'o}n punto de vista de realizaci\IeC {\'o}n del servicio\relax }}{85}{table.caption.193}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {10.6}{\ignorespaces Descripci\IeC {\'o}n punto de vista de capas\relax }}{88}{table.caption.200}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{Capa Motivacional}{91}{section*.206}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {11.1}{\ignorespaces Descripci\IeC {\'o}n punto de vista de stakeholders\relax }}{92}{table.caption.208}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {11.2}{\ignorespaces Descripci\IeC {\'o}n punto de vista de la realizaci\IeC {\'o}n de objetivos\relax }}{94}{table.caption.215}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {11.3}{\ignorespaces Descripci\IeC {\'o}n punto de vista de la contribuci\IeC {\'o}n\relax }}{96}{table.caption.222}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {11.4}{\ignorespaces Descripci\IeC {\'o}n punto de vista de los principios\relax }}{98}{table.caption.229}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {11.5}{\ignorespaces Descripci\IeC {\'o}n punto de vista de realizaci\IeC {\'o}n de requerimientos\relax }}{100}{table.caption.236}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {11.6}{\ignorespaces Descripci\IeC {\'o}n punto de vista de la motivaci\IeC {\'o}n\relax }}{102}{table.caption.243}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n}{105}{section*.249}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {12.1}{\ignorespaces Descripci\IeC {\'o}n punto de vista del proyecto\relax }}{106}{table.caption.251}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {12.2}{\ignorespaces Descripci\IeC {\'o}n punto de vista de migraci\IeC {\'o}n\relax }}{108}{table.caption.258}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {12.3}{\ignorespaces Descripci\IeC {\'o}n punto de vista de la implementaci\IeC {\'o}n y migraci\IeC {\'o}n\relax }}{109}{table.caption.265}
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{Patrones}{123}{section*.273}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{Resumen Simbolog\IeC {\'\i }a Archimate 2.1}{125}{section*.274}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {B.1}{\ignorespaces Simbolog\IeC {\'\i }a capa de Negocios}}{127}{table.Alph2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {B.2}{\ignorespaces Simbolog\IeC {\'\i }a capa de Aplicaci\IeC {\'o}n}}{128}{table.Alph2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {B.3}{\ignorespaces Simbolog\IeC {\'\i }a capa de Tecnolog\IeC {\'\i }a}}{130}{table.Alph2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {B.4}{\ignorespaces Simbolog\IeC {\'\i }a de Relaciones Estructurales}}{131}{table.Alph2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {B.5}{\ignorespaces Simbolog\IeC {\'\i }a de Relaciones Din\IeC {\'a}micas}}{131}{table.Alph2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {B.6}{\ignorespaces Simbolog\IeC {\'\i }a de otras Relaciones}}{132}{table.Alph2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {B.7}{\ignorespaces Simbolog\IeC {\'\i }a capa de Motivaci\IeC {\'o}n}}{132}{table.Alph2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {B.8}{\ignorespaces Simbolog\IeC {\'\i }a capa de Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n}}{133}{table.Alph2.8}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{A Software Architecture Proposal Artistic Engineering Environment -AEE}{135}{section*.284}

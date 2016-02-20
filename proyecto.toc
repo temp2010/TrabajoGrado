@@ -94,7 +94,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.1}Versiones}{25}{section*.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.2}Conceptos centrales}{26}{section*.58}
+\contentsline {subsection}{\numberline {5.3.2}Conceptos centrales}{27}{section*.58}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.3}Colaboraci\IeC {\'o}n e interacci\IeC {\'o}n}{28}{section*.60}
 \defcounter {refsection}{0}\relax 
@@ -102,13 +102,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.5}Capas}{29}{section*.63}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.6}Marco de referencia}{29}{section*.64}
+\contentsline {subsection}{\numberline {5.3.6}Marco de referencia}{30}{section*.64}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.7}Motivaci\IeC {\'o}n}{30}{section*.66}
+\contentsline {subsection}{\numberline {5.3.7}Motivaci\IeC {\'o}n}{31}{section*.66}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.8}Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n}{32}{section*.68}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.9}Archimate: Su relaci\IeC {\'o}n con TOGAF}{32}{section*.70}
+\contentsline {subsection}{\numberline {5.3.9}Archimate: Su relaci\IeC {\'o}n con TOGAF}{33}{section*.70}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}Patrones}{35}{chapter.6}
 \defcounter {refsection}{0}\relax 
@@ -152,94 +152,180 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {8.2}Punto de Vista Cooperaci\IeC {\'o}n de Actor}{49}{section*.99}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.1}Metamodelo}{49}{section*.102}
+\contentsline {subsection}{\numberline {8.2.1}Metamodelo}{50}{section*.102}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.2}Modelo mInstituto}{50}{section*.104}
+\contentsline {subsection}{\numberline {8.2.2}Modelo mInstituto}{51}{section*.104}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Punto de Vista Funci\IeC {\'o}n de Negocio}{50}{section*.106}
+\contentsline {section}{\numberline {8.3}Punto de Vista Funci\IeC {\'o}n de Negocio}{52}{section*.106}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.1}Metamodelo}{52}{section*.109}
+\contentsline {subsection}{\numberline {8.3.1}Metamodelo}{53}{section*.109}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.2}Modelo mInstituto}{52}{section*.111}
+\contentsline {subsection}{\numberline {8.3.2}Modelo mInstituto}{53}{section*.111}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}Punto de Vista Proceso de Negocio}{53}{section*.113}
+\contentsline {section}{\numberline {8.4}Punto de Vista Proceso de Negocio}{54}{section*.113}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.1}Metamodelo}{53}{section*.116}
+\contentsline {subsection}{\numberline {8.4.1}Metamodelo}{55}{section*.116}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.2}Modelo mInstituto}{54}{section*.118}
+\contentsline {subsection}{\numberline {8.4.2}Modelo mInstituto}{56}{section*.118}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.5}Punto de Vista Cooperaci\IeC {\'o}n de Proceso de Negocio}{55}{section*.120}
+\contentsline {section}{\numberline {8.5}Punto de Vista Cooperaci\IeC {\'o}n de Proceso de Negocio}{57}{section*.120}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.5.1}Metamodelo}{55}{section*.123}
+\contentsline {subsection}{\numberline {8.5.1}Metamodelo}{57}{section*.123}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.5.2}Modelo mInstituto}{55}{section*.125}
+\contentsline {subsection}{\numberline {8.5.2}Modelo mInstituto}{58}{section*.125}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.6}Punto de Vista de Producto}{56}{section*.127}
+\contentsline {section}{\numberline {8.6}Punto de Vista de Producto}{59}{section*.127}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.6.1}Metamodelo}{57}{section*.130}
+\contentsline {subsection}{\numberline {8.6.1}Metamodelo}{60}{section*.130}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.6.2}Modelo mInstituto}{58}{section*.132}
+\contentsline {subsection}{\numberline {8.6.2}Modelo mInstituto}{61}{section*.132}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Capa de Aplicaci\IeC {\'o}n}{61}{chapter.9}
+\contentsline {chapter}{\numberline {9}Capa de Aplicaci\IeC {\'o}n}{63}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.1}Punto de Vista Comportamiento de Aplicaci\IeC {\'o}n}{62}{section*.135}
+\contentsline {section}{\numberline {9.1}Punto de Vista Comportamiento de Aplicaci\IeC {\'o}n}{64}{section*.135}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.1}Metamodelo}{62}{section*.138}
+\contentsline {subsection}{\numberline {9.1.1}Metamodelo}{64}{section*.138}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.2}Modelo mInstituto}{62}{section*.140}
+\contentsline {subsection}{\numberline {9.1.2}Modelo mInstituto}{65}{section*.140}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.2}Punto de Vista Cooperaci\IeC {\'o}n de Aplicaci\IeC {\'o}n}{63}{section*.142}
+\contentsline {section}{\numberline {9.2}Punto de Vista Cooperaci\IeC {\'o}n de Aplicaci\IeC {\'o}n}{66}{section*.142}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.1}Metamodelo}{63}{section*.145}
+\contentsline {subsection}{\numberline {9.2.1}Metamodelo}{67}{section*.145}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.2}Modelo mInstituto}{64}{section*.147}
+\contentsline {subsection}{\numberline {9.2.2}Modelo mInstituto}{68}{section*.147}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.3}Punto de Vista Estructura de Aplicaci\IeC {\'o}n}{65}{section*.149}
+\contentsline {section}{\numberline {9.3}Punto de Vista Estructura de Aplicaci\IeC {\'o}n}{68}{section*.149}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.1}Metamodelo}{66}{section*.152}
+\contentsline {subsection}{\numberline {9.3.1}Metamodelo}{69}{section*.152}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3.2}Modelo mInstituto}{66}{section*.154}
+\contentsline {subsection}{\numberline {9.3.2}Modelo mInstituto}{70}{section*.154}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.4}Punto de Vista de Uso de Aplicaci\IeC {\'o}n}{67}{section*.156}
+\contentsline {section}{\numberline {9.4}Punto de Vista de Uso de Aplicaci\IeC {\'o}n}{70}{section*.156}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.1}Metamodelo}{68}{section*.159}
+\contentsline {subsection}{\numberline {9.4.1}Metamodelo}{71}{section*.159}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.4.2}Modelo mInstituto}{68}{section*.161}
+\contentsline {subsection}{\numberline {9.4.2}Modelo mInstituto}{72}{section*.161}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}Capa de Infraestructura}{71}{chapter.10}
+\contentsline {chapter}{\numberline {10}Capa de Infraestructura}{75}{chapter.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.1}Punto de Vista de Infraestructura}{72}{section*.164}
+\contentsline {section}{\numberline {10.1}Punto de Vista de Infraestructura}{76}{section*.164}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.1.1}Metamodelo}{72}{section*.167}
+\contentsline {subsection}{\numberline {10.1.1}Metamodelo}{76}{section*.167}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.1.2}Modelo mInstituto}{72}{section*.169}
+\contentsline {subsection}{\numberline {10.1.2}Modelo mInstituto}{77}{section*.169}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.2}Punto de Vista Uso de Infraestructura}{72}{section*.171}
+\contentsline {section}{\numberline {10.2}Punto de Vista Uso de Infraestructura}{78}{section*.171}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.2.1}Metamodelo}{74}{section*.174}
+\contentsline {subsection}{\numberline {10.2.1}Metamodelo}{79}{section*.174}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.2.2}Modelo mInstituto}{74}{section*.176}
+\contentsline {subsection}{\numberline {10.2.2}Modelo mInstituto}{79}{section*.176}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.3}Punto de Vista de Organizaci\IeC {\'o}n e implementaci\IeC {\'o}n}{75}{section*.178}
+\contentsline {section}{\numberline {10.3}Punto de Vista de Organizaci\IeC {\'o}n e implementaci\IeC {\'o}n}{80}{section*.178}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.1}Metamodelo}{76}{section*.181}
+\contentsline {subsection}{\numberline {10.3.1}Metamodelo}{81}{section*.181}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.2}Modelo}{76}{section*.183}
+\contentsline {subsection}{\numberline {10.3.2}Modelo mInstituto}{82}{section*.183}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.4}Punto de Vista de Estructura de Informaci\IeC {\'o}n}{77}{section*.185}
+\contentsline {section}{\numberline {10.4}Punto de Vista de Estructura de Informaci\IeC {\'o}n}{83}{section*.185}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.4.1}Metamodelo}{78}{section*.188}
+\contentsline {subsection}{\numberline {10.4.1}Metamodelo}{84}{section*.188}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.4.2}Modelo}{78}{section*.190}
+\contentsline {subsection}{\numberline {10.4.2}Modelo mInstituto}{84}{section*.190}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.5}Punto de vista de realizaci\IeC {\'o}n del servicio}{78}{section*.192}
+\contentsline {section}{\numberline {10.5}Punto de vista de realizaci\IeC {\'o}n del servicio}{85}{section*.192}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.5.1}Metamodelo}{79}{section*.195}
+\contentsline {subsection}{\numberline {10.5.1}Metamodelo}{86}{section*.195}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.5.2}Modelo}{79}{section*.197}
+\contentsline {subsection}{\numberline {10.5.2}Modelo mInstituto}{86}{section*.197}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.6}Punto de Vista de Capas}{80}{section*.199}
+\contentsline {section}{\numberline {10.6}Punto de Vista de Capas}{87}{section*.199}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.6.1}Metamodelo}{80}{section*.202}
+\contentsline {subsection}{\numberline {10.6.1}Metamodelo}{88}{section*.202}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.6.2}Modelo}{80}{section*.204}
+\contentsline {subsection}{\numberline {10.6.2}Modelo mInstituto}{89}{section*.204}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}Capa Motivacional}{91}{chapter.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.1}Punto de Vista de Stakeholder}{92}{section*.207}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.1.1}Metamodelo}{92}{section*.210}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.1.2}Modelo mInstituto}{93}{section*.212}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.2}Punto de Vista de Realizaci\IeC {\'o}n de Objetivos}{93}{section*.214}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.2.1}Metamodelo}{94}{section*.217}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.2.2}Modelo mInstituto}{95}{section*.219}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.3}Punto de Vista de Contribuci\IeC {\'o}n}{96}{section*.221}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.1}Metamodelo}{97}{section*.224}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3.2}Modelo mInstituto}{97}{section*.226}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.4}Punto de Vista de Principios}{98}{section*.228}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.4.1}Metamodelo}{99}{section*.231}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.4.2}Modelo mInstituto}{99}{section*.233}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.5}Punto de Vista de Realizaci\IeC {\'o}n de Requerimientos}{100}{section*.235}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.5.1}Metamodelo}{101}{section*.238}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.5.2}Modelo mInstituto}{101}{section*.240}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11.6}Punto de Vista de Motivaci\IeC {\'o}n}{102}{section*.242}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.6.1}Metamodelo}{103}{section*.245}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.6.2}Modelo mInstituto}{103}{section*.247}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {12}Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n}{105}{chapter.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.1}Punto de Vista de Proyecto}{106}{section*.250}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1.1}Metamodelo}{107}{section*.253}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1.2}Modelo mInstituto}{107}{section*.255}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.2}Punto de Vista de Migraci\IeC {\'o}n}{107}{section*.257}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2.1}Metamodelo}{108}{section*.260}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2.2}Modelo mInstituto}{109}{section*.262}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.3}Punto de Vista de Migraci\IeC {\'o}n e Implementaci\IeC {\'o}n}{109}{section*.264}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.3.1}Metamodelo}{110}{section*.267}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.3.2}Modelo mInstituto}{110}{section*.269}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{III\hspace {1em}Conclusiones}{113}{section*.271}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{IV\hspace {1em}Anexos}{121}{section*.272}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Patrones}{123}{appendix.Alph1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}Resumen Simbolog\IeC {\'\i }a Archimate 2.1}{125}{appendix.Alph2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.1}Capa de Negocios}{126}{section*.275}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.2}Capa de Aplicaci\IeC {\'o}n}{128}{section*.276}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.3}Capa de Tecnolog\IeC {\'\i }a}{128}{section*.277}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.4}Relaciones}{130}{section*.278}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.4.1}Estructurales}{130}{section*.279}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.4.2}Din\IeC {\'a}micas}{131}{section*.280}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.4.3}Otras}{131}{section*.281}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.5}Motivaci\IeC {\'o}n}{132}{section*.282}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.6}Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n}{132}{section*.283}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {C}A Software Architecture Proposal Artistic Engineering Environment -AEE}{135}{appendix.Alph3}

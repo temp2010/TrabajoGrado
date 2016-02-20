@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.4)  14 FEB 2016 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.4)  19 FEB 2016 22:13
 entering extended mode
 **titulos.tex
 (titulos.tex
@@ -19,7 +19,7 @@ or  <return>  to continue without it.
 
 ! Undefined control sequence.
 l.3 	\pdfbookmark
-                 [0]{Cover}{Cover}
+                 [0]{Portada}{Portada}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -34,23 +34,27 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.3 	\pdfbookmark[
-                  0]{Cover}{Cover}
+                  0]{Portada}{Portada}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no ] in font nullfont!
-Missing character: There is no C in font nullfont!
+Missing character: There is no P in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no C in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no P in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 3--4
 [] 
@@ -119,23 +123,14 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no V in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no C in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no : in font nullfont!
-! Undefined control sequence.
-l.12 	Version: \thesisVersion
-                             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
 
 ! LaTeX Error: \begin{document} ended by \end{titlepage}.
 
@@ -164,7 +159,7 @@ or  <return>  to continue without it.
 
 ! Undefined control sequence.
 l.18 	\pdfbookmark
-                  [0]{Titlepage}{Titlepage}
+                  [0]{Titulo}{Titulo}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -179,7 +174,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.18 	\pdfbookmark[
-                   0]{Titlepage}{Titlepage}
+                   0]{Titulo}{Titulo}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -189,21 +184,15 @@ Missing character: There is no ] in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
 ! Undefined control sequence.
 l.19 	\tgherosfont
                   
@@ -251,7 +240,7 @@ or  <return>  to continue without it.
 
 ! Undefined control sequence.
 l.23 	\includegraphics
-                      [width=6cm]{imagenes/logo} \\[2mm]
+                      {figuras/0} \\[2mm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -265,35 +254,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 	\includegraphics[
-                       width=6cm]{imagenes/logo} \\[2mm]
+l.23 	\includegraphics{f
+                        iguras/0} \\[2mm]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no [ in font nullfont!
-Missing character: There is no w in font nullfont!
+Missing character: There is no f in font nullfont!
 Missing character: There is no i in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
 Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no / in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no o in font nullfont!
+Missing character: There is no 0 in font nullfont!
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -301,30 +275,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 	\textsf{\thesisUniversityDepartment}
-                                           \\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-<recently read> \thesisUniversityDepartment 
-                                            
-l.24 	\textsf{\thesisUniversityDepartment}
-                                           \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 	\textsf{\thesisUniversityInstitute}
+l.24 	\textsf{\thesisUniversityInstitute}
                                           \\
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -332,8 +283,31 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <recently read> \thesisUniversityInstitute 
                                            
-l.25 	\textsf{\thesisUniversityInstitute}
+l.24 	\textsf{\thesisUniversityInstitute}
                                           \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 	\textsf{\thesisUniversityDepartment}
+                                           \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<recently read> \thesisUniversityDepartment 
+                                            
+l.25 	\textsf{\thesisUniversityDepartment}
+                                           \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -395,7 +369,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.30 	{\LARGE
+l.30 	{\large
               \color{ctcolortitle}\textbf{\thesisTitle} \\[10mm]}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -404,7 +378,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.30 	{\LARGE \color
+l.30 	{\large \color
                     {ctcolortitle}\textbf{\thesisTitle} \\[10mm]}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -419,7 +393,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 	{\LARGE \color{c
+l.30 	{\large \color{c
                       tcolortitle}\textbf{\thesisTitle} \\[10mm]}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -478,6 +452,37 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+! Undefined control sequence.
+l.32 	{\Large
+              \thesisCode} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.32 	{\Large \thesisCode
+                         } \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 	{\Large \thesisCode} \\
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -485,13 +490,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34 	\begin{minipage}[t]{.27\textwidth}
+l.35 	\begin{minipage}[t]{.27\textwidth}
                                         
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.40 		{\Large
+l.41 		{\Large
                \thesisFirstReviewer} \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -500,7 +505,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.40 		{\Large \thesisFirstReviewer
+l.41 		{\Large \thesisFirstReviewer
                                    } \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -515,15 +520,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 	  	{
-          \small \thesisFirstReviewerDepartment} \\[-1mm]
+l.42 		{
+        \small \thesisFirstReviewerUniversity} \\[-1mm]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.41 	  	{\small
-                 \thesisFirstReviewerDepartment} \\[-1mm]
+l.42 		{\small
+               \thesisFirstReviewerUniversity} \\[-1mm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -531,8 +536,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.41 	  	{\small \thesisFirstReviewerDepartment
-                                               } \\[-1mm]
+l.42 		{\small \thesisFirstReviewerUniversity
+                                             } \\[-1mm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -546,15 +551,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 ...l \thesisFirstReviewerDepartment} \\[-1mm]
+l.42 ...l \thesisFirstReviewerUniversity} \\[-1mm]
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.42 		{\small
-               \thesisFirstReviewerUniversity}
+l.43 		{\small
+               \thesisFirstReviewerDepartment}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -562,7 +567,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.42 		{\small \thesisFirstReviewerUniversity
+l.43 		{\small \thesisFirstReviewerDepartment
                                              }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -571,12 +576,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (2211.87498pt too wide) in paragraph at lines 34--43
+Overfull \hbox (2211.87498pt too wide) in paragraph at lines 35--44
  [][] 
  []
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 34--43
+Overfull \hbox (15.0pt too wide) in paragraph at lines 35--44
  |  [] 
  []
 
@@ -587,13 +592,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 	\begin{minipage}[t]{.27\textwidth}
+l.45 	\begin{minipage}[t]{.27\textwidth}
                                         
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.50 		{\Large
+l.51 		{\Large
                \thesisSecondReviewer} \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -602,7 +607,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.50 		{\Large \thesisSecondReviewer
+l.51 		{\Large \thesisSecondReviewer
                                     } \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -617,15 +622,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 	  	{
-          \small \thesisSecondReviewerDepartment} \\[-1mm]
+l.52 		{
+        \small \thesisSecondReviewerUniversity} \\[-1mm]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.51 	  	{\small
-                 \thesisSecondReviewerDepartment} \\[-1mm]
+l.52 		{\small
+               \thesisSecondReviewerUniversity} \\[-1mm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -633,8 +638,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.51 	  	{\small \thesisSecondReviewerDepartment
-                                                } \\[-1mm]
+l.52 		{\small \thesisSecondReviewerUniversity
+                                              } \\[-1mm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -648,15 +653,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 ... \thesisSecondReviewerDepartment} \\[-1mm]
+l.52 ... \thesisSecondReviewerUniversity} \\[-1mm]
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.52 		{\small
-               \thesisSecondReviewerUniversity}
+l.53 		{\small
+               \thesisSecondReviewerDepartment}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -664,7 +669,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.52 		{\small \thesisSecondReviewerUniversity
+l.53 		{\small \thesisSecondReviewerDepartment
                                               }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -673,12 +678,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (2211.87498pt too wide) in paragraph at lines 44--53
+Overfull \hbox (2211.87498pt too wide) in paragraph at lines 45--54
  [][] 
  []
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 44--53
+Overfull \hbox (15.0pt too wide) in paragraph at lines 45--54
  |  [] 
  []
 
@@ -689,25 +694,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.54 	\begin{minipage}[t]{.27\textwidth}
+l.55 	\begin{minipage}[t]{.27\textwidth}
                                         
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.60 		\thesisFirstSupervisor
-                             \ and \thesisSecondSupervisor
+l.61 		\thesisFirstSupervisor
+                             \ y \thesisSecondSupervisor
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
 ! Undefined control sequence.
-l.60 ...rstSupervisor\ and \thesisSecondSupervisor
+l.61 ...FirstSupervisor\ y \thesisSecondSupervisor
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -716,17 +719,17 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (2211.87498pt too wide) in paragraph at lines 54--61
+Overfull \hbox (2211.87498pt too wide) in paragraph at lines 55--62
  [][] 
  []
 
 
-Overfull \hbox (5339.74998pt too wide) in paragraph at lines 54--61
+Overfull \hbox (5339.74998pt too wide) in paragraph at lines 55--62
  |  [] 
  []
 
 ! Undefined control sequence.
-l.63 	\thesisDate
+l.64 	\thesisDate
                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -741,7 +744,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 	\thesisDate \\
+l.64 	\thesisDate \\
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -754,7 +757,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.65 \end{titlepage}
+l.66 \end{titlepage}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -767,18 +770,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 \hfill
+l.70 \hfill
            
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 69--70
+Overfull \hbox (20.0pt too wide) in paragraph at lines 70--71
 [] 
  []
 
 ! Undefined control sequence.
-l.72 	\small
+l.73 	\small
             
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -793,7 +796,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.73 	\textbf{\thesisName}
+l.74 	\textbf{\thesisName}
                            \\
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -801,7 +804,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <recently read> \thesisName 
                             
-l.73 	\textbf{\thesisName}
+l.74 	\textbf{\thesisName}
                            \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -812,7 +815,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \thesisTitle 
                              
-l.74 	\textit{\thesisTitle}
+l.75 	\textit{\thesisTitle}
                             \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -823,7 +826,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \thesisSubject 
                                
-l.75 	\thesisSubject
+l.76 	\thesisSubject
                     , \thesisDate \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -833,8 +836,26 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no , in font nullfont!
 ! Undefined control sequence.
-l.75 	\thesisSubject, \thesisDate
+l.76 	\thesisSubject, \thesisDate
                                   \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.77 	Director: \thesisFirstReviewer
+                                     \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -848,22 +869,10 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
 ! Undefined control sequence.
-l.76 	Revisores: \thesisFirstReviewer
-                                     \ y \thesisSecondReviewer \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no y in font nullfont!
-! Undefined control sequence.
-l.76 ...esisFirstReviewer\ y \thesisSecondReviewer
-                                                   \\
+l.78 	Revisor: \thesisSecondReviewer
+                                     \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -879,7 +888,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
 ! Undefined control sequence.
-l.77 	Jurados: \thesisFirstSupervisor
+l.79 	Jurados: \thesisFirstSupervisor
                                      \ y \thesisSecondSupervisor \\[1.5em]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -889,7 +898,7 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no y in font nullfont!
 ! Undefined control sequence.
-l.77 ...FirstSupervisor\ y \thesisSecondSupervisor
+l.79 ...FirstSupervisor\ y \thesisSecondSupervisor
                                                    \\[1.5em]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -900,7 +909,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \thesisUniversity 
                                   
-l.78 	\textbf{\thesisUniversity}
+l.80 	\textbf{\thesisUniversity}
                                  \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -911,7 +920,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \thesisUniversityGroup 
                                        
-l.79 	\textit{\thesisUniversityGroup}
+l.81 	\textit{\thesisUniversityGroup}
                                       \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -922,7 +931,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \thesisUniversityInstitute 
                                            
-l.80 	\thesisUniversityInstitute
+l.82 	\thesisUniversityInstitute
                                  \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -933,7 +942,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \thesisUniversityDepartment 
                                             
-l.81 	\thesisUniversityDepartment
+l.83 	\thesisUniversityDepartment
                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -944,8 +953,19 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \thesisUniversityStreetAddress 
                                                
-l.82 	\thesisUniversityStreetAddress
+l.84 	\thesisUniversityStreetAddress
                                      \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \thesisUniversityCity 
+                                      
+l.85 	\thesisUniversityCity
+                            \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -955,18 +975,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \thesisUniversityPostalCode 
                                             
-l.83 	\thesisUniversityPostalCode
-                                 \ y \thesisUniversityCity
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no y in font nullfont!
-! Undefined control sequence.
-l.83 ...versityPostalCode\ y \thesisUniversityCity
-                                                  
+l.86 	\thesisUniversityPostalCode
+                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -981,10 +991,10 @@ and I'll forget about whatever was undefined.
 
  
 Here is how much of TeX's memory you used:
- 26 strings out of 493673
- 367 string characters out of 3143961
+ 27 strings out of 493673
+ 387 string characters out of 3143961
  53455 words of memory out of 3000000
- 3471 multiletter control sequences out of 15000+200000
+ 3472 multiletter control sequences out of 15000+200000
  4599 words of font info for 17 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  13i,3n,10p,98b,147s stack positions out of 5000i,500n,10000p,200000b,50000s
