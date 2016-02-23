@@ -10,3 +10,9 @@
 \renewcommand{\appendixname}{Apéndices}
 \renewcommand{\appendixtocname}{Apéndices}
 \renewcommand{\appendixpagename}{Apéndices}
+\arrayrulecolor{azull}
+\newcommand{\itemcolor}[1]{
+	\renewcommand{\makelabel}[1]{\color{#1}\hfil ##1}
+}
+\renewcommand{\bibfont}{\normalfont\small}
+\makeindex

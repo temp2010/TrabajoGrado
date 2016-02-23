@@ -20,15 +20,13 @@
 	\pagenumbering{roman}
 	\pagestyle{empty}
 	\input{contenido/titulos}
-
 	\cleardoublepage
 	\pagestyle{plain}
-	\input{contenido/resumen}
-
-	\cleardoublepage
 	\input{contenido/dedicatoria}
 	\cleardoublepage
-	\input{contenido/prefacio}
+	\input{contenido/agradecimientos}
+	\cleardoublepage
+	\input{contenido/resumen}
 
 	\cleardoublepage
 	\dominitoc
@@ -38,14 +36,15 @@
 	\listoffigures
 	\cleardoublepage
 	\listoftables
-	\cleardoublepage
 	% --------------------------
 	% Cuerpo
 	% --------------------------
+	\cleardoublepage
 	\pagenumbering{arabic}
 	\setcounter{page}{1}
 	\pagestyle{maincontentstyle}
-
+	\cleardoublepage
+	\input{contenido/prefacio}
 	\part{Contextualización}
 		\input{contenido/introduccion}
 		\input{contenido/teoria}
@@ -69,7 +68,5 @@
 		\cleardoublepage
 		\appendix
 		\input{contenido/anexos}
-		\clearpage
-		\newpage
-		\mbox{}
+	\printindex
 \end{document}

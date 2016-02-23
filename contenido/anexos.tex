@@ -1,14 +1,81 @@
 \chapter{Patrones}
-\label{chap:anexos}
+\label{apex:patrones}
 \textit{The first chapter introduces fluorescence-based DNA technology and highlights the motivation of the research conducted in the thesis}
 \vfill
 \minitoc
 \newpage
 
+\section{Cadena de Responsabilidad}
+Permite a un objeto enviar un comando sin conocer que objeto o objetos lo recibirán, evitando el acoplamiento entre el que envía y el que recibe una petición. Esto permite el paso del comando a un objeto de la cadena que es parte de una gran estructura. Cada objeto de la cadena podría manejar el comando, pasar el comando al siguiente objeto de la cadena, o las dos cosas.
+
+  \begin{figure}[H]
+ 	\centering
+  	\includegraphics[scale=0.7]{patrones/1}
+  	\captionsetup{width=.95\textwidth}
+  	\caption{Patrón cadena de responsabilidad mInstituto}
+  	\label{patron1}
+  \end{figure}
+
+  \subsection{Patrón cadena de responsabilidad mInstituto}
+  \blindtext
+  
+  \begin{multicols}{2}[\subsection{Clases cadena de responsabilidad}]
+    \lstinputlisting[language=Java,style=java,caption={Cliente.java}]{java/src/Cadena/Cliente.java}
+    \lstinputlisting[language=Java,style=java,caption={Soporte.java}]{java/src/Cadena/Soporte.java}
+    \lstinputlisting[language=Java,style=java,caption={Consultor.java}]{java/src/Cadena/Consultor.java}
+  \end{multicols}
+  
+\section{Fabrica Abstracta}
+Dado un conjunto de clases abstractas relacionadas, el patrón Abstract Factory permite el modo de crear instancias de estas clases abstractas desde el correspondiente conjunto de subclases concretas. Proporciona una interfaz para crear familias de objetos relacionados o dependientes sin especificar su clase concreta. El patrón Abstract Factory puede ser muy útil para permitir a un programa trabajar con una variedad compleja de entidades externas, tales como diferentes sistemas de ventanas con una funcionalidad similar.
+
+  \begin{figure}[H]
+  	\centering
+  	\includegraphics[scale=0.54]{patrones/2}
+  	\captionsetup{width=.95\textwidth}
+  	\caption{Patrón fabrica abstracta mInstituto}
+  	\label{patron2}
+  \end{figure}
+  
+  \subsection{Patrón Fabrica Abstracta mInstituto}
+  \blindtext
+  
+  \begin{multicols}{2}[\subsection{Clases fabrica abstracta}]
+    \lstinputlisting[language=Java,style=java,caption={Cliente.java}]{java/src/Factory/Cliente.java}
+    \lstinputlisting[language=Java,style=java,caption={Ventana.java}]{java/src/Factory/Ventana.java}
+    \lstinputlisting[language=Java,style=java,caption={Android.java}]{java/src/Factory/Android.java}
+    \lstinputlisting[language=Java,style=java,caption={html.java}]{java/src/Factory/html.java}
+    \lstinputlisting[language=Java,style=java,caption={Widget.java}]{java/src/Factory/Widget.java}
+    \lstinputlisting[language=Java,style=java,caption={AndroidWidget.java}]{java/src/Factory/AndroidWidget.java}
+    \lstinputlisting[language=Java,style=java,caption={MSWidget.java}]{java/src/Factory/MSWidget.java}
+    \lstinputlisting[language=Java,style=java,caption={InterfazAbstracta.java}]{java/src/Factory/InterfazAbstracta.java}
+    \lstinputlisting[language=Java,style=java,caption={InterfazHTML.java}]{java/src/Factory/InterfazHTML.java}
+    \lstinputlisting[language=Java,style=java,caption={InterfazAndroid.java}]{java/src/Factory/InterfazAndroid.java}
+  \end{multicols}
+  
+\section{Decorador}
+Extiende la funcionalidad de un objeto dinámicamente de tal modo que es transparente a sus clientes, utilizando una instancia de una subclase de la clase original que delega las operaciones al objeto original. Provee una alternativa muy flexible para agregar funcionalidad a una clase.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.7]{patrones/3}
+	\captionsetup{width=.95\textwidth}
+	\caption{Patrón decorador mInstituto}
+	\label{patron2}
+\end{figure}
+
+\subsection{Patrón Decorador mInstituto}
 \blindtext
 
+\begin{multicols}{2}[\subsection{Clases Decorador}]
+	\lstinputlisting[language=Java,style=java,caption={Persona.java}]{java/src/Decorator/Persona.java}
+	\lstinputlisting[language=Java,style=java,caption={Estudiante.java}]{java/src/Decorator/Estudiante.java}
+	\lstinputlisting[language=Java,style=java,caption={Estadistica.java}]{java/src/Decorator/Estadistica.java}
+	\lstinputlisting[language=Java,style=java,caption={ComparativaCompetencias.java}]{java/src/Decorator/ComparativaCompetencias.java}
+	\lstinputlisting[language=Java,style=java,caption={CumplimientoObjetivos.java}]{java/src/Decorator/CumplimientoObjetivos.java}
+\end{multicols}
+
 \chapter{Resumen Simbología Archimate 2.1}
-\label{chap:anexos}
+\label{apex:anexos}
 \textit{The first chapter introduces fluorescence-based DNA technology and highlights the motivation of the research conducted in the thesis}
 \vfill
 \minitoc
@@ -16,10 +83,11 @@
 
 \section{Capa de Negocios}
   \begin{longtable}
-	{|m{3cm}|m{4.8cm}|m{4.8cm}|}
-	\toprule
-	Concepto & Definición & Notación \\
-	\midrule
+	{m{3cm}m{4.8cm}m{5.2cm}}
+	\hline
+	\rowcolor[HTML]{0073a1}
+	{\color[HTML]{FFFFFF} \textbf{Concepto}} & {\color[HTML]{FFFFFF} \textbf{Definición}} & {\color[HTML]{FFFFFF} \textbf{Notación}} \\
+	\hline
 	 Actor & Una entidad de organización que es capaz de realizar la conducta a través de un rol. & \includegraphics[scale=0.5]{figuras/36} \\ \hline
 	 Role & La responsabilidad de llevar a cabo un comportamiento específico, al que se le puede asignar un actor. & \includegraphics[scale=0.5]{figuras/37} \\ \hline
 	 Colaboración & Un agregado de dos o más funciones de negocios que trabajan en conjunto para llevar a cabo el comportamiento colectivo. & \includegraphics[scale=0.5]{figuras/38} \\ \hline
@@ -28,8 +96,7 @@
 	 Proceso & Un elemento de la conducta que el comportamiento de los grupos basa en un ordenamiento de las actividades. Se tiene la intención de producir un conjunto definido de productos o servicios. & \includegraphics[scale=0.5]{figuras/41} \\ \hline
 	 Función & Un elemento de la conducta que el comportamiento de los grupos basada en una seleccion en un conjunto seleccionado de criterios (recursos empresariales suelen ser necesarios y / o competencias). & \includegraphics[scale=0.5]{figuras/42} \\ \hline
 	 Interacción & Un elemento de comportamiento que describe el comportamiento de una colaboración de negocios. & \includegraphics[scale=0.5]{figuras/43} \\ \hline
-	 Evento & Algo que sucede (interna o externa) e influye en el comportamiento (de negocios
-	 proceso, la función empresarial, la interacción de negocios). & \includegraphics[scale=0.5]{figuras/44} \\ \hline
+	 Evento & Algo que sucede (interna o externa) e influye en el comportamiento (de negocios proceso, la función empresarial, la interacción de negocios). & \includegraphics[scale=0.5]{figuras/44} \\ \hline
 	 Servicio & Un servicio que satisface una necesidad comercial de un cliente (interno o externo a la organización). & \includegraphics[scale=0.5]{figuras/45} \\ \hline
 	 Objeto & Un elemento pasivo que tiene relevancia desde un punto de vista comercial. & \includegraphics[scale=0.5]{figuras/46} \\ \hline
 	 Representación & Una forma perceptible de la información transportada por un objeto de negocio. & \includegraphics[scale=0.5]{figuras/47} \\ \hline
@@ -46,10 +113,11 @@
 \newpage
 \section{Capa de Aplicación}
   \begin{longtable}
-	{|m{3cm}|m{4.8cm}|m{5.1cm}|}
-	\toprule
-	Concepto & Definición & Notación \\
-	\midrule
+  	{m{3cm}m{4.8cm}m{5.2cm}}
+  	\hline
+  	\rowcolor[HTML]{0073a1}
+  	{\color[HTML]{FFFFFF} \textbf{Concepto}} & {\color[HTML]{FFFFFF} \textbf{Definición}} & {\color[HTML]{FFFFFF} \textbf{Notación}} \\
+  	\hline
 	Componente & Parte modular, desplegable, y reemplazable de un sistema de software que encapsula su comportamiento y los datos y expone a estos a través de un conjunto de interfaces. & \includegraphics[scale=0.5]{figuras/52} \\ \hline
 	Colaboración & Un agregado de dos o más componentes de aplicaciones que funcionan en conjunto para llevar a cabo el comportamiento colectivo. & \includegraphics[scale=0.5]{figuras/53} \\ \hline
 	Interfaces & Un punto de acceso donde se pone a disposición un servicio de aplicaciones para un usuario u otro componente de la aplicación. & \includegraphics[scale=0.5]{figuras/54} \\ \hline
@@ -63,12 +131,14 @@
 	\label{tabla30}
   \end{longtable}
 
+\newpage
 \section{Capa de Tecnología}
   \begin{longtable}
-	{|m{3cm}|m{4.8cm}|m{4.8cm}|}
-	\toprule
-	Concepto & Definición & Notación \\
-	\midrule
+  	{m{3cm}m{4.8cm}m{5.2cm}}
+  	\hline
+  	\rowcolor[HTML]{0073a1}
+  	{\color[HTML]{FFFFFF} \textbf{Concepto}} & {\color[HTML]{FFFFFF} \textbf{Definición}} & {\color[HTML]{FFFFFF} \textbf{Notación}} \\
+  	\hline
 	Nodo & Un recurso computacional sobre los que los artefactos se pueden almacenar o desplegar para su ejecución. & \includegraphics[scale=0.5]{figuras/59} \\ \hline
 	Dispositivo & Un recurso de hardware sobre el cual los artefactos se pueden almacenar o desplegar para su ejecución. & \includegraphics[scale=0.5]{figuras/60} \\ \hline
 	Red & Un medio de comunicación entre dos o más dispositivos. & \includegraphics[scale=0.5]{figuras/61} \\ \hline
@@ -87,10 +157,11 @@
 \section{Relaciones}
   \subsection{Estructurales}
     \begin{longtable}
-    	{|m{3cm}|m{4.8cm}|m{4.8cm}|}
-    	\toprule
-    	Concepto & Definición & Notación \\
-    	\midrule
+    	{m{3cm}m{4.8cm}m{5.2cm}}
+    	\hline
+    	\rowcolor[HTML]{0073a1}
+    	{\color[HTML]{FFFFFF} \textbf{Concepto}} & {\color[HTML]{FFFFFF} \textbf{Definición}} & {\color[HTML]{FFFFFF} \textbf{Notación}} \\
+    	\hline
     	Asociación & Los modelos de asociación de una relación entre los objetos que no está cubierta por otro, la relación más específica. & \includegraphics[scale=0.5]{figuras/68} \\ \hline
     	Acceso & La relaciones de acceso en los modelos unen los conceptos de comportamiento a los objetos de negocio o de datos. & \includegraphics[scale=0.5]{figuras/69} \\ \hline
     	Usado por & La relación de uso une los servicios por parte de los procesos, funciones o las interacciones y el acceso a las interfaces de funciones, componentes o colaboraciones. & \includegraphics[scale=0.5]{figuras/70} \\ \hline
@@ -106,10 +177,11 @@
     
     \subsection{Dinámicas}
         \begin{longtable}
-        	{|m{3cm}|m{4.8cm}|m{4.8cm}|}
-        	\toprule
-        	Concepto & Definición & Notación \\
-        	\midrule
+        	{m{3cm}m{4.8cm}m{5.2cm}}
+        	\hline
+        	\rowcolor[HTML]{0073a1}
+        	{\color[HTML]{FFFFFF} \textbf{Concepto}} & {\color[HTML]{FFFFFF} \textbf{Definición}} & {\color[HTML]{FFFFFF} \textbf{Notación}} \\
+        	\hline
         	Flujo & La relación de flujo describe el intercambio o de transferencia, por ejemplo, la información o el valor entre los procesos, funciones, interacciones y eventos. & \includegraphics[scale=0.5]{figuras/75} \\ \hline
         	Disparo & La relación de disparo describe las relaciones temporales o causales entre procesos, funciones, interacciones y eventos. & \includegraphics[scale=0.5]{figuras/76} \\
    	  	    \bottomrule
@@ -120,10 +192,11 @@
    	  	
   	    \subsection{Otras}
     	    \begin{longtable}
-  	  	    	{|m{3cm}|m{4.8cm}|m{4.8cm}|}
-   	  	    	\toprule
-   	  	    	Concepto & Definición & Notación \\
-   	  	    	\midrule
+    	    	{m{3cm}m{4.8cm}m{5.2cm}}
+    	    	\hline
+    	    	\rowcolor[HTML]{0073a1}
+    	    	{\color[HTML]{FFFFFF} \textbf{Concepto}} & {\color[HTML]{FFFFFF} \textbf{Definición}} & {\color[HTML]{FFFFFF} \textbf{Notación}} \\
+    	    	\hline
    	  	    	Grupo & La relación indica que la agrupación de objetos del mismo tipo o de tipos diferentes, uno para el otro basado en alguna característica común. & \includegraphics[scale=0.5]{figuras/77} \\ \hline
    	  	    	Unión & Una unión se utiliza para conectar las relaciones del mismo tipo. & \includegraphics[scale=0.5]{figuras/78} \\ \hline
    	  	    	Especialización & La relación especialización indica que un objeto es una especialización de otro objeto. & \includegraphics[scale=0.5]{figuras/79} \\
@@ -135,10 +208,11 @@
    	  	    
 \section{Motivación}
   \begin{longtable}
-  	{|m{3cm}|m{4.8cm}|m{5.2cm}|}
-  	\toprule
-  	Concepto & Definición & Notación \\
-  	\midrule
+  	{m{3cm}m{4.8cm}m{5.2cm}}
+  	\hline
+  	\rowcolor[HTML]{0073a1}
+  	{\color[HTML]{FFFFFF} \textbf{Concepto}} & {\color[HTML]{FFFFFF} \textbf{Definición}} & {\color[HTML]{FFFFFF} \textbf{Notación}} \\
+  	\hline
   	Stakeholder & El papel de un individuo, equipo u organización (o clases de los mismos) que representa sus intereses en, o preocupaciones en relación con, el resultado de la arquitectura. & \includegraphics[scale=0.5]{figuras/80} \\ \hline
   	Manejador & Algo que crea, motiva y alimenta el cambio en una organización. & \includegraphics[scale=0.5]{figuras/81} \\ \hline
   	Valoración & El resultado de un análisis de algún conductor. & \includegraphics[scale=0.5]{figuras/82} \\ \hline
@@ -151,13 +225,15 @@
 	\caption{Simbología capa de Motivación}
 	\label{tabla35}
   \end{longtable}
-  
+
+\newpage
 \section{Implementación y Migración}
   \begin{longtable}
-	{|m{3cm}|m{4.8cm}|m{4.8cm}|}
-	\toprule
-	Concepto & Definición & Notación \\
-	\midrule
+  	{m{3cm}m{4.8cm}m{5.2cm}}
+  	\hline
+  	\rowcolor[HTML]{0073a1}
+  	{\color[HTML]{FFFFFF} \textbf{Concepto}} & {\color[HTML]{FFFFFF} \textbf{Definición}} & {\color[HTML]{FFFFFF} \textbf{Notación}} \\
+  	\hline
 	Paquete de trabajo & Una serie de acciones destinadas a lograr un objetivo único dentro de un tiempo especificado. & \includegraphics[scale=0.5]{figuras/87} \\ \hline
 	Entregable & Un resultado definido con precisión de un paquete de trabajo. & \includegraphics[scale=0.5]{figuras/88} \\ \hline
 	Platea & Un estado relativamente estable de la arquitectura que existió durante un período de tiempo limitado. & \includegraphics[scale=0.5]{figuras/89} \\ \hline
@@ -169,7 +245,7 @@
   \end{longtable}
   
 \chapter{A Software Architecture Proposal Artistic Engineering Environment -AEE}
-\label{chap:articulo}
+\label{apex:articulo}
 \textit{The first chapter introduces fluorescence-based DNA technology and highlights the motivation of the research conducted in the thesis}
 \vfill
 \cleardoublepage

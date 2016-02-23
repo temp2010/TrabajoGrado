@@ -9,9 +9,13 @@
 \usepackage{caption}
 \usepackage{array}
 \usepackage{longtable}
-\usepackage{pdfpages}
-\usepackage{titlesec}
-\usepackage[title,toc]{appendix}
+\usepackage{makeidx}
+\usepackage{appendix}
+\usepackage{colortbl}
+\usepackage{hhline}
+\usepackage{color}
+\usepackage{listings}
+\usepackage{multicol}
 
 % **************************************************
 % Informacion y comandos para su reutilización
@@ -55,11 +59,13 @@
 	colorize=full,
 	colortheme=bluemagenta,
 	bibsys=bibtex,
-	bibfile=bib-refs,
-	bibstyle=alphabetic,
+	bibfile=bibliografia,
+	bibstyle=numeric,
 	wrapfooter=false,
 }{cleanthesis}
 \usepackage{cleanthesis}
+\usepackage{listings}
+\usepackage{pdfpages}
 
 \hypersetup{
 	pdftitle={\thesisTitle},
@@ -71,4 +77,26 @@
 	breaklinks=true,
 	bookmarksnumbered=true,
 	bookmarksopen=true
+}
+
+\definecolor{pblue}{rgb}{0.13,0.13,1}
+\definecolor{pgreen}{rgb}{0,0.5,0}
+\definecolor{pred}{rgb}{0.9,0,0}
+\definecolor{pgrey}{rgb}{0.46,0.45,0.48}
+\definecolor{azull}{HTML}{0073A1}
+\definecolor{blancoo}{HTML}{FFFFFF}
+
+\lstdefinestyle{java}{
+	language=Java,
+	commentstyle=\color{pgreen},
+	stringstyle=\color{pred},
+	keywordstyle=\color{pblue},
+	basicstyle=\footnotesize\ttfamily,
+	frame=lines,
+	breaklines=true,
+	prebreak=\raisebox{0ex}[0ex][0ex]{\ensuremath{\hookleftarrow}},
+	showstringspaces=false,
+	upquote=true,
+	tabsize=1,
+	captionpos=b,
 }

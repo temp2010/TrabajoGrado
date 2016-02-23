@@ -1,0 +1,190 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Apple:keynote:2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Apple Inc.}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {{Apple Inc.}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{sortinit}{A}
+  \field{title}{Keynote '09 User Guide}
+  \field{year}{2010}
+\endentry
+
+\entry{Apple:numbers:2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Apple Inc.}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {{Apple Inc.}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{sortinit}{A}
+  \field{title}{Numbers '09 User Guide}
+  \field{year}{2010}
+\endentry
+
+\entry{Apple:pages:2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Apple Inc.}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {{Apple Inc.}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{sortinit}{A}
+  \field{title}{Pages '09 User Guide}
+  \field{year}{2010}
+\endentry
+
+\entry{WEB:GNU:GPL:2010}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Free Software Foundation, Inc.}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F1}
+  \strng{fullhash}{F1}
+  \field{sortinit}{F}
+  \field{title}{GNU General Public License}
+  \verb{url}
+  \verb http://www.gnu.org/licenses/gpl.html
+  \endverb
+  \field{year}{2010}
+  \field{urlday}{27}
+  \field{urlmonth}{05}
+  \field{urlyear}{2011}
+\endentry
+
+\entry{Jurgens:2000}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {J{\"u}rgens}{J.}%
+     {Manuela}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {FernUniversit{\"a}t Gesamthochschule in Hagen}%
+  }
+  \strng{namehash}{JM1}
+  \strng{fullhash}{JM1}
+  \field{sortinit}{J}
+  \field{title}{LaTeX: eine Einf{\"u}hrung und ein bisschen mehr}
+  \field{year}{2000}
+\endentry
+
+\entry{Jurgens:1995}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {J{\"u}rgens}{J.}%
+     {Manuela}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {FernUniversit{\"a}t Gesamthochschule in Hagen}%
+  }
+  \strng{namehash}{JM1}
+  \strng{fullhash}{JM1}
+  \field{sortinit}{J}
+  \field{title}{LaTeX: Fortgeschrittene Anwendungen}
+  \field{year}{1995}
+\endentry
+
+\entry{Kohm:2011}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kohm}{K.}%
+     {Markus}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jens-Uwe-Morawski}{J.-U.-M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KMJUM1}
+  \strng{fullhash}{KMJUM1}
+  \field{sortinit}{K}
+  \field{title}{KOMA-Script: Die Anleitung}
+  \field{year}{2011}
+\endentry
+
+\entry{Miede:2011}{manual}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Miede}{M.}%
+     {Andr{\'e}}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MA1}
+  \strng{fullhash}{MA1}
+  \field{sortinit}{M}
+  \field{title}{A Classic Thesis Style: An Homage to The Elements of
+  Typographic Style}
+  \field{year}{2011}
+\endentry
+
+\entry{WEB:Miede:2011}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Miede}{M.}%
+     {Andr{\'e}}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MA1}
+  \strng{fullhash}{MA1}
+  \field{sortinit}{M}
+  \field{title}{A Classic Thesis Style by Andr{\'e} Miede}
+  \verb{url}
+  \verb http://www.miede.de/index.php?page=classicthesis
+  \endverb
+  \field{year}{2011}
+  \field{urlday}{27}
+  \field{urlmonth}{05}
+  \field{urlyear}{2011}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

@@ -6,244 +6,252 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Descripci\IeC {\'o}n del proyecto}{3}{section*.4}
+\contentsline {xchapter}{Descripci\IeC {\'o}n del proyecto}{5}{section*.2}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Presentaci\IeC {\'o}n de la organizaci\IeC {\'o}n}{5}{section*.11}
+\contentsline {xchapter}{Presentaci\IeC {\'o}n de la organizaci\IeC {\'o}n}{7}{section*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Organigrama Creatics\relax }}{7}{figure.caption.19}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Organigrama Creatics\relax }}{9}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Mapa de Procesos\relax }}{8}{figure.caption.21}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Metodolog\IeC {\'\i }a y Cronograma de trabajo}{9}{section*.22}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Visi\IeC {\'o}n general de Scrum\relax }}{10}{figure.caption.25}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Cronograma\relax }}{14}{figure.caption.36}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Mapa de Procesos\relax }}{10}{figure.caption.19}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Arquitectura Empresarial}{15}{section*.37}
+\contentsline {xchapter}{Metodolog\IeC {\'\i }a y Cronograma de trabajo}{11}{section*.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Componentes de Arquitectura Empresarial\relax }}{17}{figure.caption.40}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Visi\IeC {\'o}n general de Scrum\relax }}{12}{figure.caption.23}
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Framework y Modelado}{19}{section*.45}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces El ciclo del Modelo de Desarrollo de la Arquitectura\relax }}{23}{figure.caption.53}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Metamodelos y diferentes niveles de especificaci\IeC {\'o}n\relax }}{27}{figure.caption.57}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Conceptos b\IeC {\'a}sicos de ArchiMate\relax }}{28}{figure.caption.59}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Colaboraci\IeC {\'o}n e interacci\IeC {\'o}n\relax }}{29}{figure.caption.61}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Estructura de la Arquitectura\relax }}{30}{figure.caption.65}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Relaci\IeC {\'o}n entre los elementos b\IeC {\'a}sicos de motivaci\IeC {\'o}n en ArchiMate\relax }}{32}{figure.caption.67}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Relaciones entre la motivaci\IeC {\'o}n, Core, Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n\relax }}{33}{figure.caption.69}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Correspondencia entre ArchiMate (incluyendo extensiones) y TOGAF\relax }}{34}{figure.caption.71}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Cronograma\relax }}{16}{figure.caption.28}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Patrones}{35}{section*.72}
+\contentsline {xchapter}{Arquitectura Empresarial}{17}{section*.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Componentes de Arquitectura Empresarial\relax }}{19}{figure.caption.32}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Colosoft}{43}{section*.87}
+\contentsline {xchapter}{Framework y Modelado}{21}{section*.37}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Interfaz Coloso\relax }}{44}{figure.caption.89}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces El ciclo del Modelo de Desarrollo de la Arquitectura\relax }}{25}{figure.caption.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Metamodelos y diferentes niveles de especificaci\IeC {\'o}n\relax }}{29}{figure.caption.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Conceptos b\IeC {\'a}sicos de ArchiMate\relax }}{30}{figure.caption.50}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Colaboraci\IeC {\'o}n e interacci\IeC {\'o}n\relax }}{31}{figure.caption.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Estructura de la Arquitectura\relax }}{32}{figure.caption.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Relaci\IeC {\'o}n entre los elementos b\IeC {\'a}sicos de motivaci\IeC {\'o}n en ArchiMate\relax }}{34}{figure.caption.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Relaciones entre la motivaci\IeC {\'o}n, Core, Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n\relax }}{35}{figure.caption.60}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Correspondencia entre ArchiMate (incluyendo extensiones) y TOGAF\relax }}{36}{figure.caption.62}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{Patrones}{37}{section*.63}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{Colosoft}{45}{section*.72}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Interfaz Coloso\relax }}{46}{figure.caption.74}
 \defcounter {refsection}{0}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Modelo de Negocio}{47}{section*.91}
+\contentsline {xchapter}{Modelo de Negocio}{49}{section*.76}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Posici\IeC {\'o}n del punto de vista de organizaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{48}{figure.caption.94}
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Posici\IeC {\'o}n del punto de vista de organizaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{50}{figure.caption.79}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Metamodelo Punto de vista organizaci\IeC {\'o}n\relax }}{49}{figure.caption.96}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Metamodelo Punto de vista organizaci\IeC {\'o}n\relax }}{51}{figure.caption.81}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Modelo Punto de vista organizaci\IeC {\'o}n: minstituto\relax }}{49}{figure.caption.98}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Modelo Punto de vista organizaci\IeC {\'o}n: minstituto\relax }}{51}{figure.caption.83}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.4}{\ignorespaces Posici\IeC {\'o}n del punto de vista cooperaci\IeC {\'o}n de actor conceptualmente y marco del punto de vista\relax }}{50}{figure.caption.101}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Posici\IeC {\'o}n del punto de vista cooperaci\IeC {\'o}n de actor conceptualmente y marco del punto de vista\relax }}{52}{figure.caption.86}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.5}{\ignorespaces Metamodelo Punto de Vista Cooperaci\IeC {\'o}n de Actor\relax }}{51}{figure.caption.103}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Metamodelo Punto de Vista Cooperaci\IeC {\'o}n de Actor\relax }}{53}{figure.caption.88}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.6}{\ignorespaces Modelo Punto de Vista Cooperaci\IeC {\'o}n de Actor: minstituto\relax }}{52}{figure.caption.105}
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Modelo Punto de Vista Cooperaci\IeC {\'o}n de Actor: minstituto\relax }}{53}{figure.caption.90}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.7}{\ignorespaces Posici\IeC {\'o}n del punto de vista funci\IeC {\'o}n de negocio conceptualmente y marco del punto de vista\relax }}{53}{figure.caption.108}
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Posici\IeC {\'o}n del punto de vista funci\IeC {\'o}n de negocio conceptualmente y marco del punto de vista\relax }}{54}{figure.caption.93}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.8}{\ignorespaces Metamodelo Punto de Vista Funci\IeC {\'o}n de Negocio\relax }}{53}{figure.caption.110}
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Metamodelo Punto de Vista Funci\IeC {\'o}n de Negocio\relax }}{54}{figure.caption.95}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.9}{\ignorespaces Modelo Punto de Vista Funci\IeC {\'o}n de Negocio: minstituto\relax }}{54}{figure.caption.112}
+\contentsline {figure}{\numberline {8.9}{\ignorespaces Modelo Punto de Vista Funci\IeC {\'o}n de Negocio: minstituto\relax }}{55}{figure.caption.97}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.10}{\ignorespaces Posici\IeC {\'o}n del punto de vista proceso de negocio conceptualmente y marco del punto de vista\relax }}{55}{figure.caption.115}
+\contentsline {figure}{\numberline {8.10}{\ignorespaces Posici\IeC {\'o}n del punto de vista proceso de negocio conceptualmente y marco del punto de vista\relax }}{56}{figure.caption.100}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.11}{\ignorespaces Metamodelo Punto de Vista Proceso de Negocio\relax }}{56}{figure.caption.117}
+\contentsline {figure}{\numberline {8.11}{\ignorespaces Metamodelo Punto de Vista Proceso de Negocio\relax }}{57}{figure.caption.102}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.12}{\ignorespaces Modelo Punto de Vista Proceso de Negocio: minstituto\relax }}{56}{figure.caption.119}
+\contentsline {figure}{\numberline {8.12}{\ignorespaces Modelo Punto de Vista Proceso de Negocio: minstituto\relax }}{57}{figure.caption.104}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.13}{\ignorespaces Posici\IeC {\'o}n del punto de vista de cooperaci\IeC {\'o}n de proceso conceptualmente y marco del punto de vista\relax }}{57}{figure.caption.122}
+\contentsline {figure}{\numberline {8.13}{\ignorespaces Posici\IeC {\'o}n del punto de vista de cooperaci\IeC {\'o}n de proceso conceptualmente y marco del punto de vista\relax }}{58}{figure.caption.107}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.14}{\ignorespaces Metamodelo Punto de Vista de Producto\relax }}{58}{figure.caption.124}
+\contentsline {figure}{\numberline {8.14}{\ignorespaces Metamodelo Punto de Vista de Producto\relax }}{59}{figure.caption.109}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.15}{\ignorespaces Modelo Punto de Vista de Producto: minstituto\relax }}{59}{figure.caption.126}
+\contentsline {figure}{\numberline {8.15}{\ignorespaces Modelo Punto de Vista de Producto: minstituto\relax }}{60}{figure.caption.111}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.16}{\ignorespaces Posici\IeC {\'o}n del Punto de Vista de Producto conceptualmente y marco del punto de vista\relax }}{60}{figure.caption.129}
+\contentsline {figure}{\numberline {8.16}{\ignorespaces Posici\IeC {\'o}n del Punto de Vista de Producto conceptualmente y marco del punto de vista\relax }}{61}{figure.caption.114}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.17}{\ignorespaces Metamodelo Punto de Vista de Producto\relax }}{60}{figure.caption.131}
+\contentsline {figure}{\numberline {8.17}{\ignorespaces Metamodelo Punto de Vista de Producto\relax }}{61}{figure.caption.116}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8.18}{\ignorespaces Modelo Punto de Vista de Producto: minstituto\relax }}{61}{figure.caption.133}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Capa de Aplicaci\IeC {\'o}n}{63}{section*.134}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.1}{\ignorespaces Posici\IeC {\'o}n del punto de vista comportamiento de aplicaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{64}{figure.caption.137}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.2}{\ignorespaces Metamodelo punto de vista comportamiento de aplicaci\IeC {\'o}n\relax }}{65}{figure.caption.139}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.3}{\ignorespaces Modelo punto de vista comportamiento de aplicaci\IeC {\'o}n: minstituto\relax }}{66}{figure.caption.141}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.4}{\ignorespaces Posici\IeC {\'o}n del punto de vista cooperaci\IeC {\'o}n de aplicaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{67}{figure.caption.144}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.5}{\ignorespaces Metamodelo punto de vista cooperaci\IeC {\'o}n de aplicaci\IeC {\'o}n\relax }}{67}{figure.caption.146}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.6}{\ignorespaces Modelo Punto de Vista Cooperaci\IeC {\'o}n de Aplicaci\IeC {\'o}n: minstituto\relax }}{68}{figure.caption.148}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.7}{\ignorespaces Posici\IeC {\'o}n del punto de vista estructura de aplicaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{69}{figure.caption.151}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.8}{\ignorespaces Metamodelo punto de vista estructura de aplicaci\IeC {\'o}n\relax }}{69}{figure.caption.153}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.9}{\ignorespaces Modelo punto de vista estructura de aplicaci\IeC {\'o}n: minstituto\relax }}{70}{figure.caption.155}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.10}{\ignorespaces Posici\IeC {\'o}n del punto de vista de Uso de Aplicaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{71}{figure.caption.158}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.11}{\ignorespaces Metamodelo punto de vista de Uso de Aplicaci\IeC {\'o}n\relax }}{72}{figure.caption.160}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9.12}{\ignorespaces Modelo punto de vista de Uso de Aplicaci\IeC {\'o}n: minstituto\relax }}{73}{figure.caption.162}
+\contentsline {figure}{\numberline {8.18}{\ignorespaces Modelo Punto de Vista de Producto: minstituto\relax }}{62}{figure.caption.118}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Capa de Infraestructura}{75}{section*.163}
+\contentsline {xchapter}{Capa de Aplicaci\IeC {\'o}n}{63}{section*.119}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Posici\IeC {\'o}n del punto de vista de infraestructura conceptual y marco del punto de vista\relax }}{76}{figure.caption.166}
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Posici\IeC {\'o}n del punto de vista comportamiento de aplicaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{64}{figure.caption.122}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.2}{\ignorespaces Metamodelo punto de vista de infraestructura\relax }}{77}{figure.caption.168}
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Metamodelo punto de vista comportamiento de aplicaci\IeC {\'o}n\relax }}{65}{figure.caption.124}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.3}{\ignorespaces Modelo punto de vista de infraestructura: minstituto\relax }}{78}{figure.caption.170}
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Modelo punto de vista comportamiento de aplicaci\IeC {\'o}n: minstituto\relax }}{66}{figure.caption.126}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.4}{\ignorespaces Posici\IeC {\'o}n del punto de vista uso de infraestructura conceptualmente y marco del punto de vista\relax }}{79}{figure.caption.173}
+\contentsline {figure}{\numberline {9.4}{\ignorespaces Posici\IeC {\'o}n del punto de vista cooperaci\IeC {\'o}n de aplicaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{67}{figure.caption.129}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.5}{\ignorespaces Metamodelo punto de vista uso de infraestructura\relax }}{79}{figure.caption.175}
+\contentsline {figure}{\numberline {9.5}{\ignorespaces Metamodelo punto de vista cooperaci\IeC {\'o}n de aplicaci\IeC {\'o}n\relax }}{67}{figure.caption.131}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.6}{\ignorespaces Modelo punto de vista uso de infraestructura: minstituto\relax }}{80}{figure.caption.177}
+\contentsline {figure}{\numberline {9.6}{\ignorespaces Modelo Punto de Vista Cooperaci\IeC {\'o}n de Aplicaci\IeC {\'o}n: minstituto\relax }}{68}{figure.caption.133}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.7}{\ignorespaces Posici\IeC {\'o}n de la organizaci\IeC {\'o}n e implementaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{81}{figure.caption.180}
+\contentsline {figure}{\numberline {9.7}{\ignorespaces Posici\IeC {\'o}n del punto de vista estructura de aplicaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{69}{figure.caption.136}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.8}{\ignorespaces Metamodelo punto de vista de organizaci\IeC {\'o}n e implementaci\IeC {\'o}n\relax }}{82}{figure.caption.182}
+\contentsline {figure}{\numberline {9.8}{\ignorespaces Metamodelo punto de vista estructura de aplicaci\IeC {\'o}n\relax }}{69}{figure.caption.138}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.9}{\ignorespaces Modelo punto de vista de organizaci\IeC {\'o}n e implementaci\IeC {\'o}n: minstituto\relax }}{83}{figure.caption.184}
+\contentsline {figure}{\numberline {9.9}{\ignorespaces Modelo punto de vista estructura de aplicaci\IeC {\'o}n: minstituto\relax }}{70}{figure.caption.140}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.10}{\ignorespaces Posici\IeC {\'o}n del punto de vista de estructura de informaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{84}{figure.caption.187}
+\contentsline {figure}{\numberline {9.10}{\ignorespaces Posici\IeC {\'o}n del punto de vista de Uso de Aplicaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{71}{figure.caption.143}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.11}{\ignorespaces Metamodelo punto de vista de estructura de informaci\IeC {\'o}n\relax }}{84}{figure.caption.189}
+\contentsline {figure}{\numberline {9.11}{\ignorespaces Metamodelo punto de vista de Uso de Aplicaci\IeC {\'o}n\relax }}{72}{figure.caption.145}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.12}{\ignorespaces Modelo punto de vista de estructura de informaci\IeC {\'o}n: minstituto\relax }}{85}{figure.caption.191}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.13}{\ignorespaces Posici\IeC {\'o}n del punto de vista de realizaci\IeC {\'o}n del servicio conceptualmente y marco del punto de vista\relax }}{85}{figure.caption.194}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.14}{\ignorespaces Metamodelo punto de vista de estructura de realizaci\IeC {\'o}n del servicio\relax }}{86}{figure.caption.196}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.15}{\ignorespaces Modelo punto de vista de estructura de realizaci\IeC {\'o}n del servicio: minstituto\relax }}{87}{figure.caption.198}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.16}{\ignorespaces Posici\IeC {\'o}n del punto de vista de capas conceptualmente y marco del punto de vista\relax }}{88}{figure.caption.201}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.17}{\ignorespaces Metamodelo punto de vista de capas\relax }}{89}{figure.caption.203}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10.18}{\ignorespaces Modelo punto de vista de capas: minstituto\relax }}{89}{figure.caption.205}
+\contentsline {figure}{\numberline {9.12}{\ignorespaces Modelo punto de vista de Uso de Aplicaci\IeC {\'o}n: minstituto\relax }}{73}{figure.caption.147}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Capa Motivacional}{91}{section*.206}
+\contentsline {xchapter}{Capa de Infraestructura}{75}{section*.148}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.1}{\ignorespaces Posici\IeC {\'o}n del punto de vista de stakeholders conceptualmente y marco del punto de vista\relax }}{92}{figure.caption.209}
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Posici\IeC {\'o}n del punto de vista de infraestructura conceptual y marco del punto de vista\relax }}{76}{figure.caption.151}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.2}{\ignorespaces Metamodelo punto de vista de stakeholders\relax }}{93}{figure.caption.211}
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Metamodelo punto de vista de infraestructura\relax }}{77}{figure.caption.153}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.3}{\ignorespaces Modelo punto de vista de stakeholders: minstituto\relax }}{93}{figure.caption.213}
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Modelo punto de vista de infraestructura: minstituto\relax }}{78}{figure.caption.155}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.4}{\ignorespaces Posici\IeC {\'o}n del punto de vista de la realizaci\IeC {\'o}n de objetivos conceptualmente y marco del punto de vista\relax }}{94}{figure.caption.216}
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Posici\IeC {\'o}n del punto de vista uso de infraestructura conceptualmente y marco del punto de vista\relax }}{79}{figure.caption.158}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.5}{\ignorespaces Metamodelo punto de vista de la realizaci\IeC {\'o}n de objetivos\relax }}{95}{figure.caption.218}
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Metamodelo punto de vista uso de infraestructura\relax }}{79}{figure.caption.160}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.6}{\ignorespaces Modelo punto de vista de la realizaci\IeC {\'o}n de objetivos: minstituto\relax }}{96}{figure.caption.220}
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Modelo punto de vista uso de infraestructura: minstituto\relax }}{80}{figure.caption.162}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.7}{\ignorespaces Posici\IeC {\'o}n del punto de vista de la contribuci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{97}{figure.caption.223}
+\contentsline {figure}{\numberline {10.7}{\ignorespaces Posici\IeC {\'o}n de la organizaci\IeC {\'o}n e implementaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{81}{figure.caption.165}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.8}{\ignorespaces Metamodelo punto de vista de la contribuci\IeC {\'o}n\relax }}{97}{figure.caption.225}
+\contentsline {figure}{\numberline {10.8}{\ignorespaces Metamodelo punto de vista de organizaci\IeC {\'o}n e implementaci\IeC {\'o}n\relax }}{82}{figure.caption.167}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.9}{\ignorespaces Modelo punto de vista de la contribuci\IeC {\'o}n: minstituto\relax }}{98}{figure.caption.227}
+\contentsline {figure}{\numberline {10.9}{\ignorespaces Modelo punto de vista de organizaci\IeC {\'o}n e implementaci\IeC {\'o}n: minstituto\relax }}{83}{figure.caption.169}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.10}{\ignorespaces Posici\IeC {\'o}n del punto de vista de los principios conceptualmente y marco del punto de vista\relax }}{99}{figure.caption.230}
+\contentsline {figure}{\numberline {10.10}{\ignorespaces Posici\IeC {\'o}n del punto de vista de estructura de informaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{84}{figure.caption.172}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.11}{\ignorespaces Metamodelo punto de vista de los principios\relax }}{99}{figure.caption.232}
+\contentsline {figure}{\numberline {10.11}{\ignorespaces Metamodelo punto de vista de estructura de informaci\IeC {\'o}n\relax }}{84}{figure.caption.174}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.12}{\ignorespaces Modelo punto de vista de los principios: minstituto\relax }}{100}{figure.caption.234}
+\contentsline {figure}{\numberline {10.12}{\ignorespaces Modelo punto de vista de estructura de informaci\IeC {\'o}n: minstituto\relax }}{85}{figure.caption.176}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.13}{\ignorespaces Posici\IeC {\'o}n del punto de vista de realizaci\IeC {\'o}n de requerimientos conceptualmente y marco del punto de vista\relax }}{101}{figure.caption.237}
+\contentsline {figure}{\numberline {10.13}{\ignorespaces Posici\IeC {\'o}n del punto de vista de realizaci\IeC {\'o}n del servicio conceptualmente y marco del punto de vista\relax }}{85}{figure.caption.179}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.14}{\ignorespaces Metamodelo punto de vista de realizaci\IeC {\'o}n de requerimientos\relax }}{101}{figure.caption.239}
+\contentsline {figure}{\numberline {10.14}{\ignorespaces Metamodelo punto de vista de estructura de realizaci\IeC {\'o}n del servicio\relax }}{86}{figure.caption.181}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.15}{\ignorespaces Modelo punto de vista de realizaci\IeC {\'o}n de requerimientos: minstituto\relax }}{102}{figure.caption.241}
+\contentsline {figure}{\numberline {10.15}{\ignorespaces Modelo punto de vista de estructura de realizaci\IeC {\'o}n del servicio: minstituto\relax }}{87}{figure.caption.183}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.16}{\ignorespaces Posici\IeC {\'o}n del punto de vista de la motivaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{103}{figure.caption.244}
+\contentsline {figure}{\numberline {10.16}{\ignorespaces Posici\IeC {\'o}n del punto de vista de capas conceptualmente y marco del punto de vista\relax }}{88}{figure.caption.186}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.17}{\ignorespaces Metamodelo punto de vista de la motivaci\IeC {\'o}n\relax }}{103}{figure.caption.246}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11.18}{\ignorespaces Modelo punto de vista de la motivaci\IeC {\'o}n: minstituto\relax }}{104}{figure.caption.248}
+\contentsline {figure}{\numberline {10.17}{\ignorespaces Metamodelo punto de vista de capas\relax }}{89}{figure.caption.188}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n}{105}{section*.249}
+\contentsline {xchapter}{Capa Motivacional}{91}{section*.189}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {12.1}{\ignorespaces Posici\IeC {\'o}n del punto de vista del proyecto conceptualmente y marco del punto de vista\relax }}{106}{figure.caption.252}
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Posici\IeC {\'o}n del punto de vista de stakeholders conceptualmente y marco del punto de vista\relax }}{92}{figure.caption.192}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {12.2}{\ignorespaces Metamodelo punto de vista del proyecto\relax }}{107}{figure.caption.254}
+\contentsline {figure}{\numberline {11.2}{\ignorespaces Metamodelo punto de vista de stakeholders\relax }}{93}{figure.caption.194}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {12.3}{\ignorespaces Modelo punto de vista del proyecto: minstituto\relax }}{107}{figure.caption.256}
+\contentsline {figure}{\numberline {11.3}{\ignorespaces Modelo punto de vista de stakeholders: minstituto\relax }}{93}{figure.caption.196}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {12.4}{\ignorespaces Posici\IeC {\'o}n del punto de vista de migraci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{108}{figure.caption.259}
+\contentsline {figure}{\numberline {11.4}{\ignorespaces Posici\IeC {\'o}n del punto de vista de la realizaci\IeC {\'o}n de objetivos conceptualmente y marco del punto de vista\relax }}{94}{figure.caption.199}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {12.5}{\ignorespaces Metamodelo punto de vista de migraci\IeC {\'o}n\relax }}{108}{figure.caption.261}
+\contentsline {figure}{\numberline {11.5}{\ignorespaces Metamodelo punto de vista de la realizaci\IeC {\'o}n de objetivos\relax }}{95}{figure.caption.201}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {12.6}{\ignorespaces Modelo punto de vista de migraci\IeC {\'o}n: minstituto\relax }}{109}{figure.caption.263}
+\contentsline {figure}{\numberline {11.6}{\ignorespaces Modelo punto de vista de la realizaci\IeC {\'o}n de objetivos: minstituto\relax }}{96}{figure.caption.203}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {12.7}{\ignorespaces Posici\IeC {\'o}n del punto de vista de la implementaci\IeC {\'o}n y migraci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{110}{figure.caption.266}
+\contentsline {figure}{\numberline {11.7}{\ignorespaces Posici\IeC {\'o}n del punto de vista de la contribuci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{97}{figure.caption.206}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {12.8}{\ignorespaces Metamodelo punto de vista de la implementaci\IeC {\'o}n y migraci\IeC {\'o}n\relax }}{110}{figure.caption.268}
+\contentsline {figure}{\numberline {11.8}{\ignorespaces Metamodelo punto de vista de la contribuci\IeC {\'o}n\relax }}{97}{figure.caption.208}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {12.9}{\ignorespaces Modelo punto de vista de la implementaci\IeC {\'o}n y migraci\IeC {\'o}n: minstituto\relax }}{111}{figure.caption.270}
+\contentsline {figure}{\numberline {11.9}{\ignorespaces Modelo punto de vista de la contribuci\IeC {\'o}n: minstituto\relax }}{98}{figure.caption.210}
 \defcounter {refsection}{0}\relax 
-\ttl@tocsep 
+\contentsline {figure}{\numberline {11.10}{\ignorespaces Posici\IeC {\'o}n del punto de vista de los principios conceptualmente y marco del punto de vista\relax }}{99}{figure.caption.213}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11.11}{\ignorespaces Metamodelo punto de vista de los principios\relax }}{99}{figure.caption.215}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11.12}{\ignorespaces Modelo punto de vista de los principios: minstituto\relax }}{100}{figure.caption.217}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11.13}{\ignorespaces Posici\IeC {\'o}n del punto de vista de realizaci\IeC {\'o}n de requerimientos conceptualmente y marco del punto de vista\relax }}{101}{figure.caption.220}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11.14}{\ignorespaces Metamodelo punto de vista de realizaci\IeC {\'o}n de requerimientos\relax }}{101}{figure.caption.222}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11.15}{\ignorespaces Modelo punto de vista de realizaci\IeC {\'o}n de requerimientos: minstituto\relax }}{102}{figure.caption.224}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11.16}{\ignorespaces Posici\IeC {\'o}n del punto de vista de la motivaci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{103}{figure.caption.227}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11.17}{\ignorespaces Metamodelo punto de vista de la motivaci\IeC {\'o}n\relax }}{103}{figure.caption.229}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11.18}{\ignorespaces Modelo punto de vista de la motivaci\IeC {\'o}n: minstituto\relax }}{104}{figure.caption.231}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n}{105}{section*.232}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12.1}{\ignorespaces Posici\IeC {\'o}n del punto de vista del proyecto conceptualmente y marco del punto de vista\relax }}{106}{figure.caption.235}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12.2}{\ignorespaces Metamodelo punto de vista del proyecto\relax }}{107}{figure.caption.237}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12.3}{\ignorespaces Modelo punto de vista del proyecto: minstituto\relax }}{107}{figure.caption.239}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12.4}{\ignorespaces Posici\IeC {\'o}n del punto de vista de migraci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{108}{figure.caption.242}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12.5}{\ignorespaces Metamodelo punto de vista de migraci\IeC {\'o}n\relax }}{109}{figure.caption.244}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12.6}{\ignorespaces Modelo punto de vista de migraci\IeC {\'o}n: minstituto\relax }}{109}{figure.caption.246}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12.7}{\ignorespaces Posici\IeC {\'o}n del punto de vista de la implementaci\IeC {\'o}n y migraci\IeC {\'o}n conceptualmente y marco del punto de vista\relax }}{110}{figure.caption.249}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12.8}{\ignorespaces Metamodelo punto de vista de la implementaci\IeC {\'o}n y migraci\IeC {\'o}n\relax }}{110}{figure.caption.251}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12.9}{\ignorespaces Modelo punto de vista de la implementaci\IeC {\'o}n y migraci\IeC {\'o}n: minstituto\relax }}{111}{figure.caption.253}
 \defcounter {refsection}{0}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Patrones}{123}{section*.273}
+\contentsline {xchapter}{Bibliograf\'{\i }a}{119}{section*.257}
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Resumen Simbolog\IeC {\'\i }a Archimate 2.1}{125}{section*.274}
+\contentsline {xchapter}{Patrones}{123}{section*.260}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Patr\IeC {\'o}n cadena de responsabilidad mInstituto\relax }}{124}{figure.caption.262}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Patr\IeC {\'o}n fabrica abstracta mInstituto\relax }}{126}{figure.caption.266}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Patr\IeC {\'o}n decorador mInstituto\relax }}{128}{figure.caption.270}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{A Software Architecture Proposal Artistic Engineering Environment -AEE}{135}{section*.284}
+\contentsline {xchapter}{Resumen Simbolog\IeC {\'\i }a Archimate 2.1}{131}{section*.273}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{A Software Architecture Proposal Artistic Engineering Environment -AEE}{141}{section*.283}

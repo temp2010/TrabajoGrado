@@ -54,9 +54,9 @@
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>blx-natbib.def</file>
-      <file>alphabetic.bbx</file>
+      <file>numeric.bbx</file>
       <file>standard.bbx</file>
-      <file>alphabetic.cbx</file>
+      <file>numeric.cbx</file>
       <file>biblatex.cfg</file>
       <file>spanish.lbx</file>
     </requires>
@@ -82,7 +82,7 @@
       <file>proyecto-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>bib-refs.bib</file>
+      <file>bibliografia.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>

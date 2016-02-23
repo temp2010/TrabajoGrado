@@ -1,154 +1,170 @@
 \BOOKMARK [0][]{Portada.0}{Portada}{}% 1
 \BOOKMARK [0][]{Titulo.0}{Titulo}{}% 2
-\BOOKMARK [0][]{Abstract.0}{Resumen}{}% 3
-\BOOKMARK [-1][]{section*.3}{I Contextualizaci\363n}{}% 4
-\BOOKMARK [0][]{chapter.1}{1 Descripci\363n del proyecto}{section*.3}% 5
-\BOOKMARK [1][]{section*.5}{1.1 Definici\363n del problema}{chapter.1}% 6
-\BOOKMARK [1][]{section*.6}{1.2 Formulaci\363n del problema}{chapter.1}% 7
-\BOOKMARK [1][]{section*.7}{1.3 Objetivos}{chapter.1}% 8
-\BOOKMARK [2][]{section*.8}{1.3.1 Objetivo General}{section*.7}% 9
-\BOOKMARK [2][]{section*.9}{1.3.2 Objetivos Espec\355ficos}{section*.7}% 10
-\BOOKMARK [1][]{section*.10}{1.4 Alcance}{chapter.1}% 11
-\BOOKMARK [0][]{chapter.2}{2 Presentaci\363n de la organizaci\363n}{section*.3}% 12
-\BOOKMARK [1][]{section*.12}{2.1 Filosof\355a Organizacional}{chapter.2}% 13
-\BOOKMARK [2][]{section*.13}{2.1.1 Misi\363n}{section*.12}% 14
-\BOOKMARK [2][]{section*.14}{2.1.2 Visi\363n}{section*.12}% 15
-\BOOKMARK [2][]{section*.15}{2.1.3 Objetivos estrat\351gicos}{section*.12}% 16
-\BOOKMARK [2][]{section*.16}{2.1.4 Principios}{section*.12}% 17
-\BOOKMARK [2][]{section*.17}{2.1.5 Valores}{section*.12}% 18
-\BOOKMARK [1][]{section*.18}{2.2 Estructura Organizacional}{chapter.2}% 19
-\BOOKMARK [1][]{section*.20}{2.3 Mapa de Procesos}{chapter.2}% 20
-\BOOKMARK [0][]{chapter.3}{3 Metodolog\355a y Cronograma de trabajo}{section*.3}% 21
-\BOOKMARK [1][]{section*.23}{3.1 Metodolog\355a SCRUM}{chapter.3}% 22
-\BOOKMARK [2][]{section*.24}{3.1.1 Visi\363n General}{section*.23}% 23
-\BOOKMARK [2][]{section*.26}{3.1.2 Teor\355a de Scrum}{section*.23}% 24
-\BOOKMARK [2][]{section*.27}{3.1.3 Eventos de Scrum}{section*.23}% 25
-\BOOKMARK [2][]{section*.31}{3.1.4 El equipo Scrum}{section*.23}% 26
-\BOOKMARK [1][]{section*.35}{3.2 Cronograma}{chapter.3}% 27
-\BOOKMARK [0][]{chapter.4}{4 Arquitectura Empresarial}{section*.3}% 28
-\BOOKMARK [1][]{section*.38}{4.1 Arquitectura empresarial}{chapter.4}% 29
-\BOOKMARK [1][]{section*.39}{4.2 Componentes de una Arquitectura Empresarial}{chapter.4}% 30
-\BOOKMARK [2][]{section*.41}{4.2.1 Arquitectura de negocio}{section*.39}% 31
-\BOOKMARK [2][]{section*.42}{4.2.2 Arquitectura de informaci\363n}{section*.39}% 32
-\BOOKMARK [2][]{section*.43}{4.2.3 Arquitectura de sistemas de informaci\363n o aplicaciones}{section*.39}% 33
-\BOOKMARK [2][]{section*.44}{4.2.4 Arquitectura tecnol\363gica}{section*.39}% 34
-\BOOKMARK [0][]{chapter.5}{5 Framework y Modelado}{section*.3}% 35
-\BOOKMARK [1][]{section*.46}{5.1 The Open Group}{chapter.5}% 36
-\BOOKMARK [1][]{section*.47}{5.2 TOGAF}{chapter.5}% 37
-\BOOKMARK [2][]{section*.48}{5.2.1 \277Qu\351 es Arquitectura para TOGAF?}{section*.47}% 38
-\BOOKMARK [2][]{section*.49}{5.2.2 Arquitectura soportada por TOGAF}{section*.47}% 39
-\BOOKMARK [2][]{section*.51}{5.2.3 M\351todo de desarrollo de la Arquitectura \(ADM\)}{section*.47}% 40
-\BOOKMARK [1][]{section*.55}{5.3 Archimate 2.1}{chapter.5}% 41
-\BOOKMARK [2][]{section*.56}{5.3.1 Versiones}{section*.55}% 42
-\BOOKMARK [2][]{section*.58}{5.3.2 Conceptos centrales}{section*.55}% 43
-\BOOKMARK [2][]{section*.60}{5.3.3 Colaboraci\363n e interacci\363n}{section*.55}% 44
-\BOOKMARK [2][]{section*.62}{5.3.4 Relaciones}{section*.55}% 45
-\BOOKMARK [2][]{section*.63}{5.3.5 Capas}{section*.55}% 46
-\BOOKMARK [2][]{section*.64}{5.3.6 Marco de referencia}{section*.55}% 47
-\BOOKMARK [2][]{section*.66}{5.3.7 Motivaci\363n}{section*.55}% 48
-\BOOKMARK [2][]{section*.68}{5.3.8 Implementaci\363n y Migraci\363n}{section*.55}% 49
-\BOOKMARK [2][]{section*.70}{5.3.9 Archimate: Su relaci\363n con TOGAF}{section*.55}% 50
-\BOOKMARK [0][]{chapter.6}{6 Patrones}{section*.3}% 51
-\BOOKMARK [1][]{section*.73}{6.1 Programaci\363n Orientada a objetos}{chapter.6}% 52
-\BOOKMARK [1][]{section*.74}{6.2 Patrones de software}{chapter.6}% 53
-\BOOKMARK [2][]{section*.75}{6.2.1 Definiciones}{section*.74}% 54
-\BOOKMARK [2][]{section*.76}{6.2.2 Clases de patrones software}{section*.74}% 55
-\BOOKMARK [1][]{section*.77}{6.3 Patrones de Dise\361o}{chapter.6}% 56
-\BOOKMARK [2][]{section*.78}{6.3.1 Clasificaci\363n de los patrones de dise\361o}{section*.77}% 57
-\BOOKMARK [0][]{chapter.7}{7 Colosoft}{section*.3}% 58
-\BOOKMARK [1][]{section*.88}{7.1 Descripci\363n}{chapter.7}% 59
-\BOOKMARK [-1][]{section*.90}{II Arquitectura Empresarial}{}% 60
-\BOOKMARK [0][]{chapter.8}{8 Modelo de Negocio}{section*.90}% 61
-\BOOKMARK [1][]{section*.92}{8.1 Punto de Vista de la Organizaci\363n}{chapter.8}% 62
-\BOOKMARK [2][]{section*.95}{8.1.1 Metamodelo}{section*.92}% 63
-\BOOKMARK [2][]{section*.97}{8.1.2 Modelo mInstituto}{section*.92}% 64
-\BOOKMARK [1][]{section*.99}{8.2 Punto de Vista Cooperaci\363n de Actor}{chapter.8}% 65
-\BOOKMARK [2][]{section*.102}{8.2.1 Metamodelo}{section*.99}% 66
-\BOOKMARK [2][]{section*.104}{8.2.2 Modelo mInstituto}{section*.99}% 67
-\BOOKMARK [1][]{section*.106}{8.3 Punto de Vista Funci\363n de Negocio}{chapter.8}% 68
-\BOOKMARK [2][]{section*.109}{8.3.1 Metamodelo}{section*.106}% 69
-\BOOKMARK [2][]{section*.111}{8.3.2 Modelo mInstituto}{section*.106}% 70
-\BOOKMARK [1][]{section*.113}{8.4 Punto de Vista Proceso de Negocio}{chapter.8}% 71
-\BOOKMARK [2][]{section*.116}{8.4.1 Metamodelo}{section*.113}% 72
-\BOOKMARK [2][]{section*.118}{8.4.2 Modelo mInstituto}{section*.113}% 73
-\BOOKMARK [1][]{section*.120}{8.5 Punto de Vista Cooperaci\363n de Proceso de Negocio}{chapter.8}% 74
-\BOOKMARK [2][]{section*.123}{8.5.1 Metamodelo}{section*.120}% 75
-\BOOKMARK [2][]{section*.125}{8.5.2 Modelo mInstituto}{section*.120}% 76
-\BOOKMARK [1][]{section*.127}{8.6 Punto de Vista de Producto}{chapter.8}% 77
-\BOOKMARK [2][]{section*.130}{8.6.1 Metamodelo}{section*.127}% 78
-\BOOKMARK [2][]{section*.132}{8.6.2 Modelo mInstituto}{section*.127}% 79
-\BOOKMARK [0][]{chapter.9}{9 Capa de Aplicaci\363n}{section*.90}% 80
-\BOOKMARK [1][]{section*.135}{9.1 Punto de Vista Comportamiento de Aplicaci\363n}{chapter.9}% 81
-\BOOKMARK [2][]{section*.138}{9.1.1 Metamodelo}{section*.135}% 82
-\BOOKMARK [2][]{section*.140}{9.1.2 Modelo mInstituto}{section*.135}% 83
-\BOOKMARK [1][]{section*.142}{9.2 Punto de Vista Cooperaci\363n de Aplicaci\363n}{chapter.9}% 84
-\BOOKMARK [2][]{section*.145}{9.2.1 Metamodelo}{section*.142}% 85
-\BOOKMARK [2][]{section*.147}{9.2.2 Modelo mInstituto}{section*.142}% 86
-\BOOKMARK [1][]{section*.149}{9.3 Punto de Vista Estructura de Aplicaci\363n}{chapter.9}% 87
-\BOOKMARK [2][]{section*.152}{9.3.1 Metamodelo}{section*.149}% 88
-\BOOKMARK [2][]{section*.154}{9.3.2 Modelo mInstituto}{section*.149}% 89
-\BOOKMARK [1][]{section*.156}{9.4 Punto de Vista de Uso de Aplicaci\363n}{chapter.9}% 90
-\BOOKMARK [2][]{section*.159}{9.4.1 Metamodelo}{section*.156}% 91
-\BOOKMARK [2][]{section*.161}{9.4.2 Modelo mInstituto}{section*.156}% 92
-\BOOKMARK [0][]{chapter.10}{10 Capa de Infraestructura}{section*.90}% 93
-\BOOKMARK [1][]{section*.164}{10.1 Punto de Vista de Infraestructura}{chapter.10}% 94
-\BOOKMARK [2][]{section*.167}{10.1.1 Metamodelo}{section*.164}% 95
-\BOOKMARK [2][]{section*.169}{10.1.2 Modelo mInstituto}{section*.164}% 96
-\BOOKMARK [1][]{section*.171}{10.2 Punto de Vista Uso de Infraestructura}{chapter.10}% 97
-\BOOKMARK [2][]{section*.174}{10.2.1 Metamodelo}{section*.171}% 98
-\BOOKMARK [2][]{section*.176}{10.2.2 Modelo mInstituto}{section*.171}% 99
-\BOOKMARK [1][]{section*.178}{10.3 Punto de Vista de Organizaci\363n e implementaci\363n}{chapter.10}% 100
-\BOOKMARK [2][]{section*.181}{10.3.1 Metamodelo}{section*.178}% 101
-\BOOKMARK [2][]{section*.183}{10.3.2 Modelo mInstituto}{section*.178}% 102
-\BOOKMARK [1][]{section*.185}{10.4 Punto de Vista de Estructura de Informaci\363n}{chapter.10}% 103
-\BOOKMARK [2][]{section*.188}{10.4.1 Metamodelo}{section*.185}% 104
-\BOOKMARK [2][]{section*.190}{10.4.2 Modelo mInstituto}{section*.185}% 105
-\BOOKMARK [1][]{section*.192}{10.5 Punto de vista de realizaci\363n del servicio}{chapter.10}% 106
-\BOOKMARK [2][]{section*.195}{10.5.1 Metamodelo}{section*.192}% 107
-\BOOKMARK [2][]{section*.197}{10.5.2 Modelo mInstituto}{section*.192}% 108
-\BOOKMARK [1][]{section*.199}{10.6 Punto de Vista de Capas}{chapter.10}% 109
-\BOOKMARK [2][]{section*.202}{10.6.1 Metamodelo}{section*.199}% 110
-\BOOKMARK [2][]{section*.204}{10.6.2 Modelo mInstituto}{section*.199}% 111
-\BOOKMARK [0][]{chapter.11}{11 Capa Motivacional}{section*.90}% 112
-\BOOKMARK [1][]{section*.207}{11.1 Punto de Vista de Stakeholder}{chapter.11}% 113
-\BOOKMARK [2][]{section*.210}{11.1.1 Metamodelo}{section*.207}% 114
-\BOOKMARK [2][]{section*.212}{11.1.2 Modelo mInstituto}{section*.207}% 115
-\BOOKMARK [1][]{section*.214}{11.2 Punto de Vista de Realizaci\363n de Objetivos}{chapter.11}% 116
-\BOOKMARK [2][]{section*.217}{11.2.1 Metamodelo}{section*.214}% 117
-\BOOKMARK [2][]{section*.219}{11.2.2 Modelo mInstituto}{section*.214}% 118
-\BOOKMARK [1][]{section*.221}{11.3 Punto de Vista de Contribuci\363n}{chapter.11}% 119
-\BOOKMARK [2][]{section*.224}{11.3.1 Metamodelo}{section*.221}% 120
-\BOOKMARK [2][]{section*.226}{11.3.2 Modelo mInstituto}{section*.221}% 121
-\BOOKMARK [1][]{section*.228}{11.4 Punto de Vista de Principios}{chapter.11}% 122
-\BOOKMARK [2][]{section*.231}{11.4.1 Metamodelo}{section*.228}% 123
-\BOOKMARK [2][]{section*.233}{11.4.2 Modelo mInstituto}{section*.228}% 124
-\BOOKMARK [1][]{section*.235}{11.5 Punto de Vista de Realizaci\363n de Requerimientos}{chapter.11}% 125
-\BOOKMARK [2][]{section*.238}{11.5.1 Metamodelo}{section*.235}% 126
-\BOOKMARK [2][]{section*.240}{11.5.2 Modelo mInstituto}{section*.235}% 127
-\BOOKMARK [1][]{section*.242}{11.6 Punto de Vista de Motivaci\363n}{chapter.11}% 128
-\BOOKMARK [2][]{section*.245}{11.6.1 Metamodelo}{section*.242}% 129
-\BOOKMARK [2][]{section*.247}{11.6.2 Modelo mInstituto}{section*.242}% 130
-\BOOKMARK [0][]{chapter.12}{12 Implementaci\363n y Migraci\363n}{section*.90}% 131
-\BOOKMARK [1][]{section*.250}{12.1 Punto de Vista de Proyecto}{chapter.12}% 132
-\BOOKMARK [2][]{section*.253}{12.1.1 Metamodelo}{section*.250}% 133
-\BOOKMARK [2][]{section*.255}{12.1.2 Modelo mInstituto}{section*.250}% 134
-\BOOKMARK [1][]{section*.257}{12.2 Punto de Vista de Migraci\363n}{chapter.12}% 135
-\BOOKMARK [2][]{section*.260}{12.2.1 Metamodelo}{section*.257}% 136
-\BOOKMARK [2][]{section*.262}{12.2.2 Modelo mInstituto}{section*.257}% 137
-\BOOKMARK [1][]{section*.264}{12.3 Punto de Vista de Migraci\363n e Implementaci\363n}{chapter.12}% 138
-\BOOKMARK [2][]{section*.267}{12.3.1 Metamodelo}{section*.264}% 139
-\BOOKMARK [2][]{section*.269}{12.3.2 Modelo mInstituto}{section*.264}% 140
-\BOOKMARK [-1][]{section*.271}{III Conclusiones}{}% 141
-\BOOKMARK [-1][]{section*.272}{IV Anexos}{}% 142
-\BOOKMARK [0][]{appendix.Alph1}{A Patrones}{section*.272}% 143
-\BOOKMARK [0][]{appendix.Alph2}{B Resumen Simbolog\355a Archimate 2.1}{section*.272}% 144
-\BOOKMARK [1][]{section*.275}{B.1 Capa de Negocios}{appendix.Alph2}% 145
-\BOOKMARK [1][]{section*.276}{B.2 Capa de Aplicaci\363n}{appendix.Alph2}% 146
-\BOOKMARK [1][]{section*.277}{B.3 Capa de Tecnolog\355a}{appendix.Alph2}% 147
-\BOOKMARK [1][]{section*.278}{B.4 Relaciones}{appendix.Alph2}% 148
-\BOOKMARK [2][]{section*.279}{B.4.1 Estructurales}{section*.278}% 149
-\BOOKMARK [2][]{section*.280}{B.4.2 Din\341micas}{section*.278}% 150
-\BOOKMARK [2][]{section*.281}{B.4.3 Otras}{section*.278}% 151
-\BOOKMARK [1][]{section*.282}{B.5 Motivaci\363n}{appendix.Alph2}% 152
-\BOOKMARK [1][]{section*.283}{B.6 Implementaci\363n y Migraci\363n}{appendix.Alph2}% 153
-\BOOKMARK [0][]{appendix.Alph3}{C A Software Architecture Proposal Artistic Engineering Environment -AEE}{section*.272}% 154
+\BOOKMARK [0][]{dedicatoria.0}{Dedicatoria}{}% 3
+\BOOKMARK [0][]{agradecimientos.0}{Agradecimientos}{}% 4
+\BOOKMARK [0][]{resumen.0}{Resumen}{}% 5
+\BOOKMARK [0][]{Abstact.0}{Abstact}{}% 6
+\BOOKMARK [-1][]{section*.1}{I Contextualizaci\363n}{}% 7
+\BOOKMARK [0][]{chapter.1}{1 Descripci\363n del proyecto}{section*.1}% 8
+\BOOKMARK [1][]{section*.3}{1.1 Definici\363n del problema}{chapter.1}% 9
+\BOOKMARK [1][]{section*.4}{1.2 Formulaci\363n del problema}{chapter.1}% 10
+\BOOKMARK [1][]{section*.5}{1.3 Objetivos}{chapter.1}% 11
+\BOOKMARK [2][]{section*.6}{1.3.1 Objetivo General}{section*.5}% 12
+\BOOKMARK [2][]{section*.7}{1.3.2 Objetivos Espec\355ficos}{section*.5}% 13
+\BOOKMARK [1][]{section*.8}{1.4 Alcance}{chapter.1}% 14
+\BOOKMARK [0][]{chapter.2}{2 Presentaci\363n de la organizaci\363n}{section*.1}% 15
+\BOOKMARK [1][]{section*.10}{2.1 Filosof\355a Organizacional}{chapter.2}% 16
+\BOOKMARK [2][]{section*.11}{2.1.1 Misi\363n}{section*.10}% 17
+\BOOKMARK [2][]{section*.12}{2.1.2 Visi\363n}{section*.10}% 18
+\BOOKMARK [2][]{section*.13}{2.1.3 Objetivos estrat\351gicos}{section*.10}% 19
+\BOOKMARK [2][]{section*.14}{2.1.4 Principios}{section*.10}% 20
+\BOOKMARK [2][]{section*.15}{2.1.5 Valores}{section*.10}% 21
+\BOOKMARK [1][]{section*.16}{2.2 Estructura Organizacional}{chapter.2}% 22
+\BOOKMARK [1][]{section*.18}{2.3 Mapa de Procesos}{chapter.2}% 23
+\BOOKMARK [0][]{chapter.3}{3 Metodolog\355a y Cronograma de trabajo}{section*.1}% 24
+\BOOKMARK [1][]{section*.21}{3.1 Metodolog\355a SCRUM}{chapter.3}% 25
+\BOOKMARK [2][]{section*.22}{3.1.1 Visi\363n General}{section*.21}% 26
+\BOOKMARK [2][]{section*.24}{3.1.2 Teor\355a de Scrum}{section*.21}% 27
+\BOOKMARK [2][]{section*.25}{3.1.3 Eventos de Scrum}{section*.21}% 28
+\BOOKMARK [2][]{section*.26}{3.1.4 El equipo Scrum}{section*.21}% 29
+\BOOKMARK [1][]{section*.27}{3.2 Cronograma}{chapter.3}% 30
+\BOOKMARK [0][]{chapter.4}{4 Arquitectura Empresarial}{section*.1}% 31
+\BOOKMARK [1][]{section*.30}{4.1 Arquitectura empresarial}{chapter.4}% 32
+\BOOKMARK [1][]{section*.31}{4.2 Componentes de una Arquitectura Empresarial}{chapter.4}% 33
+\BOOKMARK [2][]{section*.33}{4.2.1 Arquitectura de negocio}{section*.31}% 34
+\BOOKMARK [2][]{section*.34}{4.2.2 Arquitectura de informaci\363n}{section*.31}% 35
+\BOOKMARK [2][]{section*.35}{4.2.3 Arquitectura de sistemas de informaci\363n o aplicaciones}{section*.31}% 36
+\BOOKMARK [2][]{section*.36}{4.2.4 Arquitectura tecnol\363gica}{section*.31}% 37
+\BOOKMARK [0][]{chapter.5}{5 Framework y Modelado}{section*.1}% 38
+\BOOKMARK [1][]{section*.38}{5.1 The Open Group}{chapter.5}% 39
+\BOOKMARK [1][]{section*.39}{5.2 TOGAF}{chapter.5}% 40
+\BOOKMARK [2][]{section*.40}{5.2.1 \277Qu\351 es Arquitectura para TOGAF?}{section*.39}% 41
+\BOOKMARK [2][]{section*.41}{5.2.2 Arquitectura soportada por TOGAF}{section*.39}% 42
+\BOOKMARK [2][]{section*.43}{5.2.3 M\351todo de desarrollo de la Arquitectura \(ADM\)}{section*.39}% 43
+\BOOKMARK [1][]{section*.46}{5.3 Archimate 2.1}{chapter.5}% 44
+\BOOKMARK [2][]{section*.47}{5.3.1 Versiones}{section*.46}% 45
+\BOOKMARK [2][]{section*.49}{5.3.2 Conceptos centrales}{section*.46}% 46
+\BOOKMARK [2][]{section*.51}{5.3.3 Colaboraci\363n e interacci\363n}{section*.46}% 47
+\BOOKMARK [2][]{section*.53}{5.3.4 Relaciones}{section*.46}% 48
+\BOOKMARK [2][]{section*.54}{5.3.5 Capas}{section*.46}% 49
+\BOOKMARK [2][]{section*.55}{5.3.6 Marco de referencia}{section*.46}% 50
+\BOOKMARK [2][]{section*.57}{5.3.7 Motivaci\363n}{section*.46}% 51
+\BOOKMARK [2][]{section*.59}{5.3.8 Implementaci\363n y Migraci\363n}{section*.46}% 52
+\BOOKMARK [2][]{section*.61}{5.3.9 Archimate: Su relaci\363n con TOGAF}{section*.46}% 53
+\BOOKMARK [0][]{chapter.6}{6 Patrones}{section*.1}% 54
+\BOOKMARK [1][]{section*.64}{6.1 Programaci\363n Orientada a objetos}{chapter.6}% 55
+\BOOKMARK [1][]{section*.65}{6.2 Patrones de software}{chapter.6}% 56
+\BOOKMARK [2][]{section*.66}{6.2.1 Definiciones}{section*.65}% 57
+\BOOKMARK [2][]{section*.67}{6.2.2 Clases de patrones software}{section*.65}% 58
+\BOOKMARK [1][]{section*.68}{6.3 Patrones de Dise\361o}{chapter.6}% 59
+\BOOKMARK [2][]{section*.69}{6.3.1 Clasificaci\363n de los patrones de dise\361o}{section*.68}% 60
+\BOOKMARK [0][]{chapter.7}{7 Colosoft}{section*.1}% 61
+\BOOKMARK [1][]{section*.73}{7.1 Descripci\363n}{chapter.7}% 62
+\BOOKMARK [-1][]{section*.75}{II Arquitectura Empresarial}{}% 63
+\BOOKMARK [0][]{chapter.8}{8 Modelo de Negocio}{section*.75}% 64
+\BOOKMARK [1][]{section*.77}{8.1 Punto de Vista de la Organizaci\363n}{chapter.8}% 65
+\BOOKMARK [2][]{section*.80}{8.1.1 Metamodelo}{section*.77}% 66
+\BOOKMARK [2][]{section*.82}{8.1.2 Modelo mInstituto}{section*.77}% 67
+\BOOKMARK [1][]{section*.84}{8.2 Punto de Vista Cooperaci\363n de Actor}{chapter.8}% 68
+\BOOKMARK [2][]{section*.87}{8.2.1 Metamodelo}{section*.84}% 69
+\BOOKMARK [2][]{section*.89}{8.2.2 Modelo mInstituto}{section*.84}% 70
+\BOOKMARK [1][]{section*.91}{8.3 Punto de Vista Funci\363n de Negocio}{chapter.8}% 71
+\BOOKMARK [2][]{section*.94}{8.3.1 Metamodelo}{section*.91}% 72
+\BOOKMARK [2][]{section*.96}{8.3.2 Modelo mInstituto}{section*.91}% 73
+\BOOKMARK [1][]{section*.98}{8.4 Punto de Vista Proceso de Negocio}{chapter.8}% 74
+\BOOKMARK [2][]{section*.101}{8.4.1 Metamodelo}{section*.98}% 75
+\BOOKMARK [2][]{section*.103}{8.4.2 Modelo mInstituto}{section*.98}% 76
+\BOOKMARK [1][]{section*.105}{8.5 Punto de Vista Cooperaci\363n de Proceso de Negocio}{chapter.8}% 77
+\BOOKMARK [2][]{section*.108}{8.5.1 Metamodelo}{section*.105}% 78
+\BOOKMARK [2][]{section*.110}{8.5.2 Modelo mInstituto}{section*.105}% 79
+\BOOKMARK [1][]{section*.112}{8.6 Punto de Vista de Producto}{chapter.8}% 80
+\BOOKMARK [2][]{section*.115}{8.6.1 Metamodelo}{section*.112}% 81
+\BOOKMARK [2][]{section*.117}{8.6.2 Modelo mInstituto}{section*.112}% 82
+\BOOKMARK [0][]{chapter.9}{9 Capa de Aplicaci\363n}{section*.75}% 83
+\BOOKMARK [1][]{section*.120}{9.1 Punto de Vista Comportamiento de Aplicaci\363n}{chapter.9}% 84
+\BOOKMARK [2][]{section*.123}{9.1.1 Metamodelo}{section*.120}% 85
+\BOOKMARK [2][]{section*.125}{9.1.2 Modelo mInstituto}{section*.120}% 86
+\BOOKMARK [1][]{section*.127}{9.2 Punto de Vista Cooperaci\363n de Aplicaci\363n}{chapter.9}% 87
+\BOOKMARK [2][]{section*.130}{9.2.1 Metamodelo}{section*.127}% 88
+\BOOKMARK [2][]{section*.132}{9.2.2 Modelo mInstituto}{section*.127}% 89
+\BOOKMARK [1][]{section*.134}{9.3 Punto de Vista Estructura de Aplicaci\363n}{chapter.9}% 90
+\BOOKMARK [2][]{section*.137}{9.3.1 Metamodelo}{section*.134}% 91
+\BOOKMARK [2][]{section*.139}{9.3.2 Modelo mInstituto}{section*.134}% 92
+\BOOKMARK [1][]{section*.141}{9.4 Punto de Vista de Uso de Aplicaci\363n}{chapter.9}% 93
+\BOOKMARK [2][]{section*.144}{9.4.1 Metamodelo}{section*.141}% 94
+\BOOKMARK [2][]{section*.146}{9.4.2 Modelo mInstituto}{section*.141}% 95
+\BOOKMARK [0][]{chapter.10}{10 Capa de Infraestructura}{section*.75}% 96
+\BOOKMARK [1][]{section*.149}{10.1 Punto de Vista de Infraestructura}{chapter.10}% 97
+\BOOKMARK [2][]{section*.152}{10.1.1 Metamodelo}{section*.149}% 98
+\BOOKMARK [2][]{section*.154}{10.1.2 Modelo mInstituto}{section*.149}% 99
+\BOOKMARK [1][]{section*.156}{10.2 Punto de Vista Uso de Infraestructura}{chapter.10}% 100
+\BOOKMARK [2][]{section*.159}{10.2.1 Metamodelo}{section*.156}% 101
+\BOOKMARK [2][]{section*.161}{10.2.2 Modelo mInstituto}{section*.156}% 102
+\BOOKMARK [1][]{section*.163}{10.3 Punto de Vista de Organizaci\363n e Implementaci\363n}{chapter.10}% 103
+\BOOKMARK [2][]{section*.166}{10.3.1 Metamodelo}{section*.163}% 104
+\BOOKMARK [2][]{section*.168}{10.3.2 Modelo mInstituto}{section*.163}% 105
+\BOOKMARK [1][]{section*.170}{10.4 Punto de Vista de Estructura de Informaci\363n}{chapter.10}% 106
+\BOOKMARK [2][]{section*.173}{10.4.1 Metamodelo}{section*.170}% 107
+\BOOKMARK [2][]{section*.175}{10.4.2 Modelo mInstituto}{section*.170}% 108
+\BOOKMARK [1][]{section*.177}{10.5 Punto de vista de Realizaci\363n del Servicio}{chapter.10}% 109
+\BOOKMARK [2][]{section*.180}{10.5.1 Metamodelo}{section*.177}% 110
+\BOOKMARK [2][]{section*.182}{10.5.2 Modelo mInstituto}{section*.177}% 111
+\BOOKMARK [1][]{section*.184}{10.6 Punto de Vista de Capas}{chapter.10}% 112
+\BOOKMARK [2][]{section*.187}{10.6.1 Metamodelo}{section*.184}% 113
+\BOOKMARK [0][]{chapter.11}{11 Capa Motivacional}{section*.75}% 114
+\BOOKMARK [1][]{section*.190}{11.1 Punto de Vista de Stakeholder}{chapter.11}% 115
+\BOOKMARK [2][]{section*.193}{11.1.1 Metamodelo}{section*.190}% 116
+\BOOKMARK [2][]{section*.195}{11.1.2 Modelo mInstituto}{section*.190}% 117
+\BOOKMARK [1][]{section*.197}{11.2 Punto de Vista de Realizaci\363n de Objetivos}{chapter.11}% 118
+\BOOKMARK [2][]{section*.200}{11.2.1 Metamodelo}{section*.197}% 119
+\BOOKMARK [2][]{section*.202}{11.2.2 Modelo mInstituto}{section*.197}% 120
+\BOOKMARK [1][]{section*.204}{11.3 Punto de Vista de Contribuci\363n}{chapter.11}% 121
+\BOOKMARK [2][]{section*.207}{11.3.1 Metamodelo}{section*.204}% 122
+\BOOKMARK [2][]{section*.209}{11.3.2 Modelo mInstituto}{section*.204}% 123
+\BOOKMARK [1][]{section*.211}{11.4 Punto de Vista de Principios}{chapter.11}% 124
+\BOOKMARK [2][]{section*.214}{11.4.1 Metamodelo}{section*.211}% 125
+\BOOKMARK [2][]{section*.216}{11.4.2 Modelo mInstituto}{section*.211}% 126
+\BOOKMARK [1][]{section*.218}{11.5 Punto de Vista de Realizaci\363n de Requerimientos}{chapter.11}% 127
+\BOOKMARK [2][]{section*.221}{11.5.1 Metamodelo}{section*.218}% 128
+\BOOKMARK [2][]{section*.223}{11.5.2 Modelo mInstituto}{section*.218}% 129
+\BOOKMARK [1][]{section*.225}{11.6 Punto de Vista de Motivaci\363n}{chapter.11}% 130
+\BOOKMARK [2][]{section*.228}{11.6.1 Metamodelo}{section*.225}% 131
+\BOOKMARK [2][]{section*.230}{11.6.2 Modelo mInstituto}{section*.225}% 132
+\BOOKMARK [0][]{chapter.12}{12 Implementaci\363n y Migraci\363n}{section*.75}% 133
+\BOOKMARK [1][]{section*.233}{12.1 Punto de Vista de Proyecto}{chapter.12}% 134
+\BOOKMARK [2][]{section*.236}{12.1.1 Metamodelo}{section*.233}% 135
+\BOOKMARK [2][]{section*.238}{12.1.2 Modelo mInstituto}{section*.233}% 136
+\BOOKMARK [1][]{section*.240}{12.2 Punto de Vista de Migraci\363n}{chapter.12}% 137
+\BOOKMARK [2][]{section*.243}{12.2.1 Metamodelo}{section*.240}% 138
+\BOOKMARK [2][]{section*.245}{12.2.2 Modelo mInstituto}{section*.240}% 139
+\BOOKMARK [1][]{section*.247}{12.3 Punto de Vista de Migraci\363n e Implementaci\363n}{chapter.12}% 140
+\BOOKMARK [2][]{section*.250}{12.3.1 Metamodelo}{section*.247}% 141
+\BOOKMARK [2][]{section*.252}{12.3.2 Modelo mInstituto}{section*.247}% 142
+\BOOKMARK [-1][]{section*.254}{III Conclusiones}{}% 143
+\BOOKMARK [0][]{section*.255}{Conclusiones}{section*.254}% 144
+\BOOKMARK [0][]{conclusiones.0}{Conclusiones}{section*.254}% 145
+\BOOKMARK [0][]{section*.255}{Trabajos Futuros}{section*.254}% 146
+\BOOKMARK [0][]{futuros.0}{Trabajos Futuros}{section*.254}% 147
+\BOOKMARK [0][]{chapter*.256}{Bibliograf\355a}{section*.254}% 148
+\BOOKMARK [-1][]{section*.259}{IV Anexos}{}% 149
+\BOOKMARK [0][]{appendix.Alph1}{A Patrones}{section*.259}% 150
+\BOOKMARK [1][]{section*.261}{A.1 Cadena de Responsabilidad}{appendix.Alph1}% 151
+\BOOKMARK [2][]{section*.263}{A.1.1 Patr\363n cadena de responsabilidad mInstituto}{section*.261}% 152
+\BOOKMARK [2][]{section*.264}{A.1.2 Clases cadena de responsabilidad}{section*.261}% 153
+\BOOKMARK [1][]{section*.265}{A.2 Fabrica Abstracta}{appendix.Alph1}% 154
+\BOOKMARK [2][]{section*.267}{A.2.1 Patr\363n Fabrica Abstracta mInstituto}{section*.265}% 155
+\BOOKMARK [2][]{section*.268}{A.2.2 Clases fabrica abstracta}{section*.265}% 156
+\BOOKMARK [1][]{section*.269}{A.3 Decorador}{appendix.Alph1}% 157
+\BOOKMARK [2][]{section*.271}{A.3.1 Patr\363n Decorador mInstituto}{section*.269}% 158
+\BOOKMARK [2][]{section*.272}{A.3.2 Clases Decorador}{section*.269}% 159
+\BOOKMARK [0][]{appendix.Alph2}{B Resumen Simbolog\355a Archimate 2.1}{section*.259}% 160
+\BOOKMARK [1][]{section*.274}{B.1 Capa de Negocios}{appendix.Alph2}% 161
+\BOOKMARK [1][]{section*.275}{B.2 Capa de Aplicaci\363n}{appendix.Alph2}% 162
+\BOOKMARK [1][]{section*.276}{B.3 Capa de Tecnolog\355a}{appendix.Alph2}% 163
+\BOOKMARK [1][]{section*.277}{B.4 Relaciones}{appendix.Alph2}% 164
+\BOOKMARK [2][]{section*.278}{B.4.1 Estructurales}{section*.277}% 165
+\BOOKMARK [2][]{section*.279}{B.4.2 Din\341micas}{section*.277}% 166
+\BOOKMARK [2][]{section*.280}{B.4.3 Otras}{section*.277}% 167
+\BOOKMARK [1][]{section*.281}{B.5 Motivaci\363n}{appendix.Alph2}% 168
+\BOOKMARK [1][]{section*.282}{B.6 Implementaci\363n y Migraci\363n}{appendix.Alph2}% 169
+\BOOKMARK [0][]{appendix.Alph3}{C A Software Architecture Proposal Artistic Engineering Environment -AEE}{section*.259}% 170

@@ -10,10 +10,11 @@ El punto de vista de infraestructura contiene los elementos de la infraestructur
 
   \begin{table}[H]
   	\centering
-  	\begin{tabular}{lp{8cm}}
-  		\toprule
-  		\textbf{Nombre} & \textbf{Infraestructura} \\
-  		\midrule
+  	\begin{tabular}{p{3.7cm}p{8cm}}
+  		\hline
+  		\rowcolor[HTML]{0073a1}
+  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Vista de Infraestructura}} \\
+  		\hline
   		\textbf{Stakeholders} & Arquitectos de infraestructura y aplicación gerentes de operación \\
   		\textbf{Preocupaciones} & Dependencias, escalabilidad y performance  \\
   		\textbf{Propósito} & Diseñar \\
@@ -32,7 +33,7 @@ El punto de vista de infraestructura contiene los elementos de la infraestructur
 	\includegraphics[scale=0.2]{figuras/23}
 	\captionsetup{width=.95\textwidth}
 	\caption{Posición del punto de vista de infraestructura conceptual y marco del punto de vista}
-	\label{figura23}
+	\label{figura23a}
   \end{figure}
 
   \subsection{Metamodelo}
@@ -47,7 +48,11 @@ El punto de vista de infraestructura contiene los elementos de la infraestructur
   \end{figure}
 
   \subsection{Modelo mInstituto}
-  La infraestructura para el aplicativo mInstituto esta basada en un portal comercial el cual necesitara de un hosting de bajo costo que a su vez lleve la menor cantidad de soporte a nivel de seguridad y actualizaciones que no van mas allá de noticias. Por otro lado tenemos nuestro portal para el aplicativo, este estará hospedado en un proveedor de servicios que responda con las necesidades de base de datos asi como la demanda de consulta de todos los modulós. La comunicación sera a través de Internet de un proveedor de servicios contratado por el cliente.
+  La infraestructura para el aplicativo mInstituto esta basada en un portal comercial el cual se ejecuta sobre un servidor de páginas web y necesitara de un hosting que cumpla las restricciones de costos y a su vez lleve la menor cantidad de soporte a nivel de seguridad ya que la funcionalidad principal es la de ofrecer información sobre los productos de la organización y realizar actualizaciones que no van mas allá de noticias relacionadas con la empresa, producto o el medio en el que nos desenvolvemos. \\
+  
+  Por otro lado tenemos nuestro portal para el aplicativo, este estará hospedado en un proveedor de servicios que responda con las necesidades de base de datos así como la demanda de consulta de todos los módulos.  \\
+  
+  La comunicación se realizará a través del proveedor de servicios de Internet contratado por el cliente, utilizando la red y equipos de propiedad del cliente en su respectiva localización. \\
   
   \begin{figure}[H]
 	\centering
@@ -62,10 +67,11 @@ El punto de vista de infraestructura contiene los elementos de la infraestructur
   
   \begin{table}[H]
   	\centering
-  	\begin{tabular}{lp{8cm}}
-  		\toprule
-  		\textbf{Nombre} & \textbf{Uso de la infraestructura} \\
-  		\midrule
+  	\begin{tabular}{p{3.7cm}p{8cm}}
+  		\hline
+  		\rowcolor[HTML]{0073a1}
+  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Uso de Infraestructura}} \\
+  		\hline
   		\textbf{Stakeholders} & Arquitectos de infraestructura y aplicación, gerentes de operación \\
   		\textbf{Preocupaciones} & Dependencias, escalabilidad y rendimiento \\
   		\textbf{Propósito} & Diseñar \\
@@ -109,16 +115,17 @@ El punto de vista de infraestructura contiene los elementos de la infraestructur
   	\label{modelo12}
   \end{figure}
   
-  \section{Punto de Vista de Organización e implementación}
+  \section{Punto de Vista de Organización e Implementación}
   La aplicación y el punto de vista de implementación muestran cómo una o más aplicaciones se realizan o se colaboran dentro de la infraestructura, como las aplicaciones son soportadas por el software y el hardware de infraestructura, los servicios de infraestructura son entregados por los dispositivos; el software y las redes del sistema se proporcionan a las aplicaciones, este punto de vista desempeña un papel importante en el análisis de rendimiento y escalabilidad y que hacer referencia a la infraestructura física para el mundo
   lógico.
   
   \begin{table}[H]
   	\centering
-  	\begin{tabular}{lp{8cm}}
-  		\toprule
-  		\textbf{Nombre} & \textbf{Organización e Implementanción} \\
-  		\midrule
+  	\begin{tabular}{p{3.7cm}p{8cm}}
+  		\hline
+  		\rowcolor[HTML]{0073a1}
+  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Organización e Implementación}} \\
+  		\hline
   		\textbf{Stakeholders} & Arquitectos de infraestructura y aplicación gerente de operación \\
   		\textbf{Preocupaciones} & Dependencias, seguridad, riesgos \\
   		\textbf{Propósito} & Diseñar \\
@@ -141,7 +148,9 @@ El punto de vista de infraestructura contiene los elementos de la infraestructur
   \end{figure}
   
   \subsection{Metamodelo}
-  En el metamodelo de la Figura 8.5 se aprecia como los diferentes nodos de infraestructura que contienen los componentes de aplicación soportan las comunicación entre ellos, muestran como componen elementos de colaboración los cuales permiten tener sistemas de cruce entre sistemas y componentes de aplicación. En el metamodelo se aumenta un componente de infraestructura para reflejar el concepto de colaboración.
+  En el metamodelo de la Figura 8.5 se aprecia como los diferentes nodos de infraestructura que contienen los componentes de aplicación soportan las comunicación entre ellos, muestran como componen elementos de colaboración los cuales permiten tener sistemas de cruce entre sistemas y componentes de aplicación. En el metamodelo se aumenta un componente de infraestructura para reflejar el concepto de colaboración. \\
+  
+  Visto de otro modo comprende la asignación de aplicaciones y componentes en artefactos y el mapeo de la información utilizada por estas aplicaciones y componentes en la infraestructura de almacenamiento, en pocas palabras establece las relaciones de la infraestructura física con el mundo lógico de las aplicaciones.
   
   \begin{figure}[H]
   	\centering
@@ -170,10 +179,11 @@ de empresa (objetos de negocio), a nivel de aplicación en forma de estructuras 
     
     \begin{table}[H]
     	\centering
-    	\begin{tabular}{lp{8cm}}
-    		\toprule
-    		\textbf{Nombre} & \textbf{Estructura de la información} \\
-    		\midrule
+    	\begin{tabular}{p{3.7cm}p{8cm}}
+    		\hline
+    		\rowcolor[HTML]{0073a1}
+    		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Estructura de Información}} \\
+    		\hline
     		\textbf{Stakeholders} & Arquitectos de dominio e información \\
     		\textbf{Preocupaciones} & Estructura, dependencias e inconsistencia del uso de los datos y la información  \\
     		\textbf{Propósito} & Diseñar \\
@@ -217,15 +227,16 @@ de empresa (objetos de negocio), a nivel de aplicación en forma de estructuras 
     	\label{modelo14}
     \end{figure}
     
-\section{Punto de vista de realización del servicio}
+\section{Punto de vista de Realización del Servicio}
 El punto de vista de realización del servicio es usado para mostrar como uno o mas servicios de negocio son realizados por los procesos subyacentes(y algunas veces por componentes de aplicación). Así, se forma el puente entre el punto de vista de producto de negocio y la vista de proceso de negocio. Proporciona una "vista desde afuera" sobre uno o mas procesos de negocio.
     
     \begin{table}[H]
     	\centering
-    	\begin{tabular}{lp{8cm}}
-    		\toprule
-    		\textbf{Nombre} & \textbf{Realización del servicio} \\
-    		\midrule
+    	\begin{tabular}{p{3.7cm}p{8cm}}
+    		\hline
+    		\rowcolor[HTML]{0073a1}
+    		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Realización del Servicio}} \\
+    		\hline
     		\textbf{Stakeholders} & Proceso y de dominio, arquitectos y gerentes de producto operativos \\
     		\textbf{Preocupaciones} & Valor añadido de los procesos de negocio, Coherencia e integridad,
     		responsabilidades \\
@@ -280,10 +291,11 @@ punto de vista.
     
   \begin{table}[H]
   	\centering
-   	\begin{tabular}{lp{8cm}}
-   		\toprule
-   		\textbf{Nombre} & \textbf{Vista de Capas} \\
-   		\midrule
+   	\begin{tabular}{p{3.7cm}p{8cm}}
+   		\hline
+   		\rowcolor[HTML]{0073a1}
+   		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Vista de Capas}} \\
+   		\hline
    		\textbf{Stakeholders} & Arquitectos de Organización, proceso, aplicación, infraestructura y dominio \\
    		\textbf{Preocupaciones} & Consistencia, reducción de la complejidad, impacto del cambio y flexibilidad \\
    		\textbf{Propósito} & Diseñar, decidir, informar \\
@@ -316,11 +328,11 @@ punto de vista.
    	\label{metamodelo16}
    \end{figure}
    
-   \subsection{Modelo mInstituto}Chachara del diagrama
-   \begin{figure}[H]
-   	\centering
-   	\includegraphics{metamodelos/16}
-   	\captionsetup{width=.95\textwidth}
-   	\caption{Modelo punto de vista de capas: minstituto}
-   	\label{modelo16}
-   \end{figure}
+%   \subsection{Modelo mInstituto}Chachara del diagrama
+%   \begin{figure}[H]
+%   	\centering
+%   	\includegraphics{metamodelos/16}
+%   	\captionsetup{width=.95\textwidth}
+%   	\caption{Modelo punto de vista de capas: minstituto}
+%   	\label{modelo16}
+%   \end{figure}

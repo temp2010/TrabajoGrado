@@ -7,20 +7,22 @@
 
 \section{Punto de Vista de Proyecto}
 Un punto de vista del proyecto se utiliza principalmente para modelar el cambio de arquitectura. El proceso de migración de la “arquitectura” desde una situación o estado anterior a una nueva situación tiene consecuencias importantes en la estrategia de crecimiento a largo y mediano plazo, y el proceso de toma de decisiones. Algunas de las cuestiones que deben tenerse en cuenta por los modelos diseñados en este punto de vista son:
-
+  
   \begin{itemize}
+  	\itemcolor{azull}
 	\item El desarrollo de la arquitectura empresarial en toda la organización es una tarea que puede requerir varios años.
 	\item Todos los sistemas y servicios deben seguir funcionando sin importar todas las modificaciones presumibles y cambios en la arquitectura de la empresa durante el proceso de cambio.
 	\item El proceso de cambio puede tener que lidiar con estándares tecnológicos inmaduros (por ejemplo, mensajería, seguridad, datos, etc.).
-	\item El cambio tiene consecuencias graves para el personal, la cultura, la forma de trabajo 	y la organización.
+	\item El cambio tiene consecuencias graves para el personal, la cultura, la forma de trabajo y la organización.
   \end{itemize}
 
   \begin{table}[H]
 	\centering
-	\begin{tabular}{lp{8cm}}
-		\toprule
-		\textbf{Nombre} & \textbf{Proyecto} \\
-		\midrule
+	\begin{tabular}{p{3.7cm}p{8cm}}
+		\hline
+		\rowcolor{azull}
+		{\color{blancoo} \textbf{Nombre}} & {\color{blancoo} \textbf{Proyecto}} \\
+		\hline
 		\textbf{Stakeholders} & Gerentes (operativos), empresarios, arquitectos TIC, empleados, accionistas \\
 		\textbf{Preocupaciones} & Visión y políticas de la arquitectura, motivación \\
 		\textbf{Propósito} & Decidir, informar \\
@@ -53,7 +55,9 @@ Un punto de vista del proyecto se utiliza principalmente para modelar el cambio 
 	\label{metamodelo23}
   \end{figure}
 
-  \subsection{Modelo mInstituto}Chachara del diagrama
+  \subsection{Modelo mInstituto}
+  En la vista se representa el vínculo existente entre elementos de la vista de motivación y los componentes presentes en la vista de negocio donde el objetivo de negocio principal es el de proveer soluciones tecnológicas que permitan optimizar la gestión de la información en las instituciones educativas, a este objetivo se encuentran asociados los roles principales de negocio, es decir, el desarrollador y el cliente.  El paquete de trabajo unido al objetivo corresponde al desarrollo de la solución tecnológica.
+  
   \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.65]{modelos/23}
@@ -68,10 +72,11 @@ El punto de vista de migración implica modelos y conceptos que pueden ser utili
 
   \begin{table}[H]
 	\centering
-	\begin{tabular}{lp{8cm}}
-		\toprule
-		\textbf{Nombre} & \textbf{Migración} \\
-		\midrule
+	\begin{tabular}{p{3.7cm}p{8cm}}
+		\hline
+		\rowcolor[HTML]{0073a1}
+		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Migración}} \\
+		\hline
 		\textbf{Stakeholders} & Arquitectos empresariales, arquitectos de proyecto, arquitectos de aplicación, arquitectos de dominio, arquitectos de infraestructura, empleados \\
 		\textbf{Preocupaciones} & Historia de los modelos \\
 		\textbf{Propósito} & Diseñar, decidir, informar \\
@@ -104,7 +109,9 @@ El punto de vista de migración implica modelos y conceptos que pueden ser utili
 	\label{metamodelo24}
   \end{figure}
 
-  \subsection{Modelo mInstituto}Chachara del diagrama
+  \subsection{Modelo mInstituto}
+  En la vista se representan las plateas y brechas evidenciadas para el proyecto.  Se identificaron como primera platea los requerimientos de la gestión de información de las instituciones educativas; la segunda platea es el análisis y diseño, la brecha entre las dos plateas corresponde al levantamiento de requerimientos, el cual se realiza con la información obtenida de los requerimientos.  La tercera platea corresponde al licenciamiento y la brecha entre análisis y diseño y el licenciamiento es el proceso de desarrollo del software y las pruebas correspondientes.
+  
   \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.7]{modelos/24}
@@ -118,10 +125,11 @@ El punto de vista de la implementación y migración se utiliza para relacionar 
 
   \begin{table}[H]
 	\centering
-	\begin{tabular}{lp{8cm}}
-		\toprule
-		\textbf{Nombre} & \textbf{Migración e Implementación} \\
-		\midrule
+	\begin{tabular}{p{3.7cm}p{8cm}}
+		\hline
+		\rowcolor[HTML]{0073a1}
+		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Migración e Implementación}} \\
+		\hline
 		\textbf{Stakeholders} & Gerentes (operativos), organización, arquitectos TIC, empleados, accionistas \\
 		\textbf{Preocupaciones} &  Visión y políticas de la arquitectura, motivación \\
 		\textbf{Propósito} & Diseñar, informar \\
@@ -154,7 +162,9 @@ El punto de vista de la implementación y migración se utiliza para relacionar 
 	\label{metamodelo25}
   \end{figure}
 
-  \subsection{Modelo mInstituto}Chachara del diagrama
+  \subsection{Modelo mInstituto}
+  En la vista se evidencia el paquete de trabajo que es el desarrollo de la solución tecnológica, su objetivo es proveer soluciones tecnológicas de gestión de información de las instituciones educativas, para el cumplimiento del objetivo se identificaron instrumentos puntuales que permiten su ejecución los cuales son, requerimientos específicos del negocio, análisis y diseño y el licenciamiento con sus respectivas brechas.  Se identifica como punto de unión entre los modelos de migración y proyecto el software con los requerimientos de la gestión de información de las instituciones educativas.
+  
   \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.64]{modelos/25}

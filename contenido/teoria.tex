@@ -1,5 +1,5 @@
 \chapter{Metodología y Cronograma de trabajo}
-\label{chap:coloso}
+\label{chap:metodologia}
 \textit{The first chapter introduces fluorescence-based DNA technology and highlights the motivation of the research conducted in the thesis}
 \vfill
 \minitoc
@@ -20,13 +20,15 @@ Scrum es un marco de trabajo en el que equipos cross-funcionales pueden crear pr
 Scrum se basa en la teoría de control de procesos empírica o empirismo. El empirismo asegura que el conocimiento procede de la experiencia y de tomar decisiones basándose en lo que se conoce, Scrum emplea un enfoque iterativo e incremental para optimizar la predictibilidad y el control del riesgo. \\
 
 Tres pilares soportan toda la implementación del control de procesos empírico: transparencia, inspección y adaptación. \\
-
-\textbf{Transparencia:} Los aspectos significativos del proceso deben ser visibles para aquellos que son responsables del resultado. La transparencia requiere que dichos aspectos sean definidos por un estándar común, de tal modo que los observadores compartan un entendimiento común de lo que se está viendo.  \\
-\textbf{Inspección:} Los usuarios de Scrum deben inspeccionar frecuentemente los artefactos de Scrum y el progreso hacia un objetivo, para detectar variaciones. Su inspección no debe ser tan frecuente como para que interfiera en el trabajo. Las inspecciones son más beneficiosas cuando se realizan de forma diligente por inspectores expertos, en el mismo lugar de trabajo. \\ 
-\textbf{Adaptación:} Si un inspector determina que uno o más aspectos de un proceso se desvían de límites aceptables, y que el producto resultante no será aceptable, el proceso o el material que está siendo procesado deben ser ajustados. Dicho ajuste debe realizarse cuanto antes para minimizar desviaciones mayores.  \\
+\begin{description}
+	\item[Transparencia]  Los aspectos significativos del proceso deben ser visibles para aquellos que son responsables del resultado. La transparencia requiere que dichos aspectos sean definidos por un estándar común, de tal modo que los observadores compartan un entendimiento común de lo que se está viendo.
+	\item[Inspección] Los usuarios de Scrum deben inspeccionar frecuentemente los artefactos de Scrum y el progreso hacia un objetivo, para detectar variaciones. Su inspección no debe ser tan frecuente como para que interfiera en el trabajo. Las inspecciones son más beneficiosas cuando se realizan de forma diligente por inspectores expertos, en el mismo lugar de trabajo.
+	\item[Adaptación] Si un inspector determina que uno o más aspectos de un proceso se desvían de límites aceptables, y que el producto resultante no será aceptable, el proceso o el material que está siendo procesado deben ser ajustados. Dicho ajuste debe realizarse cuanto antes para minimizar desviaciones mayores.
+\end{description}
 
 Scrum prescribe cuatro eventos formales, contenidos dentro del Sprint, para la inspección y adaptación y son los siguientes.
   \begin{itemize}
+  	\itemcolor{azull}
 	\item Reunión de Planificación del Sprint (Sprint Planning Meeting)
 	\item Scrum Diario (Daily Scrum)
 	\item Revisión del Sprint (Sprint Review)
@@ -81,6 +83,7 @@ Scrum prescribe cuatro eventos formales, contenidos dentro del Sprint, para la i
 La definición de arquitectura empresarial surge frente a la necesidad de alinear las tecnologías de información a los objetivos estratégicos del negocio. Algunas definiciones de arquitectura empresarial se presentan a continuación:
   
   \begin{itemize}
+  	\itemcolor{azull}
 	\item \textit{IEEE Std. 1471-2000:} \\
 	“…organización fundamental de un sistema, compuesta por sus componentes, las relaciones entre ellos y su ambiente y los principios que gobiernan su diseño y evolución”.
 	\item \textit{The Open Group Architecture Framework:} \\
@@ -138,6 +141,7 @@ Por otro lado, TOGAF se basa en modelos descriptivos que permiten definir la arq
   \subsection{¿Qué es Arquitectura para TOGAF?}
   Uno de los conceptos clave para cualquier proceso de arquitectura empresarial es la comprensión misma de la Arquitectura, ya que ésta determina, en parte, el enfoque desde el cual se adoptará el modelo. En TOGAF, “Arquitectura” tiene dos significados según el contexto:
   \begin{enumerate}
+  	\itemcolor{azull}
   	\item Una descripción formal de un sistema o un plano detallado del sistema al nivel de sus componentes para orientar su implementación.
   	\item La estructura de componentes, sus interrelaciones y los principios y guías que gobiernan su diseño y evolución a través del tiempo.
   \end{enumerate}
@@ -147,10 +151,11 @@ Por otro lado, TOGAF se basa en modelos descriptivos que permiten definir la arq
   
     \begin{table}[H]
     	\centering
-    	\begin{tabular}{lp{8cm}}
-    		\toprule
-    		\textbf{Tipo de Arquitectura} & \textbf{Descripción} \\
-    		\midrule
+    	\begin{tabular}{p{5cm}p{8cm}}
+    		\hline
+    		\rowcolor[HTML]{0073a1}
+    		{\color[HTML]{FFFFFF} \textbf{Tipo de Arquitectura}} & {\color[HTML]{FFFFFF} \textbf{Descripción}} \\
+    		\hline
     		\textbf{Arquitectura de Negocio} & La estrategia de negocio, gobierno, organización y procesos clave de la organización. \\
     		\textbf{Arquitectura de datos} & La estructura de datos lógicos y fisicos que posee una organización y sus recursos de gestión de datos. \\
     		\textbf{Arquitectura de aplicación} & Un plano (blueprint en inglés) de las aplicaciones individuales a implementar, sus interacciones y sus relaciones con los procesos de negocio principales de la organización.
@@ -167,6 +172,7 @@ Por otro lado, TOGAF se basa en modelos descriptivos que permiten definir la arq
   \subsection{Método de desarrollo de la Arquitectura (ADM)}
   El \textbf{ADM} describe cómo obtener una Arquitectura Empresarial que sea especifica para la organización y para responder a los requerimientos del negocio. El ADM es el componente principal de TOGAF y proporciona dirección a los arquitectos en varios niveles:
   \begin{itemize}
+  	\itemcolor{azull}
   	\item Proporciona varias fases de desarrollo de arquitectura (Arquitectura de Negocio, Arquitecturas de Sistemas de Información, Arquitectura Tecnológica) en un ciclo, que sirve como una plantilla general de procesos para la actividad de desarrollo de la arquitectura.
   	\item Proporciona una narrativa de cada fase de la arquitectura, describiendo la fase en términos de objetivos, enfoque, entradas, pasos a seguir, y salidas. Las secciones de entradas y salidas proporcionan una definición de la estructura del contenido de arquitectura y entregables (una descripción detallada de las entradas de la fase y las salidas de la fase se da en el Marco de Referencia del Contenido Arquitectónico).
   	\item Proporciona resúmenes multi-fase que abordan también la Gestión de Requerimientos.
@@ -175,6 +181,7 @@ Por otro lado, TOGAF se basa en modelos descriptivos que permiten definir la arq
   El ADM es el resultado de las contribuciones de numerosos profesionales de la arquitectura y constituye el núcleo de TOGAF. Es un método para obtener Arquitecturas Empresariales que son específicas para la organización, y está especialmente diseñado para responder a los requerimientos del negocio. El ADM describe:
   
   \begin{itemize}
+  	\itemcolor{azull}
   	\item Un modo confiable y probado para desarrollar y utilizar una Arquitectura Empresarial
   	\item Un método para desarrollar arquitecturas en diferentes niveles1 (negocio, aplicaciones, datos, tecnología) que permiten al arquitecto asegurar que un conjunto complejo de requerimientos se aborden adecuadamente
   	\item Un conjunto de guías y técnicas para el desarrollo de arquitectura
@@ -195,6 +202,7 @@ Por otro lado, TOGAF se basa en modelos descriptivos que permiten definir la arq
     
     El ADM apoya el concepto de iteración en tres niveles:
     \begin{itemize}
+    	\itemcolor{azull}
     	\item \textbf{Ciclo alrededor del ADM:} El ADM se presenta de manera circular indicando que la finalización de una Fase de trabajo en la arquitectura alimenta directamente las Fases subsecuentes de trabajo en la arquitectura.
     	\item \textbf{Iteración entre Fases:} TOGAF describe el concepto de la iteración a través de Fases (por ejemplo, volviendo a la Arquitectura de Negocio posteriormente a la finalización de la Arquitectura Tecnológica).
     	\item \textbf{Ciclo alrededor de una Fase individual:} TOGAF apoya la ejecución repetida de las actividades dentro de una Fase individual del ADM como una técnica para elaborar contenido arquitectónico.
@@ -202,15 +210,17 @@ Por otro lado, TOGAF se basa en modelos descriptivos que permiten definir la arq
    
    \begin{table}[H]
    	\centering
-   	\begin{tabular}{|p{4cm}|p{10cm}|}
-   		\toprule
-   		\textbf{Fase de ADM} & \textbf{Actividad} \\
-   		\midrule
+   	\begin{tabular}{p{3.5cm}p{8.5cm}}
+   		\hline
+   		\rowcolor[HTML]{0073a1}
+   		{\color[HTML]{FFFFFF}\textbf{Fase de ADM}} & {\color[HTML]{FFFFFF}\textbf{Actividad}} \\
+   		\hline
    		\textbf{Gestión de Requerimientos} & Cada etapa de un proyecto de TOGAF está basada en los requerimientos del negocio, incluyendo su validación.
    		Los requerimientos se identifican, se almacenan y se gestionan al ingreso y egreso de las fases relevantes del ADM, las cuales eliminan, abordan, y priorizan los requerimientos. \\ \hline
    		\textbf{A. Visión de arquitectura} & Establece el alcance, las limitaciones y expectativas de un proyecto de TOGAF. Crea la Visión de la Arquitectura. Identifica a los Interesados. Valida el contexto de negocio y crea la Declaración de Trabajo de Arquitectura. Obtiene aprobaciones. \\ \hline
    		\textbf{B. Arquitectura de Negocio C. Arquitecturas de sistemas de información D. Arquitectura tecnológica} & Desarrolla arquitecturas en cuatro dominios:
    		    \begin{enumerate}
+   		    	\itemcolor{azull}
    		    	\item Negocio
    		    	\item Sistemas de Información - Aplicaciones
    		    	\item Sistemas de Información - Datos
@@ -252,15 +262,17 @@ El principal elemento en esta metodología es el servicio, que está definido co
   
   \subsection{Conceptos centrales}
   El lenguaje central consiste de tres tipos de elementos:
-    \begin{itemize}
-	  \item \textbf{Elementos de estructura activa:} Es una entidad capaz de ejercer comportamientos, tales como los actores del negocio, componentes de aplicación
-	  \item \textbf{Elementos de comportamiento:} Es una unidad de actividad ejecutada por uno o más elementos de estructura activa.
-	  \item \textbf{Elementos de estructura pasiva:} Es un objeto sobre el cual se ejecuta un comportamiento.
-	  \item \textbf{Servicio:} Es una unidad de funcionalidad que el sistema provee
-	  \item \textbf{Interfaz:} Es el punto de acceso donde uno o más servicios son hechos disponibles al entorno. Provee una vista externa sobre el proveedor de servicio y oculta su estructura interna.
-	  \item Para nombrar los roles de las interrelaciones, se utiliza una convención similar a la de UML(pero usando verbos en lugar de sustantivos).
-	  \item Si no se muestra cardinalidad alguna al final de un interrelación, se asume una 0..* (cero o más).
-    \end{itemize}
+  \begin{enumerate}
+  	\itemcolor{azull}
+  	\item \textbf{Elementos de estructura activa} Es una entidad capaz de ejercer comportamientos, tales como los actores del negocio, componentes de aplicación
+  	\item \textbf{Elementos de comportamiento} Es una unidad de actividad ejecutada por uno o más elementos de estructura activa.
+  	\item \textbf{Elementos de estructura pasiva} Es un objeto sobre el cual se ejecuta un comportamiento.
+  	\item \textbf{Servicio} Es una unidad de funcionalidad que el sistema provee.
+  	\item \textbf{Interfaz} Es el punto de acceso donde uno o más servicios son hechos disponibles al entorno. Provee una vista externa sobre el proveedor de servicio y oculta su estructura interna.
+  	\item Para nombrar los roles de las interrelaciones, se utiliza una convención similar a la de UML(pero usando verbos en lugar de sustantivos).
+  	\item Si no se muestra cardinalidad alguna al final de un interrelación, se asume una 0..* (cero o más).
+  \end{enumerate}
+
   Estos elementos tienen como inspiración el lenguaje natural donde una sentencia tiene un sujeto (estructura activa), un verbo (comportamiento) y un predicado (estructura pasiva)
   
      \begin{figure}[H]
@@ -274,10 +286,10 @@ El principal elemento en esta metodología es el servicio, que está definido co
   \subsection{Colaboración e interacción}
   Si vamos a un nivel más profundo en la estructura del lenguaje, se distingue entre el comportamiento que es realizado por un elemento de estructura única (Ejemplo: actor, rol, componentes, etc.), o comportamiento colectivo (Interacción) que se realiza por una colaboración de varios elementos de la estructura.
   
-  \begin{itemize}
-  	\item \textbf{Colaboración:} Es una (temporal) agrupación (o agregación) de dos o más elementos de estructura, trabajando juntos para realizar algún comportamiento colectivo. Este comportamiento colectivo puede ser modelado como una interacción.
-  	\item \textbf{Interacción:} Es una unidad de comportamiento llevada a cabo por una colaboración de dos o más elementos de estructura.
-  \end{itemize}
+  \begin{description}
+  	\item[Colaboración] Es una (temporal) agrupación (o agregación) de dos o más elementos de estructura, trabajando juntos para realizar algún comportamiento colectivo. Este comportamiento colectivo puede ser modelado como una interacción.
+  	\item[Interacción] Es una unidad de comportamiento llevada a cabo por una colaboración de dos o más elementos de estructura.
+  \end{description}
  
   \begin{figure}[H]
    	\centering
@@ -291,16 +303,19 @@ El principal elemento en esta metodología es el servicio, que está definido co
   Al lado de los conceptos fundamentales antes reseñadas, ArchiMate contiene un conjunto básico de las relaciones. Varias de estas relaciones han sido adoptadas a partir de conceptos de relación correspondientes que se producen en normas existentes. Relaciones tales como la composición, la agregación, asociación y especialización se toman de UML 2.0, mientras que la activación se utiliza en muchos procesos de negocio lenguajes de modelado.
   
   \subsection{Capas}
-  En ArchiMate, hay tres diferentes capas para tres niveles diferentes en una arquitectura empresarial: \\
-  \begin{itemize}
-  	\item \textbf{Capa empresarial.} La capa de negocio ofrece productos y servicios para clientes externos. Estos servicios están implementados internamente por los procesos de negocios y ejecutados por actores de negocio.
-  	\item \textbf{Capa de aplicación.} La capa de aplicación es compatible con la capa de negocio por servicios de aplicaciones implementados por software.
-  	\item \textbf{Capa de Tecnología.}  La capa de tecnología proporciona los servicios de infraestructura que son necesarios para ejecutar aplicaciones (software). Son implementados por computadores y la comunicación del hardware y software del sistema.
-  \end{itemize}
+  En ArchiMate, hay tres diferentes capas para tres niveles diferentes en una arquitectura empresarial:
+  
+  \begin{enumerate}
+  	\itemcolor{azull}
+  	\item \textbf{Capa empresarial} La capa de negocio ofrece productos y servicios para clientes externos. Estos servicios están implementados internamente por los procesos de negocios y ejecutados por actores de negocio.
+  	\item \textbf{Capa de aplicación} La capa de aplicación es compatible con la capa de negocio por servicios de aplicaciones implementados por software.
+  	\item \textbf{Capa de Tecnología} La capa de tecnología proporciona los servicios de infraestructura que son necesarios para ejecutar aplicaciones (software). Son implementados por computadores y la comunicación del hardware y software del sistema.
+  \end{enumerate}
   
   \subsection{Marco de referencia}
 Los aspectos y capas identificadas en los apartados anteriores se pueden organizar como un marco de nueve celdas, es importante darse cuenta de que la clasificación de conceptos basados en aspectos y capas es sólo uno y es imposible definir un límite estricto entre los aspecto capas, porque los conceptos que enlazan los diferentes aspectos y capas juegan un papel central en una arquitectura coherente. El trabajo de un arquitecto de la empresa toca varios aspectos, no expresamente contemplados en el marco ArchiMate. Dominios conceptuales, son:
   \begin{itemize}
+  	\itemcolor{azull}
   	\item Objetivos, principios y requisitos
   	\item Riesgos y seguridad
   	\item Gobierno
@@ -325,6 +340,7 @@ Los aspectos y capas identificadas en los apartados anteriores se pueden organiz
   
   Principios y requerimientos están fuertemente relacionados. Los principios son normas y directrices generales que ayudan a informar y apoyar la forma en que una organización se marca sobre el cumplimiento de su misión. En contraste, las limitaciones de los requisitos dan forma a un diseño específico de la arquitectura empresarial. Esto corresponde a la distinción entre dos interpretaciones generales:
   \begin{itemize}
+  	\itemcolor{azull}
   	\item Como la estructura de una organización en términos de sus componentes y sus relaciones
   	\item Como un conjunto de principios que se deben aplicar a dicha estructura.
   \end{itemize}
@@ -394,6 +410,7 @@ El objetivo de los patrones es crear un lenguaje común a una comunidad de desar
   \subsection{Definiciones}
   Los diferentes autores han dado diversas definiciones de lo que es un patrón software.
   \begin{itemize}
+  	\itemcolor{azull}
   	\item \textit{Dirk Riehle y Heinz Zullighoven:} \\
   	“Un patrón es la abstracción de una forma concreta que puede repetirse en contextos específicos.”.
  	\item \textit{Richard Gabriel:} \\
@@ -403,6 +420,7 @@ El objetivo de los patrones es crear un lenguaje común a una comunidad de desar
   \subsection{Clases de patrones software}
   Existen diferentes ámbitos dentro de la ingeniería del software donde se pueden aplicar los patrones:
   \begin{enumerate}
+  	\itemcolor{azull}
   	\item \textbf{Patrones de Arquitectura:} Expresa una organización o esquema estructural fundamental para sistemas software. Proporciona un conjunto de subsistemas predefinidos, especifica sus responsabilidades, e incluye una guía para organizar las relaciones entre ellos.
   	\item \textbf{Patrones de Diseño:} Proporciona un esquema para refinar los subsistemas o componentes de un sistema software, o las relaciones entre ellos. Describe
   	estructuras repetitivas de comunicar componentes que resuelven un problema de diseño en un contexto particular.
@@ -447,6 +465,7 @@ El objetivo de los patrones es crear un lenguaje común a una comunidad de desar
   \subsubsection{Concurrencia}
   Los patrones de esta categoría permiten coordinar las operaciones concurrentes. Estos patrones se dirigen principalmente a dos tipos diferentes de problemas:
   \begin{enumerate}
+  	\itemcolor{azull}
   	\item \textbf{Recursos compartidos:}
   	Cuando las operaciones concurrentes acceden a los mismos datos o otros tipos de recursos compartidos, podría darse la posibilidad de que las operaciones interfirieran unas con otras si ellas acceden a los recursos al mismo tiempo. Para garantizar que cada operación se ejecuta correctamente, la operación debe ser protegida para acceder a los recursos compartidos en solitario. Sin embargo, si las operaciones están completamente protegidas, entonces podrían bloquearse y no ser capaces de finalizar su ejecución.
   	\item \textbf{Secuencia de operaciones:}
@@ -455,11 +474,13 @@ El objetivo de los patrones es crear un lenguaje común a una comunidad de desar
   	
   \begin{table}[H]
   	\centering
-  	\begin{tabular}{p{7cm}|p{7cm}}
-  		\toprule
-  		\textbf{Fundamentales} & \textbf{De Creación} \\
-  		\midrule
+  	\begin{tabular}{p{6cm}|p{6cm}}
+  		\hline
+  		\rowcolor[HTML]{0073a1}
+  		{\color[HTML]{FFFFFF} \textbf{Fundamentales}} & {\color[HTML]{FFFFFF}\textbf{De Creación}} \\
+  		\hline
   		\begin{itemize}
+  			\itemcolor{azull}
   			\item Delegation
   			\item Interface
   			\item Unmitable
@@ -467,6 +488,7 @@ El objetivo de los patrones es crear un lenguaje común a una comunidad de desar
   			\item Proxy
   		\end{itemize} &
   		\begin{itemize}
+  			\itemcolor{azull}
   			\item Factory Method
   			\item Abstract Factory
   			\item Builder
@@ -474,15 +496,18 @@ El objetivo de los patrones es crear un lenguaje común a una comunidad de desar
   			\item Singleton
   			\item Object Pool
   		\end{itemize} \\
-  		\midrule
-  		\textbf{De Partición} & \textbf{Estructurales} \\
-  		\midrule
+  		\hline
+  		\rowcolor[HTML]{0073a1}
+  		{\color[HTML]{FFFFFF} \textbf{De Partición}} & {\color[HTML]{FFFFFF}\textbf{Estructurales}} \\
+  		\hline
   		\begin{itemize}
+  			\itemcolor{azull}
   			\item Layered Initialization
   			\item Filter
   			\item Composite
   		\end{itemize} &
   		\begin{itemize}
+  			\itemcolor{azull}
   			\item Adapter
   			\item Iterator
   			\item Bridge
@@ -499,11 +524,13 @@ El objetivo de los patrones es crear un lenguaje común a una comunidad de desar
   
   \begin{table}[H]
   	\centering
-  	\begin{tabular}{p{7cm}|p{7cm}}  		
-  		\midrule
-  		\textbf{De Comportamiento} & \textbf{De Concurrencia} \\
-  		\midrule
+  	\begin{tabular}{p{6cm}|p{6cm}}  		
+  		\hline
+  		\rowcolor[HTML]{0073a1}
+  		{\color[HTML]{FFFFFF} \textbf{De Comportamiento}} & {\color[HTML]{FFFFFF}\textbf{De Concurrencia}} \\
+  		\hline
   		\begin{itemize}
+  			\itemcolor{azull}
   			\item Chain of Responsability
   			\item Command
   			\item Little Language
@@ -517,6 +544,7 @@ El objetivo de los patrones es crear un lenguaje común a una comunidad de desar
   			\item Visitor
   		\end{itemize} &
   		\begin{itemize}
+  			\itemcolor{azull}
   			\item Single Threaded Execution
   			\item Guarded Suspension
   			\item Balking
