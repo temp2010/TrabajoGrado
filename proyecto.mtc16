@@ -1,9 +1,9 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {A.1}Cadena de Responsabilidad}{\reset@font\mtcSfont 124}{section*.261}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {A.1.1}Patr\IeC {\'o}n cadena de responsabilidad mInstituto}{\reset@font\mtcSSfont 124}{section*.263}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {A.1.2}Clases cadena de responsabilidad}{\reset@font\mtcSSfont 125}{section*.264}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {A.2}Fabrica Abstracta}{\reset@font\mtcSfont 126}{section*.265}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {A.2.1}Patr\IeC {\'o}n Fabrica Abstracta mInstituto}{\reset@font\mtcSSfont 126}{section*.267}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {A.2.2}Clases fabrica abstracta}{\reset@font\mtcSSfont 127}{section*.268}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {A.3}Decorador}{\reset@font\mtcSfont 128}{section*.269}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {A.3.1}Patr\IeC {\'o}n Decorador mInstituto}{\reset@font\mtcSSfont 129}{section*.271}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {A.3.2}Clases Decorador}{\reset@font\mtcSSfont 129}{section*.272}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {B.1}Capa de Negocios}{\reset@font\mtcSfont 130}{section*.271}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {B.2}Capa de Aplicaci\IeC {\'o}n}{\reset@font\mtcSfont 132}{section*.272}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {B.3}Capa de Tecnolog\IeC {\'\i }a}{\reset@font\mtcSfont 133}{section*.273}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {B.4}Relaciones}{\reset@font\mtcSfont 134}{section*.274}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {B.4.1}Estructurales}{\reset@font\mtcSSfont 134}{section*.275}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {B.4.2}Din\IeC {\'a}micas}{\reset@font\mtcSSfont 135}{section*.276}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {B.4.3}Otras}{\reset@font\mtcSSfont 135}{section*.277}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {B.5}Motivaci\IeC {\'o}n}{\reset@font\mtcSfont 136}{section*.278}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {B.6}Implementaci\IeC {\'o}n y Migraci\IeC {\'o}n}{\reset@font\mtcSfont 137}{section*.279}}

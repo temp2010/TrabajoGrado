@@ -142,29 +142,27 @@
 \BOOKMARK [2][]{section*.252}{12.3.2 Modelo mInstituto}{section*.247}% 142
 \BOOKMARK [-1][]{section*.254}{III Conclusiones}{}% 143
 \BOOKMARK [0][]{section*.255}{Conclusiones}{section*.254}% 144
-\BOOKMARK [0][]{conclusiones.0}{Conclusiones}{section*.254}% 145
-\BOOKMARK [0][]{section*.255}{Trabajos Futuros}{section*.254}% 146
-\BOOKMARK [0][]{futuros.0}{Trabajos Futuros}{section*.254}% 147
-\BOOKMARK [0][]{chapter*.256}{Bibliograf\355a}{section*.254}% 148
-\BOOKMARK [-1][]{section*.259}{IV Anexos}{}% 149
-\BOOKMARK [0][]{appendix.Alph1}{A Patrones}{section*.259}% 150
-\BOOKMARK [1][]{section*.261}{A.1 Cadena de Responsabilidad}{appendix.Alph1}% 151
-\BOOKMARK [2][]{section*.263}{A.1.1 Patr\363n cadena de responsabilidad mInstituto}{section*.261}% 152
-\BOOKMARK [2][]{section*.264}{A.1.2 Clases cadena de responsabilidad}{section*.261}% 153
-\BOOKMARK [1][]{section*.265}{A.2 Fabrica Abstracta}{appendix.Alph1}% 154
-\BOOKMARK [2][]{section*.267}{A.2.1 Patr\363n Fabrica Abstracta mInstituto}{section*.265}% 155
-\BOOKMARK [2][]{section*.268}{A.2.2 Clases fabrica abstracta}{section*.265}% 156
-\BOOKMARK [1][]{section*.269}{A.3 Decorador}{appendix.Alph1}% 157
-\BOOKMARK [2][]{section*.271}{A.3.1 Patr\363n Decorador mInstituto}{section*.269}% 158
-\BOOKMARK [2][]{section*.272}{A.3.2 Clases Decorador}{section*.269}% 159
-\BOOKMARK [0][]{appendix.Alph2}{B Resumen Simbolog\355a Archimate 2.1}{section*.259}% 160
-\BOOKMARK [1][]{section*.274}{B.1 Capa de Negocios}{appendix.Alph2}% 161
-\BOOKMARK [1][]{section*.275}{B.2 Capa de Aplicaci\363n}{appendix.Alph2}% 162
-\BOOKMARK [1][]{section*.276}{B.3 Capa de Tecnolog\355a}{appendix.Alph2}% 163
-\BOOKMARK [1][]{section*.277}{B.4 Relaciones}{appendix.Alph2}% 164
-\BOOKMARK [2][]{section*.278}{B.4.1 Estructurales}{section*.277}% 165
-\BOOKMARK [2][]{section*.279}{B.4.2 Din\341micas}{section*.277}% 166
-\BOOKMARK [2][]{section*.280}{B.4.3 Otras}{section*.277}% 167
-\BOOKMARK [1][]{section*.281}{B.5 Motivaci\363n}{appendix.Alph2}% 168
-\BOOKMARK [1][]{section*.282}{B.6 Implementaci\363n y Migraci\363n}{appendix.Alph2}% 169
-\BOOKMARK [0][]{appendix.Alph3}{C A Software Architecture Proposal Artistic Engineering Environment -AEE}{section*.259}% 170
+\BOOKMARK [0][]{section*.255}{Trabajos Futuros}{section*.254}% 145
+\BOOKMARK [0][]{chapter*.256}{Bibliograf\355a}{section*.254}% 146
+\BOOKMARK [-1][]{section*.259}{IV Anexos}{}% 147
+\BOOKMARK [0][]{appendix.Alph1}{A Patrones}{section*.259}% 148
+\BOOKMARK [1][]{section*.261}{A.1 Cadena de Responsabilidad}{appendix.Alph1}% 149
+\BOOKMARK [2][]{section*.263}{A.1.1 Patr\363n cadena de responsabilidad mInstituto}{section*.261}% 150
+\BOOKMARK [2][]{section*.264}{A.1.2 Clases cadena de responsabilidad}{section*.261}% 151
+\BOOKMARK [1][]{section*.265}{A.2 Fabrica Abstracta}{appendix.Alph1}% 152
+\BOOKMARK [2][]{section*.267}{A.2.1 Patr\363n Fabrica Abstracta mInstituto}{section*.265}% 153
+\BOOKMARK [2][]{section*.268}{A.2.2 Clases fabrica abstracta}{section*.265}% 154
+\BOOKMARK [1][]{section*.269}{A.3 Decorador}{appendix.Alph1}% 155
+\BOOKMARK [2][]{section*.271}{A.3.1 Patr\363n Decorador mInstituto}{section*.269}% 156
+\BOOKMARK [2][]{section*.272}{A.3.2 Clases Decorador}{section*.269}% 157
+\BOOKMARK [0][]{appendix.Alph2}{B Resumen Simbolog\355a Archimate 2.1}{section*.259}% 158
+\BOOKMARK [1][]{section*.274}{B.1 Capa de Negocios}{appendix.Alph2}% 159
+\BOOKMARK [1][]{section*.275}{B.2 Capa de Aplicaci\363n}{appendix.Alph2}% 160
+\BOOKMARK [1][]{section*.276}{B.3 Capa de Tecnolog\355a}{appendix.Alph2}% 161
+\BOOKMARK [1][]{section*.277}{B.4 Relaciones}{appendix.Alph2}% 162
+\BOOKMARK [2][]{section*.278}{B.4.1 Estructurales}{section*.277}% 163
+\BOOKMARK [2][]{section*.279}{B.4.2 Din\341micas}{section*.277}% 164
+\BOOKMARK [2][]{section*.280}{B.4.3 Otras}{section*.277}% 165
+\BOOKMARK [1][]{section*.281}{B.5 Motivaci\363n}{appendix.Alph2}% 166
+\BOOKMARK [1][]{section*.282}{B.6 Implementaci\363n y Migraci\363n}{appendix.Alph2}% 167
+\BOOKMARK [0][]{appendix.Alph3}{C A Software Architecture Proposal Artistic Engineering Environment -AEE}{section*.259}% 168

@@ -1,12 +1,12 @@
-\chapter{Implementación y Migración}
+\chapter{Implementación\index{Implementación} y Migración\index{Migración}}
 \label{chap:Implementacion}
-\textit{This chapter introduces the theoretical, experimental and computational concepts used throughout the thesis}
+\textit{En este capítulo se evidencia el desarrollo de la Arquitectura Empresarial\index{Arquitectura Empresarial} correspondiente a la Implementación\index{Implementación} y Migración\index{Migración} utilizando Archimate\index{Archimate}.}
 \vspace{2ex}\vfill
 \minitoc
 \newpage
 
 \section{Punto de Vista de Proyecto}
-Un punto de vista del proyecto se utiliza principalmente para modelar el cambio de arquitectura. El proceso de migración de la “arquitectura” desde una situación o estado anterior a una nueva situación tiene consecuencias importantes en la estrategia de crecimiento a largo y mediano plazo, y el proceso de toma de decisiones. Algunas de las cuestiones que deben tenerse en cuenta por los modelos diseñados en este punto de vista son:
+Un punto de vista del proyecto se utiliza principalmente para modelar el cambio de arquitectura. El proceso de migración de la “arquitectura” desde una situación o estado anterior a una nueva situación tiene consecuencias importantes en la estrategia de crecimiento a largo y mediano plazo, y el proceso de toma de decisiones. Algunas de las cuestiones que deben tenerse en cuenta por los modelos diseñados en este punto de vista son \cite{ref9}:
   
   \begin{itemize}
   	\itemcolor{azull}
@@ -23,16 +23,16 @@ Un punto de vista del proyecto se utiliza principalmente para modelar el cambio 
 		\rowcolor{azull}
 		{\color{blancoo} \textbf{Nombre}} & {\color{blancoo} \textbf{Proyecto}} \\
 		\hline
-		\textbf{Stakeholders} & Gerentes (operativos), empresarios, arquitectos TIC, empleados, accionistas \\
+		\textbf{Stakeholder\index{Stakeholder}s} & Gerentes (operativos), empresarios, arquitectos TIC\index{TIC}, empleados, accionistas \\
 		\textbf{Preocupaciones} & Visión y políticas de la arquitectura, motivación \\
 		\textbf{Propósito} & Decidir, informar \\
-		\textbf{Nivel de Abstracción} & Conjunto \\
+		\textbf{Nivel de Abstracción\index{Abstracción}} & Conjunto \\
 		\textbf{Capa} & Capa de implementación y migración \\
-		\textbf{Aspectos} & Estructura pasiva, comportamiento, estructura activa \\
+		\textbf{Aspectos} & Estructura\index{Estructura} pasiva, comportamiento, estructura activa \\
 		\bottomrule
 	\end{tabular}
 	\captionsetup{width=.95\textwidth}
-	\caption{Descripción punto de vista del proyecto}
+	\caption{Descripción punto de vista del proyecto \cite{ref9}}
 	\label{tabla26}
   \end{table}
 
@@ -40,18 +40,18 @@ Un punto de vista del proyecto se utiliza principalmente para modelar el cambio 
 	\centering
 	\includegraphics[scale=0.2]{figuras/35}
 	\captionsetup{width=.95\textwidth}
-	\caption{Posición del punto de vista del proyecto conceptualmente y marco del punto de vista}
+	\caption{Posición del punto de vista del proyecto conceptualmente y marco del punto de vista \cite{ref9}}
 	\label{figura35}
   \end{figure}
 
-  \subsection{Metamodelo}
-  En la Figura 10.1 se ilustra el metamodelo del punto de vista de Proyecto donde se resuelven los objetivos a partir de paquetes de trabajo, el paquete de trabajo es el conjunto de actividades con miras a generar entregables, esto está asociado a roles que a su vez está asignado a actores; los paquetes resuelven objetivos.
+  \subsection{Metamodelo\index{Metamodelo}}
+  En la Figura \ref{metamodelo23} se ilustra el metamodelo del punto de vista de Proyecto donde se resuelven los objetivos a partir de paquetes de trabajo, el paquete de trabajo es el conjunto de actividades con miras a generar entregables, esto está asociado a roles que a su vez está asignado a actores; los paquetes resuelven objetivos. \cite{ref9}
 
   \begin{figure}[H]
 	\centering
 	\includegraphics{metamodelos/23}
 	\captionsetup{width=.95\textwidth}
-	\caption{Metamodelo punto de vista del proyecto}
+	\caption{Metamodelo\index{Metamodelo} punto de vista del proyecto \cite{ref9}}
 	\label{metamodelo23}
   \end{figure}
 
@@ -66,27 +66,27 @@ Un punto de vista del proyecto se utiliza principalmente para modelar el cambio 
 	\label{modelo23}
   \end{figure}
   
-\section{Punto de Vista de Migración}
+\section{Punto de Vista de Migración\index{Migración}}
 El punto de vista de migración implica modelos y conceptos que pueden ser utilizados para especificar la transición de una arquitectura existente a una arquitectura deseada. \\
-El punto de vista de migración implica modelos y conceptos que pueden ser utilizados para especificar la transición de una arquitectura existente a una arquitectura deseada.
+El punto de vista de migración implica modelos y conceptos que pueden ser utilizados para especificar la transición de una arquitectura existente a una arquitectura deseada. \cite{ref9}
 
   \begin{table}[H]
 	\centering
 	\begin{tabular}{p{3.7cm}p{8cm}}
 		\hline
 		\rowcolor[HTML]{0073a1}
-		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Migración}} \\
+		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Migración\index{Migración}}} \\
 		\hline
-		\textbf{Stakeholders} & Arquitectos empresariales, arquitectos de proyecto, arquitectos de aplicación, arquitectos de dominio, arquitectos de infraestructura, empleados \\
-		\textbf{Preocupaciones} & Historia de los modelos \\
-		\textbf{Propósito} & Diseñar, decidir, informar \\
-		\textbf{Nivel de Abstracción} & Conjunto \\
+		\textbf{Stakeholder\index{Stakeholder}s} & Arquitectos empresariales, arquitectos de proyecto, arquitectos de aplicación, arquitectos de dominio, arquitectos de infraestructura, empleados \\
+		\textbf{Preocupaciones} & Historia\index{Historia} de los modelos \\
+		\textbf{Propósito} & Diseñar\index{Diseñar}, decidir, informar \\
+		\textbf{Nivel de Abstracción\index{Abstracción}} & Conjunto \\
 		\textbf{Capa} & Capa de implementación y migración \\
 		\textbf{Aspectos} & NA \\
 		\bottomrule
 	\end{tabular}
 	\captionsetup{width=.95\textwidth}
-	\caption{Descripción punto de vista de migración}
+	\caption{Descripción punto de vista de migración \cite{ref9}}
 	\label{tabla27}
   \end{table}
 
@@ -94,23 +94,23 @@ El punto de vista de migración implica modelos y conceptos que pueden ser utili
 	\centering
 	\includegraphics[scale=0.2]{figuras/35}
 	\captionsetup{width=.95\textwidth}
-	\caption{Posición del punto de vista de migración conceptualmente y marco del punto de vista}
+	\caption{Posición del punto de vista de migración conceptualmente y marco del punto de vista \cite{ref9}}
 	\label{figura36}
   \end{figure}
 
-  \subsection{Metamodelo}
-  En la Figura 10.3 se ilustra el metamodelo del punto de vista de Migración, En este punto de vista están los conceptos de brecha y platea, se deben tener en cuenta los hitos y como se puede pasar de un hito a otro. Una brecha es lo que se debe superar para alcanzar el otro lado, la platea es el hito en el que nos apoyamos para progresar en la arquitectura empresarial.
+  \subsection{Metamodelo\index{Metamodelo}}
+  En la Figura \ref{metamodelo24} se ilustra el metamodelo del punto de vista de Migración\index{Migración}, En este punto de vista están los conceptos de brecha y platea, se deben tener en cuenta los hitos y como se puede pasar de un hito a otro. Una brecha es lo que se debe superar para alcanzar el otro lado, la platea es el hito en el que nos apoyamos para progresar en la arquitectura empresarial. \cite{ref9}
 
   \begin{figure}[H]
 	\centering
 	\includegraphics{metamodelos/24}
 	\captionsetup{width=.95\textwidth}
-	\caption{Metamodelo punto de vista de migración}
+	\caption{Metamodelo\index{Metamodelo} punto de vista de migración \cite{ref9}}
 	\label{metamodelo24}
   \end{figure}
 
   \subsection{Modelo mInstituto}
-  En la vista se representan las plateas y brechas evidenciadas para el proyecto.  Se identificaron como primera platea los requerimientos de la gestión de información de las instituciones educativas; la segunda platea es el análisis y diseño, la brecha entre las dos plateas corresponde al levantamiento de requerimientos, el cual se realiza con la información obtenida de los requerimientos.  La tercera platea corresponde al licenciamiento y la brecha entre análisis y diseño y el licenciamiento es el proceso de desarrollo del software y las pruebas correspondientes.
+  En la vista se representan las plateas y brechas evidenciadas para el proyecto.  Se identificaron como primera platea los requerimientos de la gestión de información de las instituciones educativas; la segunda platea es el análisis y diseño, la brecha entre las dos plateas corresponde al levantamiento de requerimientos, el cual se realiza con la información obtenida de los requerimientos.  La tercera platea corresponde al licenciamiento y la brecha entre análisis y diseño y el licenciamiento es el proceso de desarrollo del software y las pruebas correspondientes. 
   
   \begin{figure}[H]
 	\centering
@@ -120,26 +120,26 @@ El punto de vista de migración implica modelos y conceptos que pueden ser utili
 	\label{modelo24}
   \end{figure}
   
-\section{Punto de Vista de Migración e Implementación}
-El punto de vista de la implementación y migración se utiliza para relacionar los programas y proyectos con las partes de la arquitectura que se implementan. Esta visión permite el modelado del alcance de los programas, proyectos, actividades del proyecto en términos de los elementos individuales de la arquitectura que se ven afectados. Además, se puede indicar la forma en que los elementos se ven afectados por las relaciones entre componentes.
+\section{Punto de Vista de Migración\index{Migración} e Implementación\index{Implementación}}
+El punto de vista de la implementación y migración se utiliza para relacionar los programas y proyectos con las partes de la arquitectura que se implementan. Esta visión permite el modelado del alcance de los programas, proyectos, actividades del proyecto en términos de los elementos individuales de la arquitectura que se ven afectados. Además, se puede indicar la forma en que los elementos se ven afectados por las relaciones entre componentes. \cite{ref9}
 
   \begin{table}[H]
 	\centering
 	\begin{tabular}{p{3.7cm}p{8cm}}
 		\hline
 		\rowcolor[HTML]{0073a1}
-		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Migración e Implementación}} \\
+		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Migración\index{Migración} e Implementación\index{Implementación}}} \\
 		\hline
-		\textbf{Stakeholders} & Gerentes (operativos), organización, arquitectos TIC, empleados, accionistas \\
+		\textbf{Stakeholder\index{Stakeholder}s} & Gerentes (operativos), organización, arquitectos TIC\index{TIC}, empleados, accionistas \\
 		\textbf{Preocupaciones} &  Visión y políticas de la arquitectura, motivación \\
-		\textbf{Propósito} & Diseñar, informar \\
-		\textbf{Nivel de Abstracción} & Conjunto \\
-		\textbf{Capa} & Capa de negocio, Aplicación, tecnología, implementación y extensión de la migración \\
-		\textbf{Aspectos} & Estructura pasiva, comportamiento, estructura activa \\
+		\textbf{Propósito} & Diseñar\index{Diseñar}, informar \\
+		\textbf{Nivel de Abstracción\index{Abstracción}} & Conjunto \\
+		\textbf{Capa} & Capa de negocio, Aplicación\index{Aplicación}, tecnología, implementación y extensión de la migración \\
+		\textbf{Aspectos} & Estructura\index{Estructura} pasiva, comportamiento, estructura activa \\
 		\bottomrule
 	\end{tabular}
 	\captionsetup{width=.95\textwidth}
-	\caption{Descripción punto de vista de la implementación y migración}
+	\caption{Descripción punto de vista de la implementación y migración \cite{ref9}}
 	\label{tabla28}
   \end{table}
 
@@ -147,18 +147,18 @@ El punto de vista de la implementación y migración se utiliza para relacionar 
 	\centering
 	\includegraphics[scale=0.2]{figuras/35}
 	\captionsetup{width=.95\textwidth}
-	\caption{Posición del punto de vista de la implementación y migración conceptualmente y marco del punto de vista}
+	\caption{Posición del punto de vista de la implementación y migración conceptualmente y marco del punto de vista \cite{ref9}}
 	\label{figura37}
   \end{figure}
 
-  \subsection{Metamodelo}
-  En la figura Figura 10.3 se ilustra el metamodelo del punto de vista de Migración e Implementación, es la conjunción integración de los puntos de vista de proyecto y de migración, es una síntesis del despliegue, nos resume el proyecto y la migración.
+  \subsection{Metamodelo\index{Metamodelo}}
+  En la figura Figura \ref{metamodelo25} se ilustra el metamodelo del punto de vista de Migración\index{Migración} e Implementación\index{Implementación}, es la conjunción integración de los puntos de vista de proyecto y de migración, es una síntesis del despliegue, nos resume el proyecto y la migración. \cite{ref9}
 
   \begin{figure}[H]
 	\centering
 	\includegraphics{metamodelos/25}
 	\captionsetup{width=.95\textwidth}
-	\caption{Metamodelo punto de vista de la implementación y migración}
+	\caption{Metamodelo\index{Metamodelo} punto de vista de la implementación y migración \cite{ref9}}
 	\label{metamodelo25}
   \end{figure}
 

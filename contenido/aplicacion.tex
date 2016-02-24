@@ -1,30 +1,30 @@
-\chapter{Capa de Aplicación}
+\chapter{Capa de Aplicación\index{Aplicación}}
 \label{chap:Aplicacion}
-\textit{This chapter introduces the theoretical, experimental and computational concepts used throughout the thesis}
+\textit{El capítulo presenta el desarrollo de la Arquitectura Empresarial\index{Arquitectura Empresarial} correspondiente a la Capa de Aplicación\index{Aplicación} utilizando Archimate\index{Archimate}.}
 \vspace{2ex}\vfill
 \minitoc
 \newpage
 
-\section{Punto de Vista Comportamiento de Aplicación}
-El punto de vista del comportamiento de aplicaciones describe el comportamiento interno de la aplicación, este punto de vista es útil en el diseño del comportamiento principal de aplicaciones, o en la identificación de solapamiento funcional entre diferentes aplicaciones.
+\section{Punto de Vista Comportamiento\index{Comportamiento} de Aplicación\index{Aplicación}}
+El punto de vista del comportamiento de aplicaciones describe el comportamiento interno de la aplicación, este punto de vista es útil en el diseño del comportamiento principal de aplicaciones, o en la identificación de solapamiento funcional entre diferentes aplicaciones. \cite{ref9}
 
   \begin{table}[H]
   	\centering
   	\begin{tabular}{p{3.7cm}p{8cm}}
   		\hline
   		\rowcolor[HTML]{0073a1}
-  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Comportamiento de Aplicación}} \\
+  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Comportamiento\index{Comportamiento} de Aplicación\index{Aplicación}}} \\
   		\hline
-  		\textbf{Stakeholders} & Arquitectos de la organización, proceso, aplicación y dominio \\
-  		\textbf{Preocupaciones} & Estructurar las relaciones entre las aplicaciones, garantizar la consistencia e integridad, reducir la complejidad \\
-  		\textbf{Propósito} & Diseñar \\
-  		\textbf{Nivel de Abstracción} & Coherencia, detalle \\
-  		\textbf{Capa} & Capa de Aplicación (Aplicación) \\
+  		\textbf{Stakeholder\index{Stakeholder}s} & Arquitectos de la organización, proceso, aplicación y dominio \\
+  		\textbf{Preocupaciones} & Estructura\index{Estructura}r las relaciones entre las aplicaciones, garantizar la consistencia e integridad, reducir la complejidad \\
+  		\textbf{Propósito} & Diseñar\index{Diseñar} \\
+  		\textbf{Nivel de Abstracción\index{Abstracción}} & Coherencia\index{Coherencia}, detalle \\
+  		\textbf{Capa} & Capa de Aplicación\index{Aplicación} (Aplicación\index{Aplicación}) \\
   		\textbf{Aspectos} & Activo, comportamiento, (información) \\
   		\bottomrule
   	\end{tabular}
 	\captionsetup{width=.95\textwidth}
-	\caption{Descripción punto de vista comportamiento de aplicación}
+	\caption{Descripción punto de vista comportamiento de aplicación \cite{ref9}}
 	\label{tabla10}
   \end{table}
 
@@ -32,19 +32,18 @@ El punto de vista del comportamiento de aplicaciones describe el comportamiento 
 	\centering
 	\includegraphics[scale=0.2]{figuras/20}
 	\captionsetup{width=.95\textwidth}
-	\caption{Posición del punto de vista comportamiento de aplicación conceptualmente y marco del punto de vista}
+	\caption{Posición del punto de vista comportamiento de aplicación conceptualmente y marco del punto de vista \cite{ref9}}
 	\label{figura20}
   \end{figure}
 
-\subsection{Metamodelo}
-En la Figura 7.1 se ilustra el metamodelo perteneciente al punto de vista comportamiento de aplicación, el concepto clave para la estructura es el componente de aplicación, a este componentes se le asignan funciones de aplicación, las cuales realizan los servicios de aplicación donde estos servicios soportan los procesos de negocio, se generan unos objetos de datos; la interface es la encargada de interconectar los componentes, en el metamodelo aparece la colaboración de aplicación donde se reúnen componentes que aplican el concepto
-de colaboración.
+\subsection{Metamodelo\index{Metamodelo}}
+En la Figura \ref{metamodelo7} se ilustra el metamodelo perteneciente al punto de vista comportamiento de aplicación, el concepto clave para la estructura es el componente de aplicación, a este componentes se le asignan funciones de aplicación, las cuales realizan los servicios de aplicación donde estos servicios soportan los procesos de negocio, se generan unos objetos de datos; la interface es la encargada de interconectar los componentes, en el metamodelo aparece la colaboración de aplicación donde se reúnen componentes que aplican el concepto de colaboración. \cite{ref9}
 
 \begin{figure}[H]
 	\centering
 	\includegraphics{metamodelos/7}
 	\captionsetup{width=.95\textwidth}
-	\caption{Metamodelo punto de vista comportamiento de aplicación}
+	\caption{Metamodelo\index{Metamodelo} punto de vista comportamiento de aplicación \cite{ref9}}
 	\label{metamodelo7}
 \end{figure}
 
@@ -63,28 +62,28 @@ de colaboración.
 	\label{modelo7}
 \end{figure}
 
-\section{Punto de Vista Cooperación de Aplicación}
-El punto de vista de Cooperación de la aplicación describe las relaciones entre los componentes de las aplicaciones en función de los flujos de información entre ellos, o en términos de los servicios que ofrecen y su uso. \\
+\section{Punto de Vista Cooperación\index{Cooperación} de Aplicación\index{Aplicación}}
+El punto de vista de Cooperación\index{Cooperación} de la aplicación describe las relaciones entre los componentes de las aplicaciones en función de los flujos de información entre ellos, o en términos de los servicios que ofrecen y su uso. \\
 
-Este punto de vista también se utiliza para expresar la cooperación (interna) o la orquestación de los servicios que en conjunto apoyan la ejecución de un proceso de negocio.
+Este punto de vista también se utiliza para expresar la cooperación (interna) o la orquestación de los servicios que en conjunto apoyan la ejecución de un proceso de negocio. \cite{ref9}
 
   \begin{table}[H]
   	\centering
   	\begin{tabular}{p{3.7cm}p{8cm}}
   		\hline
   		\rowcolor[HTML]{0073a1}
-  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Cooperación de Aplicación}} \\
+  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Cooperación\index{Cooperación} de Aplicación\index{Aplicación}}} \\
   		\hline
-  		\textbf{Stakeholders} & Arquitectos de la organización, proceso, aplicación y dominio \\
-  		\textbf{Preocupaciones} & Estructurar las relaciones y dependencias entre las aplicaciones, orquestación de los servicios, garantizar la consistencia e integridad, reducir la complejidad \\
-  		\textbf{Propósito} & Diseñar \\
-  		\textbf{Nivel de Abstracción} & Coherencia, detalle \\
-  		\textbf{Capa} & Capa de Aplicación (Aplicación) \\
+  		\textbf{Stakeholder\index{Stakeholder}s} & Arquitectos de la organización, proceso, aplicación y dominio \\
+  		\textbf{Preocupaciones} & Estructura\index{Estructura}r las relaciones y dependencias entre las aplicaciones, orquestación de los servicios, garantizar la consistencia e integridad, reducir la complejidad \\
+  		\textbf{Propósito} & Diseñar\index{Diseñar} \\
+  		\textbf{Nivel de Abstracción\index{Abstracción}} & Coherencia\index{Coherencia}, detalle \\
+  		\textbf{Capa} & Capa de Aplicación\index{Aplicación} (Aplicación\index{Aplicación}) \\
   		\textbf{Aspectos} & Activo, comportamiento \\
   		\bottomrule
   	\end{tabular}
   	\captionsetup{width=.95\textwidth}
-  	\caption{Descripción punto de vista cooperación de aplicación}
+  	\caption{Descripción punto de vista cooperación de aplicación \cite{ref9}}
   	\label{tabla11}
   \end{table}
 
@@ -92,52 +91,52 @@ Este punto de vista también se utiliza para expresar la cooperación (interna) 
 	\centering
 	\includegraphics[scale=0.2]{figuras/21}
 	\captionsetup{width=.95\textwidth}
-	\caption{Posición del punto de vista cooperación de aplicación conceptualmente y marco del punto de vista}
+	\caption{Posición del punto de vista cooperación de aplicación conceptualmente y marco del punto de vista \cite{ref9}}
 	\label{figura21}
 \end{figure}
 
-\subsection{Metamodelo}
-En la figura Figura 7.3 se ilustra el metamodelo perteneciente al punto de vista cooperación de aplicación, el punto de vista se centra en la localización,ya que se agrupan los componentes en un front office y un back office.
+\subsection{Metamodelo\index{Metamodelo}}
+En la figura Figura \ref{metamodelo8} se ilustra el metamodelo perteneciente al punto de vista cooperación de aplicación, el punto de vista se centra en la localización,ya que se agrupan los componentes en un front office y un back office. \cite{ref9}
 
 \begin{figure}[H]
 	\centering
 	\includegraphics{metamodelos/8}
 	\captionsetup{width=.95\textwidth}
-	\caption{Metamodelo punto de vista cooperación de aplicación}
+	\caption{Metamodelo\index{Metamodelo} punto de vista cooperación de aplicación \cite{ref9}}
 	\label{metamodelo8}
 \end{figure}
 
 \subsection{Modelo mInstituto}
-En el punto de vista se evidencia que la localización del front office se encuentran los componentes de publicidad, minstituto y comunidad, por otro lado en la localización del back office se encuentran ubicados los componentes de diseño, análisis y desarrollo los cuales se relacionan directamente con la aplicación Minstituto.
+En el punto de vista se evidencia que la localización del front office se encuentran los componentes de publicidad, minstituto y comunidad, por otro lado en la localización del back office se encuentran ubicados los componentes de diseño, análisis y desarrollo los cuales se relacionan directamente con la aplicación Minstituto\index{Minstituto}.
 
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.7]{modelos/8}
 	\captionsetup{width=.95\textwidth}
-	\caption{Modelo Punto de Vista Cooperación de Aplicación: minstituto}
+	\caption{Modelo Punto de Vista Cooperación\index{Cooperación} de Aplicación\index{Aplicación}: minstituto}
 	\label{modelo8}
 \end{figure}
 
-\section{Punto de Vista Estructura de Aplicación}
-El punto de vista de estructura de la aplicación, muestra la estructura de componentes de una aplicación Este punto de vista es útil en el diseño o la comprensión de la estructura principal de componentes de la aplicación y el uso de datos asociados.
+\section{Punto de Vista Estructura\index{Estructura} de Aplicación\index{Aplicación}}
+El punto de vista de estructura de la aplicación, muestra la estructura de componentes de una aplicación Este punto de vista es útil en el diseño o la comprensión de la estructura principal de componentes de la aplicación y el uso de datos asociados. \cite{ref9}
 
   \begin{table}[H]
   	\centering
   	\begin{tabular}{p{3.7cm}p{8cm}}
   		\hline
   		\rowcolor[HTML]{0073a1}
-  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Estructura de Aplicación}} \\
+  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Estructura\index{Estructura} de Aplicación\index{Aplicación}}} \\
   		\hline
-  		\textbf{Stakeholders} & Arquitectos de la organización, aplicación y dominio \\
-  		\textbf{Preocupaciones} & Estructura de la aplicación, garantizar la consistencia e integridad, reducir la complejidad \\
-  		\textbf{Propósito} & Diseñar \\
-  		\textbf{Nivel de Abstracción} & Detalle \\
-  		\textbf{Capa} & Capa de Aplicación \\
+  		\textbf{Stakeholder\index{Stakeholder}s} & Arquitectos de la organización, aplicación y dominio \\
+  		\textbf{Preocupaciones} & Estructura\index{Estructura} de la aplicación, garantizar la consistencia e integridad, reducir la complejidad \\
+  		\textbf{Propósito} & Diseñar\index{Diseñar} \\
+  		\textbf{Nivel de Abstracción\index{Abstracción}} & Detalle \\
+  		\textbf{Capa} & Capa de Aplicación\index{Aplicación} \\
   		\textbf{Aspectos} & Activo, (Pasivo) \\
   		\bottomrule
   	\end{tabular}
   	\captionsetup{width=.95\textwidth}
-  	\caption{Descripción punto de vista estructura de aplicación}
+  	\caption{Descripción punto de vista estructura de aplicación \cite{ref9}}
   	\label{tabla12}
   \end{table}
 
@@ -145,18 +144,18 @@ El punto de vista de estructura de la aplicación, muestra la estructura de comp
 	\centering
 	\includegraphics[scale=0.2]{figuras/22}
 	\captionsetup{width=.95\textwidth}
-	\caption{Posición del punto de vista estructura de aplicación conceptualmente y marco del punto de vista}
+	\caption{Posición del punto de vista estructura de aplicación conceptualmente y marco del punto de vista \cite{ref9}}
 	\label{figura22}
   \end{figure}
 
-  \subsection{Metamodelo}
-  En la figura Figura 7.5 se ilustra el metamodelo perteneciente al punto de vista de estructura de la aplicación en este metamodelo se involucran el componente y la interfaz, se muestra la forma de interactuar el sistema con los componentes de software haciendo uso de las interfaces de comunicación.
+  \subsection{Metamodelo\index{Metamodelo}}
+  En la figura Figura \ref{metamodelo9} se ilustra el metamodelo perteneciente al punto de vista de estructura de la aplicación en este metamodelo se involucran el componente y la interfaz, se muestra la forma de interactuar el sistema con los componentes de software haciendo uso de las interfaces de comunicación.\cite{ref9}
 
   \begin{figure}[H]
 	\centering
 	\includegraphics{metamodelos/9}
 	\captionsetup{width=.95\textwidth}
-	\caption{Metamodelo punto de vista estructura de aplicación}
+	\caption{Metamodelo\index{Metamodelo} punto de vista estructura de aplicación \cite{ref9}}
 	\label{metamodelo9}
   \end{figure}
 
@@ -171,26 +170,26 @@ El punto de vista de estructura de la aplicación, muestra la estructura de comp
 	\label{modelo9}
   \end{figure}
   
-  \section{Punto de Vista de Uso de Aplicación}
-  El punto de vista de uso de aplicación describe como las aplicaciones son usadas para soportar uno o mas procesos de negocio, y como ellos son usados por otras aplicaciones. Puede ser usado en el diseño de una aplicación para identificar los servicios requeridos por los procesos de negocios y otras aplicaciones, o en el diseño de procesos de negocio para describir los servicios que están disponibles. Así, al identificar las dependencias de los procesos de negocio sobre las aplicaciones, puede ser útil para los administradores operativos responsables de estos procesos.
+  \section{Punto de Vista de Uso de Aplicación\index{Aplicación}}
+  El punto de vista de uso de aplicación describe como las aplicaciones son usadas para soportar uno o mas procesos de negocio, y como ellos son usados por otras aplicaciones. Puede ser usado en el diseño de una aplicación para identificar los servicios requeridos por los procesos de negocios y otras aplicaciones, o en el diseño de procesos de negocio para describir los servicios que están disponibles. Así, al identificar las dependencias de los procesos de negocio sobre las aplicaciones, puede ser útil para los administradores operativos responsables de estos procesos. \cite{ref9}
   
   \begin{table}[H]
   	\centering
   	\begin{tabular}{p{3.7cm}p{8cm}}
   		\hline
   		\rowcolor[HTML]{0073a1}
-  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Uso de Aplicación}} \\
+  		{\color[HTML]{FFFFFF} \textbf{Nombre}} & {\color[HTML]{FFFFFF} \textbf{Uso de Aplicación\index{Aplicación}}} \\
   		\hline
-  		\textbf{Stakeholders} & La empresa, el proceso, los arquitectos de aplicaciones, directores de operaciones \\
-  		\textbf{Preocupaciones} & Consistencia e Integridad, Reducción de la complejidad \\
-  		\textbf{Propósito} & Diseñar, decidir \\
-  		\textbf{Nivel de Abstracción} & Coherencia \\
-  		\textbf{Capa} & Capa de Negocio y Aplicación \\
-  		\textbf{Aspectos} & Comportamiento, estructura \\
+  		\textbf{Stakeholder\index{Stakeholder}s} & La empresa, el proceso, los arquitectos de aplicaciones, directores de operaciones \\
+  		\textbf{Preocupaciones} & Consistencia e Integridad\index{Integridad}, Reducción de la complejidad \\
+  		\textbf{Propósito} & Diseñar\index{Diseñar}, decidir \\
+  		\textbf{Nivel de Abstracción\index{Abstracción}} & Coherencia\index{Coherencia} \\
+  		\textbf{Capa} & Capa de Negocio\index{Negocio} y Aplicación\index{Aplicación} \\
+  		\textbf{Aspectos} & Comportamiento\index{Comportamiento}, estructura \\
   		\bottomrule
   	\end{tabular}
   	\captionsetup{width=.95\textwidth}
-  	\caption{Descripción punto de vista de Uso de Aplicación}
+  	\caption{Descripción punto de vista de Uso de Aplicación\index{Aplicación} \cite{ref9}}
   	\label{tabla13}
   \end{table}
   
@@ -198,20 +197,20 @@ El punto de vista de estructura de la aplicación, muestra la estructura de comp
   	\centering
   	\includegraphics[scale=0.2]{figuras/23}
   	\captionsetup{width=.95\textwidth}
-  	\caption{Posición del punto de vista de Uso de Aplicación conceptualmente y marco del punto de vista}
+  	\caption{Posición del punto de vista de Uso de Aplicación\index{Aplicación} conceptualmente y marco del punto de vista \cite{ref9}}
   	\label{figura23}
   \end{figure}
   
-  \subsection{Metamodelo}
-  En la figura Figura 7.5 se ilustra el metamodelo perteneciente al punto de vista de Uso de Aplicación en este metamodelo se involucran el componente y la interfaz, se muestra la forma de usar el software haciendo uso de las interfaces y componentes. \\
+  \subsection{Metamodelo\index{Metamodelo}}
+  En la figura Figura \ref{metamodelo10} se ilustra el metamodelo perteneciente al punto de vista de Uso de Aplicación\index{Aplicación} en este metamodelo se involucran el componente y la interfaz, se muestra la forma de usar el software haciendo uso de las interfaces y componentes. \\
   
-  Puede ser usado en el diseño de una aplicación para identificar los servicios requeridos por los procesos de negocios y otras aplicaciones, o en el diseño de procesos de negocio para describir los servicios que están disponibles. Así, al identificar las dependencias de los procesos de negocio sobre las aplicaciones, puede ser útil para los administradores operativos responsables de estos procesos.
+  Puede ser usado en el diseño de una aplicación para identificar los servicios requeridos por los procesos de negocios y otras aplicaciones, o en el diseño de procesos de negocio para describir los servicios que están disponibles. Así, al identificar las dependencias de los procesos de negocio sobre las aplicaciones, puede ser útil para los administradores operativos responsables de estos procesos. \cite{ref9}
   
   \begin{figure}[H]
   	\centering
   	\includegraphics{metamodelos/10}
   	\captionsetup{width=.95\textwidth}
-  	\caption{Metamodelo punto de vista de Uso de Aplicación}
+  	\caption{Metamodelo\index{Metamodelo} punto de vista de Uso de Aplicación\index{Aplicación} \cite{ref9}}
   	\label{metamodelo10}
   \end{figure}
   
@@ -226,6 +225,6 @@ El punto de vista de estructura de la aplicación, muestra la estructura de comp
   	\centering
   	\includegraphics[scale=0.7]{modelos/10}
   	\captionsetup{width=.95\textwidth}
-  	\caption{Modelo punto de vista de Uso de Aplicación: minstituto}
+  	\caption{Modelo punto de vista de Uso de Aplicación\index{Aplicación}: minstituto}
   	\label{modelo10}
   \end{figure}

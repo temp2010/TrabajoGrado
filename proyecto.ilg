@@ -1,6 +1,21 @@
 This is makeindex, version 2.15 [MiKTeX 2.9 64-bit] (kpathsea + Thai support).
-Scanning input file proyecto.idx....done (59 entries accepted, 0 rejected).
-Sorting entries....done (381 comparisons).
-Generating output file proyecto.ind....done (123 lines written, 0 warnings).
+Scanning input file proyecto.idx...
+!! Input index error (file = proyecto.idx, line = 1):
+   -- Illegal space within numerals in second argument.
+!! Input index error (file = proyecto.idx, line = 2):
+   -- Illegal space within numerals in second argument.
+!! Input index error (file = proyecto.idx, line = 3):
+   -- Illegal space within numerals in second argument.
+!! Input index error (file = proyecto.idx, line = 4):
+   -- Illegal space within numerals in second argument.
+!! Input index error (file = proyecto.idx, line = 5):
+   -- Illegal space within numerals in second argument.
+!! Input index error (file = proyecto.idx, line = 6):
+   -- Illegal space within numerals in second argument.
+!! Input index error (file = proyecto.idx, line = 7):
+   -- Illegal space within numerals in second argument.
+.done (638 entries accepted, 7 rejected).
+Sorting entries........done (6537 comparisons).
+Generating output file proyecto.ind....done (181 lines written, 0 warnings).
 Output written in proyecto.ind.
 Transcript written in proyecto.ilg.

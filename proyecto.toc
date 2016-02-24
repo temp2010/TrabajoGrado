@@ -320,11 +320,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {A.2}Fabrica Abstracta}{126}{section*.265}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.1}Patr\IeC {\'o}n Fabrica Abstracta mInstituto}{126}{section*.267}
+\contentsline {subsection}{\numberline {A.2.1}Patr\IeC {\'o}n Fabrica Abstracta mInstituto}{127}{section*.267}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {A.2.2}Clases fabrica abstracta}{127}{section*.268}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {A.3}Decorador}{128}{section*.269}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Aplicabilidad}{128}{section*.269}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {A.3.1}Patr\IeC {\'o}n Decorador mInstituto}{129}{section*.271}
 \defcounter {refsection}{0}\relax 

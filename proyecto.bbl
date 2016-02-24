@@ -16,172 +16,217 @@
   {}
 \endgroup
 
-\entry{Apple:keynote:2010}{book}{}
+\entry{ref12}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {{Apple Inc.}}{A.}%
-     {}{}%
+     {Alexander}{A.}%
+     {Christopher}{C.}%
      {}{}%
      {}{}}%
+  }
+  \list{language}{1}{%
+    {English}%
   }
   \list{publisher}{1}{%
-    {{Apple Inc.}}%
+    {Oxford University Press}%
   }
-  \strng{namehash}{A1}
-  \strng{fullhash}{A1}
+  \strng{namehash}{AC1}
+  \strng{fullhash}{AC1}
   \field{sortinit}{A}
-  \field{title}{Keynote '09 User Guide}
-  \field{year}{2010}
+  \field{title}{The Timeless Way of Building}
+  \field{year}{1979}
 \endentry
 
-\entry{Apple:numbers:2010}{book}{}
+\entry{ref3}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {{Apple Inc.}}{A.}%
-     {}{}%
+     {Bas~Vodde}{B.~V.}%
+     {Pete~Deemer}{P.~D.}%
+     {y~Gabrielle Benefield y Craig Larman~y}{y.~G. B. y. C. L.~y.}%
+     {}{}}%
+  }
+  \strng{namehash}{BVPDyGByCLy1}
+  \strng{fullhash}{BVPDyGByCLy1}
+  \field{sortinit}{B}
+  \field{title}{Una introducción básica a la teoría y práctica de Scrum
+  Versión 2.0}
+  \field{year}{2012}
+\endentry
+
+\entry{ref1}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Digital}{D.}%
+     {Corporación~Colombia}{C.~C.}%
      {}{}%
      {}{}}%
   }
-  \list{publisher}{1}{%
-    {{Apple Inc.}}%
-  }
-  \strng{namehash}{A1}
-  \strng{fullhash}{A1}
-  \field{sortinit}{A}
-  \field{title}{Numbers '09 User Guide}
-  \field{year}{2010}
-\endentry
-
-\entry{Apple:pages:2010}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{Apple Inc.}}{A.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {{Apple Inc.}}%
-  }
-  \strng{namehash}{A1}
-  \strng{fullhash}{A1}
-  \field{sortinit}{A}
-  \field{title}{Pages '09 User Guide}
-  \field{year}{2010}
-\endentry
-
-\entry{WEB:GNU:GPL:2010}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{Free Software Foundation, Inc.}}{F.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{F1}
-  \strng{fullhash}{F1}
-  \field{sortinit}{F}
-  \field{title}{GNU General Public License}
+  \strng{namehash}{DCC1}
+  \strng{fullhash}{DCC1}
+  \field{sortinit}{D}
+  \field{title}{¿Qué es Arquitectura Empresarial?}
   \verb{url}
-  \verb http://www.gnu.org/licenses/gpl.html
+  \verb http://www.colombiadigital.net/actualidad/articulos-informativos/item/8
+  \verb 123-que-es-arquitectura-empresarial.html
   \endverb
-  \field{year}{2010}
+  \field{year}{2015}
   \field{urlday}{27}
-  \field{urlmonth}{05}
-  \field{urlyear}{2011}
+  \field{urlmonth}{01}
+  \field{urlyear}{2016}
 \endentry
 
-\entry{Jurgens:2000}{book}{}
+\entry{ref9}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {J{\"u}rgens}{J.}%
-     {Manuela}{M.}%
+     {Group}{G.}%
+     {The~Open}{T.~O.}%
      {}{}%
      {}{}}%
   }
-  \list{publisher}{1}{%
-    {FernUniversit{\"a}t Gesamthochschule in Hagen}%
+  \list{language}{1}{%
+    {English}%
   }
-  \strng{namehash}{JM1}
-  \strng{fullhash}{JM1}
-  \field{sortinit}{J}
-  \field{title}{LaTeX: eine Einf{\"u}hrung und ein bisschen mehr}
-  \field{year}{2000}
+  \list{publisher}{1}{%
+    {Van Haren Publishing}%
+  }
+  \strng{namehash}{GTO1}
+  \strng{fullhash}{GTO1}
+  \field{sortinit}{G}
+  \field{isbn}{9789401800037}
+  \field{title}{ArchiMate® 2.1 Specification}
+  \field{year}{2013}
 \endentry
 
-\entry{Jurgens:1995}{book}{}
+\entry{ref10}{online}{}
   \name{author}{1}{}{%
     {{}%
-     {J{\"u}rgens}{J.}%
-     {Manuela}{M.}%
+     {Group}{G.}%
+     {The~Open}{T.~O.}%
      {}{}%
      {}{}}%
   }
-  \list{publisher}{1}{%
-    {FernUniversit{\"a}t Gesamthochschule in Hagen}%
+  \strng{namehash}{GTO1}
+  \strng{fullhash}{GTO1}
+  \field{sortinit}{G}
+  \field{title}{Leading the development of open, vendor-neutral IT standards
+  and certifications}
+  \verb{url}
+  \verb http://www.opengroup.org/
+  \endverb
+  \field{year}{2016}
+  \field{urlday}{15}
+  \field{urlmonth}{01}
+  \field{urlyear}{2016}
+\endentry
+
+\entry{ref4}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Harrison}{H.}%
+     {Andrew Josey~Rachel}{A.~J.~R.}%
+     {}{}%
+     {}{}}%
   }
-  \strng{namehash}{JM1}
-  \strng{fullhash}{JM1}
+  \strng{namehash}{HAJR1}
+  \strng{fullhash}{HAJR1}
+  \field{sortinit}{H}
+  \field{title}{T. GROUP ET AL. TOGAF ® Versión 9.1 Guía de Bolsillo}
+  \field{year}{2013}
+\endentry
+
+\entry{ref2}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jeff~Sutherland}{J.~S.}%
+     {Ken~Schwaber}{K.~S.}%
+     {y}{y}%
+     {}{}}%
+  }
+  \strng{namehash}{JSKSy1}
+  \strng{fullhash}{JSKSy1}
   \field{sortinit}{J}
-  \field{title}{LaTeX: Fortgeschrittene Anwendungen}
+  \field{title}{The Scrum Guide}
+  \field{year}{2013}
+\endentry
+
+\entry{ref6}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {John~Vlissides}{J.~V.}%
+     {Erich~Gamma}{E.~G.}%
+     {y~Richard Helm y Ralph Johnson~y}{y.~R. H. y. R. J.~y.}%
+     {}{}}%
+  }
+  \strng{namehash}{JVEGyRHyRJy1}
+  \strng{fullhash}{JVEGyRHyRJy1}
+  \field{sortinit}{J}
+  \field{title}{Design Patterns}
   \field{year}{1995}
 \endentry
 
-\entry{Kohm:2011}{book}{}
-  \name{author}{2}{}{%
+\entry{ref13}{online}{}
+  \name{author}{1}{}{%
     {{}%
-     {Kohm}{K.}%
-     {Markus}{M.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Jens-Uwe-Morawski}{J.-U.-M.}%
-     {}{}%
-     {}{}%
+     {Kevin~Jamaica}{K.~J.}%
+     {Juan~Salazar}{J.~S.}%
+     {y~Juan Lizarazo y Juan Mora~y}{y.~J. L. y. J. M.~y.}%
      {}{}}%
   }
-  \strng{namehash}{KMJUM1}
-  \strng{fullhash}{KMJUM1}
+  \strng{namehash}{KJJSyJLyJMy1}
+  \strng{fullhash}{KJJSyJLyJMy1}
   \field{sortinit}{K}
-  \field{title}{KOMA-Script: Die Anleitung}
-  \field{year}{2011}
-\endentry
-
-\entry{Miede:2011}{manual}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Miede}{M.}%
-     {Andr{\'e}}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{MA1}
-  \strng{fullhash}{MA1}
-  \field{sortinit}{M}
-  \field{title}{A Classic Thesis Style: An Homage to The Elements of
-  Typographic Style}
-  \field{year}{2011}
-\endentry
-
-\entry{WEB:Miede:2011}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Miede}{M.}%
-     {Andr{\'e}}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{MA1}
-  \strng{fullhash}{MA1}
-  \field{sortinit}{M}
-  \field{title}{A Classic Thesis Style by Andr{\'e} Miede}
+  \field{title}{Colosoft - Portal de productos y servicios informáticos}
   \verb{url}
-  \verb http://www.miede.de/index.php?page=classicthesis
+  \verb http://www.colosoft.com.co/
   \endverb
-  \field{year}{2011}
-  \field{urlday}{27}
-  \field{urlmonth}{05}
-  \field{urlyear}{2011}
+  \field{year}{2016}
+  \field{urlday}{12}
+  \field{urlmonth}{12}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{ref11}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Microsoft}{M.}%
+     {}{}%
+     {msdn}{m.}%
+     {}{}}%
+  }
+  \strng{namehash}{Mm1}
+  \strng{fullhash}{Mm1}
+  \field{sortinit}{M}
+  \field{title}{Fundamentos de la POO - MSDN - Microsoft}
+  \verb{url}
+  \verb https://msdn.microsoft.com/es-co/library/bb972232.aspx
+  \endverb
+  \field{year}{2016}
+  \field{urlday}{20}
+  \field{urlmonth}{01}
+  \field{urlyear}{2016}
+\endentry
+
+\entry{ref5}{inreference}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rubén González~Crespo}{R.~G.~C.}%
+     {Sandro Javier Bolaños~Castro}{S.~J. B.~C.}%
+     {y}{y}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {IEEE}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGCSJBCy1}
+  \strng{fullhash}{RGCSJBCy1}
+  \field{sortinit}{R}
+  \field{title}{A Software Architecture Proposal Artistic Engineering
+  Environment -AEE}
+  \field{year}{2012}
 \endentry
 
 \lossort
