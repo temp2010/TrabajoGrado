@@ -1,181 +1,180 @@
 \begin{theindex}
 
-  \item Abstracci\IeC {\'o}n, \hyperpage{50}, \hyperpage{52}, 
-		\hyperpage{54}, \hyperpage{56}, \hyperpage{58}, 
-		\hyperpage{60}, \hyperpage{64}, \hyperpage{67}, 
-		\hyperpage{69}, \hyperpage{71}, \hyperpage{76}, 
-		\hyperpage{78}, \hyperpage{81}, \hyperpage{83}, 
-		\hyperpage{85}, \hyperpage{88}, \hyperpage{92}, 
-		\hyperpage{94}, \hyperpage{96}, \hyperpage{98}, 
-		\hyperpage{100}, \hyperpage{102}, \hyperpage{106}, 
-		\hyperpage{108}, \hyperpage{110}
-  \item ADM, \hyperpage{23--27}, \hyperpage{34}
-  \item Android, \hyperpage{125}
-  \item Aplicaci\IeC {\'o}n, \hyperpage{28}, \hyperpage{34}, 
-		\hyperpage{58}, \hyperpage{60}, \hyperpage{63, 64}, 
-		\hyperpage{66--73}, \hyperpage{78}, \hyperpage{85}, 
-		\hyperpage{88}, \hyperpage{92}, \hyperpage{100}, 
-		\hyperpage{102}, \hyperpage{110}, \hyperpage{132}
-  \item Archimate, \hyperpage{1}, \hyperpage{6}, \hyperpage{27}, 
-		\hyperpage{33}, \hyperpage{35}, \hyperpage{46}, 
-		\hyperpage{49}, \hyperpage{63}, \hyperpage{75}, 
-		\hyperpage{91}, \hyperpage{105}, \hyperpage{115}, 
-		\hyperpage{129}, \hyperpage{139}
-  \item Arquitectura Empresarial, \hyperpage{1}, \hyperpage{6}, 
-		\hyperpage{17}, \hyperpage{19}, \hyperpage{21}, 
-		\hyperpage{23, 24}, \hyperpage{45}, \hyperpage{49}, 
-		\hyperpage{63}, \hyperpage{75}, \hyperpage{91}, 
-		\hyperpage{105}, \hyperpage{115}, \hyperpage{129}, 
-		\hyperpage{139}
-  \item Arquitectura Tecnol\IeC {\'o}gica, \hyperpage{24, 25}
-  \item Artefacto, \hyperpage{134}
-  \item Asignaci\IeC {\'o}n, \hyperpage{134}
+  \item Abstracci\IeC {\'o}n, \hyperpage{63}, \hyperpage{65}, 
+		\hyperpage{67}, \hyperpage{69}, \hyperpage{71}, 
+		\hyperpage{73}, \hyperpage{79}, \hyperpage{82}, 
+		\hyperpage{84}, \hyperpage{86}, \hyperpage{91}, 
+		\hyperpage{93}, \hyperpage{96}, \hyperpage{98}, 
+		\hyperpage{100}, \hyperpage{103}, \hyperpage{107}, 
+		\hyperpage{109}, \hyperpage{111}, \hyperpage{113}, 
+		\hyperpage{115}, \hyperpage{117}, \hyperpage{123}, 
+		\hyperpage{125}, \hyperpage{127}
+  \item ADM, \hyperpage{32--36}, \hyperpage{43}
+  \item Android, \hyperpage{142}
+  \item Aplicaci\IeC {\'o}n, \hyperpage{37}, \hyperpage{43}, 
+		\hyperpage{71}, \hyperpage{73}, \hyperpage{77}, 
+		\hyperpage{79}, \hyperpage{81--88}, \hyperpage{93}, 
+		\hyperpage{100}, \hyperpage{103}, \hyperpage{107}, 
+		\hyperpage{115}, \hyperpage{117}, \hyperpage{127}, 
+		\hyperpage{151}
+  \item Archimate, \hyperpage{1}, \hyperpage{7}, \hyperpage{36}, 
+		\hyperpage{42}, \hyperpage{44}, \hyperpage{57}, 
+		\hyperpage{61}, \hyperpage{77}, \hyperpage{89}, 
+		\hyperpage{105}, \hyperpage{121}, \hyperpage{131}, 
+		\hyperpage{147}
+  \item Arquitectura Empresarial, \hyperpage{1}, \hyperpage{7}, 
+		\hyperpage{23}, \hyperpage{26}, \hyperpage{29}, 
+		\hyperpage{32, 33}, \hyperpage{55}, \hyperpage{61}, 
+		\hyperpage{77}, \hyperpage{89}, \hyperpage{105}, 
+		\hyperpage{121}, \hyperpage{131}, \hyperpage{147}
+  \item Arquitectura Tecnol\IeC {\'o}gica, \hyperpage{33, 34}
+  \item Artefacto, \hyperpage{153}
+  \item Asignaci\IeC {\'o}n, \hyperpage{153}
 
   \indexspace
 
-  \item Coherencia, \hyperpage{50}, \hyperpage{54}, \hyperpage{58}, 
-		\hyperpage{60}, \hyperpage{64}, \hyperpage{67}, 
-		\hyperpage{71}, \hyperpage{76}, \hyperpage{78}, 
-		\hyperpage{81}, \hyperpage{85}, \hyperpage{92}, 
-		\hyperpage{94}, \hyperpage{96}, \hyperpage{98}, 
-		\hyperpage{100}, \hyperpage{102}
-  \item Colaboraci\IeC {\'o}n, \hyperpage{30, 31}, \hyperpage{130}, 
-		\hyperpage{132}
-  \item Coloso, \hyperpage{45, 46}
-  \item Comportamiento, \hyperpage{41}, \hyperpage{43}, \hyperpage{52}, 
-		\hyperpage{54}, \hyperpage{56}, \hyperpage{58}, 
-		\hyperpage{60}, \hyperpage{64}, \hyperpage{71}, 
-		\hyperpage{76}, \hyperpage{81}, \hyperpage{85}, 
-		\hyperpage{133}
-  \item Composici\IeC {\'o}n, \hyperpage{135}
-  \item Cooperaci\IeC {\'o}n, \hyperpage{51--53}, \hyperpage{58}, 
-		\hyperpage{66--68}
-  \item Cronograma, \hyperpage{11}, \hyperpage{16}
+  \item Coherencia, \hyperpage{63}, \hyperpage{67}, \hyperpage{71}, 
+		\hyperpage{73}, \hyperpage{79}, \hyperpage{82}, 
+		\hyperpage{86}, \hyperpage{91}, \hyperpage{93}, 
+		\hyperpage{96}, \hyperpage{100}, \hyperpage{107}, 
+		\hyperpage{109}, \hyperpage{111}, \hyperpage{113}, 
+		\hyperpage{115}, \hyperpage{117}
+  \item Colaboraci\IeC {\'o}n, \hyperpage{39, 40}, \hyperpage{149}, 
+		\hyperpage{151}
+  \item Coloso, \hyperpage{55}, \hyperpage{57}
+  \item Comportamiento, \hyperpage{52}, \hyperpage{54}, \hyperpage{65}, 
+		\hyperpage{67}, \hyperpage{69}, \hyperpage{71}, 
+		\hyperpage{73}, \hyperpage{79}, \hyperpage{86}, 
+		\hyperpage{91}, \hyperpage{96}, \hyperpage{100}, 
+		\hyperpage{152}
+  \item Composici\IeC {\'o}n, \hyperpage{154}
+  \item Cooperaci\IeC {\'o}n, \hyperpage{64--66}, \hyperpage{71}, 
+		\hyperpage{81--83}
+  \item Cronograma, \hyperpage{15}, \hyperpage{21}
 
   \indexspace
 
-  \item Desarrollo, \hyperpage{15}, \hyperpage{46}, \hyperpage{60}
-  \item Dise\IeC {\~n}ar, \hyperpage{50}, \hyperpage{52}, 
-		\hyperpage{54}, \hyperpage{56}, \hyperpage{58}, 
-		\hyperpage{60}, \hyperpage{64}, \hyperpage{67}, 
-		\hyperpage{69}, \hyperpage{71}, \hyperpage{76}, 
-		\hyperpage{78}, \hyperpage{81}, \hyperpage{83}, 
-		\hyperpage{85}, \hyperpage{88}, \hyperpage{92}, 
-		\hyperpage{94}, \hyperpage{96}, \hyperpage{98}, 
-		\hyperpage{100}, \hyperpage{102}, \hyperpage{108}, 
-		\hyperpage{110}
-
-  \indexspace
-
-  \item Especializaci\IeC {\'o}n, \hyperpage{136}
-  \item Estructura, \hyperpage{9}, \hyperpage{32}, \hyperpage{41, 42}, 
-		\hyperpage{52}, \hyperpage{56}, \hyperpage{64}, 
-		\hyperpage{67--69}, \hyperpage{83}, \hyperpage{106}, 
-		\hyperpage{110}, \hyperpage{134, 135}
-
-  \indexspace
-
-  \item Google, \hyperpage{125}
-
-  \indexspace
-
-  \item Historia, \hyperpage{108}
-  \item Hitachi, \hyperpage{22}
-
-  \indexspace
-
-  \item IBM, \hyperpage{22}
-  \item IEEE, \hyperpage{18}, \hyperpage{27}
-  \item Implementaci\IeC {\'o}n, \hyperpage{26}, \hyperpage{28}, 
-		\hyperpage{34, 35}, \hyperpage{80, 81}, 
-		\hyperpage{105}, \hyperpage{109, 110}, \hyperpage{137}
-  \item Infraestructura, \hyperpage{28}, \hyperpage{75, 76}, 
-		\hyperpage{78}, \hyperpage{133}
-  \item Ingenier\IeC {\'\i }a, \hyperpage{46}
-  \item Integridad, \hyperpage{71}, \hyperpage{99}
-  \item Interface, \hyperpage{42}, \hyperpage{130}, \hyperpage{132}
-  \item Internet, \hyperpage{77}, \hyperpage{82}
-
-  \indexspace
-
-  \item Linux, \hyperpage{82}, \hyperpage{125}
-
-  \indexspace
-
-  \item M\IeC {\'e}todo, \hyperpage{23}, \hyperpage{26}
-  \item Manejador, \hyperpage{136}
-  \item Metamodelo, \hyperpage{29}, \hyperpage{50--54}, 
-		\hyperpage{56--59}, \hyperpage{61}, \hyperpage{64, 65}, 
-		\hyperpage{67}, \hyperpage{69}, \hyperpage{71, 72}, 
-		\hyperpage{76, 77}, \hyperpage{79}, \hyperpage{81, 82}, 
-		\hyperpage{84}, \hyperpage{86}, \hyperpage{88, 89}, 
-		\hyperpage{92--95}, \hyperpage{97}, \hyperpage{99}, 
-		\hyperpage{101}, \hyperpage{103}, \hyperpage{107--110}
-  \item Migraci\IeC {\'o}n, \hyperpage{26}, \hyperpage{28}, 
-		\hyperpage{34, 35}, \hyperpage{105}, 
-		\hyperpage{108--110}, \hyperpage{137}
-  \item Minstituto, \hyperpage{51}, \hyperpage{59}, \hyperpage{62}, 
-		\hyperpage{68}, \hyperpage{80}, \hyperpage{82}, 
-		\hyperpage{97}
-  \item MySQL, \hyperpage{82}
-
-  \indexspace
-
-  \item Negocio, \hyperpage{23--26}, \hyperpage{28}, \hyperpage{49}, 
-		\hyperpage{54--58}, \hyperpage{60}, \hyperpage{71}, 
-		\hyperpage{85}, \hyperpage{88}, \hyperpage{92}, 
-		\hyperpage{130, 131}
-
-  \indexspace
-
-  \item Open Group, \hyperpage{18}, \hyperpage{22}, \hyperpage{27}
-  \item Organizaci\IeC {\'o}n, \hyperpage{50}, \hyperpage{52}, 
-		\hyperpage{54}, \hyperpage{80, 81}, \hyperpage{88}
-
-  \indexspace
-
-  \item Patr\IeC {\'o}n, \hyperpage{122}, \hyperpage{124, 125}, 
+  \item Desarrollo, \hyperpage{20}, \hyperpage{57}, \hyperpage{73}
+  \item Dise\IeC {\~n}ar, \hyperpage{63}, \hyperpage{65}, 
+		\hyperpage{67}, \hyperpage{69}, \hyperpage{71}, 
+		\hyperpage{73}, \hyperpage{79}, \hyperpage{82}, 
+		\hyperpage{84}, \hyperpage{86}, \hyperpage{91}, 
+		\hyperpage{93}, \hyperpage{96}, \hyperpage{98}, 
+		\hyperpage{100}, \hyperpage{103}, \hyperpage{107}, 
+		\hyperpage{109}, \hyperpage{111}, \hyperpage{113}, 
+		\hyperpage{115}, \hyperpage{117}, \hyperpage{125}, 
 		\hyperpage{127}
-  \item PHP, \hyperpage{82}
-  \item Planificaci\IeC {\'o}n, \hyperpage{13}, \hyperpage{15}, 
-		\hyperpage{26}, \hyperpage{32}
-  \item POO, \hyperpage{38}
-  \item Principio, \hyperpage{8}, \hyperpage{33}, \hyperpage{98, 99}, 
-		\hyperpage{136}
-  \item Proceso, \hyperpage{9, 10}, \hyperpage{55--58}, \hyperpage{85}, 
-		\hyperpage{130}
-  \item Producto, \hyperpage{14, 15}, \hyperpage{59--62}, 
-		\hyperpage{131}
-  \item Programaci\IeC {\'o}n, \hyperpage{38, 39}
 
   \indexspace
 
-  \item Salvaguardar, \hyperpage{99}
-  \item Scrum, \hyperpage{12--16}
-  \item Servicio, \hyperpage{29}, \hyperpage{85}, \hyperpage{131--133}
-  \item Simbolog\IeC {\'\i }a, \hyperpage{129}, \hyperpage{131, 132}, 
-		\hyperpage{134--137}, \hyperpage{139}
-  \item Software, \hyperpage{46}, \hyperpage{86}, \hyperpage{133}, 
-		\hyperpage{139}
-  \item Sprint, \hyperpage{12--15}
-  \item Stakeholder, \hyperpage{12}, \hyperpage{50--52}, \hyperpage{54}, 
-		\hyperpage{56}, \hyperpage{58}, \hyperpage{60}, 
-		\hyperpage{64}, \hyperpage{67}, \hyperpage{69}, 
-		\hyperpage{71}, \hyperpage{76}, \hyperpage{78}, 
-		\hyperpage{81}, \hyperpage{83}, \hyperpage{85}, 
-		\hyperpage{88}, \hyperpage{92}, \hyperpage{94}, 
+  \item Especializaci\IeC {\'o}n, \hyperpage{155}
+  \item Estructura, \hyperpage{12}, \hyperpage{41}, \hyperpage{52, 53}, 
+		\hyperpage{65}, \hyperpage{69}, \hyperpage{79}, 
+		\hyperpage{82--84}, \hyperpage{98}, \hyperpage{123}, 
+		\hyperpage{127}, \hyperpage{153, 154}
+
+  \indexspace
+
+  \item Google, \hyperpage{142}
+
+  \indexspace
+
+  \item Historia, \hyperpage{125}
+  \item Hitachi, \hyperpage{31}
+
+  \indexspace
+
+  \item IBM, \hyperpage{31}
+  \item IEEE, \hyperpage{25}, \hyperpage{36}
+  \item Implementaci\IeC {\'o}n, \hyperpage{35}, \hyperpage{37}, 
+		\hyperpage{43, 44}, \hyperpage{95, 96}, 
+		\hyperpage{121}, \hyperpage{126, 127}, \hyperpage{156}
+  \item Infraestructura, \hyperpage{37}, \hyperpage{89}, \hyperpage{91}, 
+		\hyperpage{93}, \hyperpage{152}
+  \item Ingenier\IeC {\'\i }a, \hyperpage{57}
+  \item Integridad, \hyperpage{86}, \hyperpage{114}
+  \item Interface, \hyperpage{53}, \hyperpage{149}, \hyperpage{151}
+  \item Internet, \hyperpage{92}, \hyperpage{97}
+
+  \indexspace
+
+  \item Linux, \hyperpage{97}, \hyperpage{142}
+
+  \indexspace
+
+  \item M\IeC {\'e}todo, \hyperpage{32}, \hyperpage{35}
+  \item Manejador, \hyperpage{155}
+  \item Metamodelo, \hyperpage{38}, \hyperpage{63--67}, 
+		\hyperpage{69--72}, \hyperpage{74}, \hyperpage{79, 80}, 
+		\hyperpage{82}, \hyperpage{84}, \hyperpage{86, 87}, 
+		\hyperpage{91, 92}, \hyperpage{94}, \hyperpage{96, 97}, 
+		\hyperpage{99}, \hyperpage{101}, \hyperpage{103, 104}, 
+		\hyperpage{107--110}, \hyperpage{112}, \hyperpage{114}, 
+		\hyperpage{116}, \hyperpage{118}, \hyperpage{124--127}
+  \item Migraci\IeC {\'o}n, \hyperpage{35}, \hyperpage{37}, 
+		\hyperpage{43, 44}, \hyperpage{121}, 
+		\hyperpage{125--127}, \hyperpage{156}
+  \item Minstituto, \hyperpage{64}, \hyperpage{72}, \hyperpage{75}, 
+		\hyperpage{83}, \hyperpage{95}, \hyperpage{97}, 
+		\hyperpage{112}
+  \item MySQL, \hyperpage{97}
+
+  \indexspace
+
+  \item Negocio, \hyperpage{32--35}, \hyperpage{37}, \hyperpage{61}, 
+		\hyperpage{67--71}, \hyperpage{73}, \hyperpage{86}, 
+		\hyperpage{100}, \hyperpage{103}, \hyperpage{107}, 
+		\hyperpage{149, 150}
+
+  \indexspace
+
+  \item Open Group, \hyperpage{25}, \hyperpage{31}, \hyperpage{36}
+  \item Organizaci\IeC {\'o}n, \hyperpage{63}, \hyperpage{65}, 
+		\hyperpage{67}, \hyperpage{95, 96}, \hyperpage{103}
+
+  \indexspace
+
+  \item Patr\IeC {\'o}n, \hyperpage{139}, \hyperpage{141, 142}, 
+		\hyperpage{144}
+  \item PHP, \hyperpage{97}
+  \item Planificaci\IeC {\'o}n, \hyperpage{18}, \hyperpage{20}, 
+		\hyperpage{35}, \hyperpage{41}
+  \item POO, \hyperpage{49}
+  \item Principio, \hyperpage{11}, \hyperpage{42}, \hyperpage{113, 114}, 
+		\hyperpage{155}
+  \item Proceso, \hyperpage{12, 13}, \hyperpage{68--71}, 
+		\hyperpage{100}, \hyperpage{149}
+  \item Producto, \hyperpage{19, 20}, \hyperpage{72--75}, 
+		\hyperpage{150}
+  \item Programaci\IeC {\'o}n, \hyperpage{49, 50}
+
+  \indexspace
+
+  \item Salvaguardar, \hyperpage{114}
+  \item Scrum, \hyperpage{17--21}
+  \item Servicio, \hyperpage{38}, \hyperpage{100}, \hyperpage{150--152}
+  \item Simbolog\IeC {\'\i }a, \hyperpage{147}, \hyperpage{150, 151}, 
+		\hyperpage{153--156}
+  \item Software, \hyperpage{57}, \hyperpage{101}, \hyperpage{152}
+  \item Sprint, \hyperpage{17--20}
+  \item Stakeholder, \hyperpage{17}, \hyperpage{63--65}, \hyperpage{67}, 
+		\hyperpage{69}, \hyperpage{71}, \hyperpage{73}, 
+		\hyperpage{79}, \hyperpage{82}, \hyperpage{84}, 
+		\hyperpage{86}, \hyperpage{91}, \hyperpage{93}, 
 		\hyperpage{96}, \hyperpage{98}, \hyperpage{100}, 
-		\hyperpage{102}, \hyperpage{106}, \hyperpage{108}, 
-		\hyperpage{110}, \hyperpage{136}
+		\hyperpage{103}, \hyperpage{107}, \hyperpage{109}, 
+		\hyperpage{111}, \hyperpage{113}, \hyperpage{115}, 
+		\hyperpage{117}, \hyperpage{123}, \hyperpage{125}, 
+		\hyperpage{127}, \hyperpage{155}
 
   \indexspace
 
-  \item Tecnolog\IeC {\'\i }a, \hyperpage{26}, \hyperpage{31}, 
-		\hyperpage{38}, \hyperpage{76}, \hyperpage{78}, 
-		\hyperpage{88}, \hyperpage{133, 134}
-  \item TIC, \hyperpage{92}, \hyperpage{94}, \hyperpage{96}, 
-		\hyperpage{98}, \hyperpage{100}, \hyperpage{102}, 
-		\hyperpage{106}, \hyperpage{110}
-  \item TOGAF, \hyperpage{22--28}, \hyperpage{35, 36}
+  \item Tecnolog\IeC {\'\i }a, \hyperpage{35}, \hyperpage{40}, 
+		\hyperpage{49}, \hyperpage{91}, \hyperpage{93}, 
+		\hyperpage{103}, \hyperpage{152, 153}
+  \item TIC, \hyperpage{107}, \hyperpage{109}, \hyperpage{111}, 
+		\hyperpage{113}, \hyperpage{115}, \hyperpage{117}, 
+		\hyperpage{123}, \hyperpage{127}
+  \item TOGAF, \hyperpage{31--37}, \hyperpage{44, 45}
 
 \end{theindex}

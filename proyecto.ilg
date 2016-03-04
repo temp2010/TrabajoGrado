@@ -14,8 +14,8 @@ Scanning input file proyecto.idx...
    -- Illegal space within numerals in second argument.
 !! Input index error (file = proyecto.idx, line = 7):
    -- Illegal space within numerals in second argument.
-.done (638 entries accepted, 7 rejected).
-Sorting entries........done (6537 comparisons).
-Generating output file proyecto.ind....done (181 lines written, 0 warnings).
+.done (634 entries accepted, 7 rejected).
+Sorting entries........done (6557 comparisons).
+Generating output file proyecto.ind....done (180 lines written, 0 warnings).
 Output written in proyecto.ind.
 Transcript written in proyecto.ilg.
